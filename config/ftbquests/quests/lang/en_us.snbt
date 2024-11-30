@@ -26,7 +26,7 @@
 	chapter_group.44E753EB6A5C541F.title: "Resource Generation"
 	chapter_group.799C57E4146F24A8.title: "Technology"
 	chapter_group.7DB43C7557896446.title: "Magic"
-	file.0000000000000001.title: "Evolution"
+	file.0000000000000001.title: "Little Bit Large"
 	quest.00BBFAADA2C905D4.quest_desc: ["&e64&r... This thing now generates a whole stack of energy!"]
 	quest.00BBFAADA2C905D4.quest_subtitle: "Not Quite The Redstone Solar Panel"
 	quest.00BBFAADA2C905D4.title: "&l&eRedstone Solar Panel"
@@ -2107,8 +2107,8 @@
 	]
 	quest.75566B910945A58D.quest_subtitle: "Teleport back and forth"
 	quest.75566B910945A58D.title: "&l&3EnderIO"
-	quest.75A4C6008C48EA66.quest_desc: ["Welcome to &9Evolution&f from &4Catalyst Studios&f! This is just the beginning and very much a WIP."]
-	quest.75A4C6008C48EA66.title: "Welcome to Evolution!"
+	quest.75A4C6008C48EA66.quest_desc: ["Welcome to &Little Bit Large&f from &4Catalyst Studios&f! This is just the beginning and very much a WIP."]
+	quest.75A4C6008C48EA66.title: "Welcome to Little Bit Large!"
 	quest.75AA4C3AD7901E39.quest_desc: [
 		"For those of you who want to get right to the point the book has a button on the top right side where you can mark all open tabs as read."
 		""

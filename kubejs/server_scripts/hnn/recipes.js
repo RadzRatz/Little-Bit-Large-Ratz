@@ -1,5 +1,5 @@
 /* 
-This script is property of Catalyst Studios for use in the modpack Evolution. It is under the All Rights Reserved license.
+This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.
 It cannot be used or modified outside of Catalyst Studios without explicit permission from Catalyst Studios.
 */
 ServerEvents.recipes( catalyst => {  
@@ -259,6 +259,6 @@ ServerEvents.recipes( catalyst => {
    })
    
    /* 
-   This script is property of Catalyst Studios for use in the modpack Evolution. It is under the All Rights Reserved license.
+   This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.
    It cannot be used or modified outside of Catalyst Studios without explicit permission from Catalyst Studios.
    */
