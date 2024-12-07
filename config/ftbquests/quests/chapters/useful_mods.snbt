@@ -1423,7 +1423,10 @@
 			dependencies: ["77E4F1F6EEB85DBA"]
 			hide_dependency_lines: true
 			icon: {
-				id: "kubejs:tiny_coal"
+				components: {
+					"ftbquests:missing_item": "kubejs:tiny_coal"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "6A1F6F3694025B4A"
 			optional: true
