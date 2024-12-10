@@ -16,4 +16,5 @@ RecipeViewerEvents.removeEntries('item', catalyst => {
     catalyst.remove('reliquary:alkahestry_tome')
     catalyst.remove('energizedpower:crafting/time_controller')
     catalyst.remove('energizedpower:crafting/weather_controller')
+    catalyst.remove('quarryplus:adv_quarry')
 })
