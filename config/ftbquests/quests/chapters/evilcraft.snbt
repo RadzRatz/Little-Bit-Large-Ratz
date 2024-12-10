@@ -1095,19 +1095,12 @@
 				}
 			]
 			shape: "square"
-			tasks: [
-				{
-					id: "366EA700C0025E97"
-					item: { count: 1, id: "evilcraft:hardened_blood" }
-					type: "item"
-				}
-				{
-					count: 9L
-					id: "53855F28639AEEE5"
-					item: { count: 9, id: "evilcraft:hardened_blood_shard" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				count: 9L
+				id: "53855F28639AEEE5"
+				item: { count: 9, id: "evilcraft:hardened_blood_shard" }
+				type: "item"
+			}]
 			x: 5.5d
 			y: -6.0d
 		}
@@ -1321,6 +1314,7 @@
 		{
 			dependencies: ["7D5439BA46732CEB"]
 			id: "6A4C0711EE98332C"
+			optional: true
 			rewards: [
 				{
 					id: "28165F34F662EC46"
@@ -1410,6 +1404,19 @@
 		{
 			dependencies: ["27E705A8E21A5236"]
 			id: "01948A35B9155A51"
+			rewards: [
+				{
+					id: "0EAA96192AC6D8EA"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F084E5705062946"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "131BAB153F11DA2F"
 				item: { count: 1, id: "evilcraft:blood_orb_filled" }
@@ -1481,6 +1488,19 @@
 				"337B78F388379849"
 			]
 			id: "62AE066A0F40D92D"
+			rewards: [
+				{
+					id: "0D531D5BBC808AC0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "36B100C86E2AE695"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "705538DA57DD9A8C"
 				item: { count: 1, id: "evilcraft:piercing_vengeance_focus" }
@@ -1546,6 +1566,19 @@
 				"168EED6FD983AC79"
 			]
 			id: "2ABDA47F00454485"
+			rewards: [
+				{
+					id: "40DA85ACA91FF375"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "26ED1743DA662772"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "10724FCDB0B62CAD"
 				item: { count: 1, id: "evilcraft:vengeance_essence" }
@@ -1706,6 +1739,19 @@
 		{
 			dependencies: ["2DF5FEC4EEC8EFA7"]
 			id: "4DC0C27803D50263"
+			rewards: [
+				{
+					id: "743FED1FB8C063E3"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48911A7542B9E102"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -1719,6 +1765,19 @@
 		{
 			dependencies: ["4DC0C27803D50263"]
 			id: "377ACEE73AB75017"
+			rewards: [
+				{
+					id: "7873563976335E07"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "43BFA3775DA40550"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "4C6183F5706FFA54"
 				item: { count: 1, id: "evilcraft:corrupted_tear" }
@@ -1734,6 +1793,19 @@
 				"377ACEE73AB75017"
 			]
 			id: "7D6918148F7ABC42"
+			rewards: [
+				{
+					id: "7A45D180343565D3"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "19EAB37E861C1908"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "4437BD0126C8FD94"
 				item: { count: 1, id: "evilcraft:vengeance_essence_materialized" }
@@ -1748,6 +1820,19 @@
 				id: "evilcraft:environmental_accumulator"
 			}
 			id: "5C5BF198EA21687B"
+			rewards: [
+				{
+					id: "33AA8B8AD3A03B83"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "415EBB4C7BF7706E"
+					table_id: 7861254380962152486L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "0FA390F4541F9D5D"
 				structure: "evilcraft:dark_temple"
@@ -1773,6 +1858,19 @@
 		{
 			dependencies: ["7D6918148F7ABC42"]
 			id: "441A4E147ABA2ED2"
+			rewards: [
+				{
+					id: "789989D04958B0B3"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48B83272267979F2"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			size: 2.0d
 			tasks: [{
 				id: "594951F795F0DC8A"
@@ -1785,6 +1883,19 @@
 		{
 			dependencies: ["441A4E147ABA2ED2"]
 			id: "470B3C3DBE33EBEE"
+			rewards: [
+				{
+					id: "3EC23B0F50524DAF"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "61AD514D94BA62AB"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "1084EF10C86A452B"
 				item: { count: 1, id: "evilcraft:flesh_rejuvenated" }
@@ -1818,6 +1929,19 @@
 		{
 			dependencies: ["441A4E147ABA2ED2"]
 			id: "737BD9A02ABD450F"
+			rewards: [
+				{
+					id: "08566AD056D88BFA"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5387EB2B93C5D5D2"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "66A76195458E4DB5"
 				item: { count: 1, id: "evilcraft:primed_pendant" }
@@ -1829,6 +1953,19 @@
 		{
 			dependencies: ["441A4E147ABA2ED2"]
 			id: "0120F94F0DB55575"
+			rewards: [
+				{
+					id: "6B81880EE6C7D5B4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0196C60ADE5506A3"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "59422F1788E25E24"
 				item: { count: 1, id: "evilcraft:spectral_glasses" }
@@ -1840,6 +1977,19 @@
 		{
 			dependencies: ["46757A5368C5CA31"]
 			id: "165A7D91617BACC0"
+			rewards: [
+				{
+					id: "415366C825EC145A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5F4356DBC4559598"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "329273F723CFDDBC"
 				item: { components: { "evilcraft:weather_container_type": "EMPTY" }, count: 1, id: "evilcraft:weather_container" }
@@ -1851,6 +2001,11 @@
 		{
 			dependencies: ["165A7D91617BACC0"]
 			id: "7509E3311610BE2B"
+			rewards: [{
+				id: "2172A0BD0FDFFE62"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "36BACDC7AB67734A"
 				item: { components: { "evilcraft:weather_container_type": "RAIN", "minecraft:rarity": "uncommon" }, count: 1, id: "evilcraft:weather_container" }
@@ -1884,6 +2039,11 @@
 		{
 			dependencies: ["165A7D91617BACC0"]
 			id: "21248F5410430924"
+			rewards: [{
+				id: "6A36CFF502898945"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "13DD798395231CB2"
 				item: { components: { "evilcraft:weather_container_type": "LIGHTNING", "minecraft:rarity": "rare" }, count: 1, id: "evilcraft:weather_container" }
@@ -1917,6 +2077,11 @@
 		{
 			dependencies: ["165A7D91617BACC0"]
 			id: "45CEDE5DDED5ADC2"
+			rewards: [{
+				id: "5880E89C75601F72"
+				type: "xp"
+				xp: 100
+			}]
 			tasks: [{
 				id: "463BD57E047D155F"
 				item: { components: { "evilcraft:weather_container_type": "CLEAR", "minecraft:rarity": "uncommon" }, count: 1, id: "evilcraft:weather_container" }
@@ -1941,6 +2106,19 @@
 		{
 			dependencies: ["75719D26D5D57A77"]
 			id: "0D205F4DB23CF931"
+			rewards: [
+				{
+					id: "7B2370BE12C5E78B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0268B4B60AFEB53D"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "0D123D9728104AE9"
 				item: { count: 1, id: "evilcraft:necromancer_staff" }
@@ -1979,6 +2157,19 @@
 		{
 			dependencies: ["377ACEE73AB75017"]
 			id: "1A50F92606009C54"
+			rewards: [
+				{
+					id: "72EAB35D94401DCB"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0D88E20B34FEBBD1"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				count: 2L
 				id: "2E0CC1323EDC274F"
@@ -2039,6 +2230,7 @@
 		{
 			dependencies: ["348C191492897716"]
 			id: "522CADC3ADB94B74"
+			optional: true
 			rewards: [
 				{
 					id: "4F85CD3322365E80"
@@ -2067,11 +2259,19 @@
 				"594951F795F0DC8A"
 			]
 			id: "610C7735CF3C7BF5"
-			rewards: [{
-				id: "6E1045D5C10EF25F"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "6E1045D5C10EF25F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3FB1FF55717093FB"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			shape: "octagon"
 			size: 2.5d
 			tasks: [{
@@ -2085,6 +2285,11 @@
 		{
 			dependencies: ["470B3C3DBE33EBEE"]
 			id: "5571630621763AA6"
+			rewards: [{
+				id: "646574150FF7603A"
+				type: "xp"
+				xp: 100
+			}]
 			size: 0.5d
 			tasks: [{
 				id: "467CAFDA51DC3CEB"
@@ -2099,6 +2304,7 @@
 				id: "evilcraft:exalted_crafter"
 			}
 			id: "7AB09B6B6E9206C4"
+			optional: true
 			rewards: [
 				{
 					id: "487FDF56438CAC25"
@@ -2126,11 +2332,20 @@
 				id: "evilcraft:exalted_crafter_empowered"
 			}
 			id: "0FB79B7ACDEDBA93"
-			rewards: [{
-				id: "291E371AD48A8022"
-				type: "xp"
-				xp: 100
-			}]
+			optional: true
+			rewards: [
+				{
+					id: "291E371AD48A8022"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "232FD884E5F65254"
+					table_id: 7993620925747020567L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "6E08378CF30A85D7"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:exaltedcrafter/tier/2)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -2252,6 +2467,11 @@
 			dependencies: ["610C7735CF3C7BF5"]
 			hide_dependency_lines: true
 			id: "06FD532ABD84C9EA"
+			rewards: [{
+				id: "11822B5435B7E7DD"
+				type: "xp"
+				xp: 100
+			}]
 			shape: "octagon"
 			size: 3.0d
 			tasks: [{
@@ -2283,6 +2503,19 @@
 		{
 			dependencies: ["2DF5FEC4EEC8EFA7"]
 			id: "1675C8DEA382FCA1"
+			rewards: [
+				{
+					id: "2C186FBD7D29845A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "06E8C5336004CCB6"
+					table_id: 3759069393806334981L
+					type: "loot"
+				}
+			]
 			tasks: [{
 				id: "0BCA0E08D4752E8C"
 				item: { count: 1, id: "evilcraft:potentia_sphere" }
