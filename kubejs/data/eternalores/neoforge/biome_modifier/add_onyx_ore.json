@@ -1,0 +1,6 @@
+{
+    "type": "neoforge:none",
+    "biomes": "#minecraft:is_overworld",
+    "features": "eternalores:onyx_ore_placed",
+    "step": "underground_ores"
+}
