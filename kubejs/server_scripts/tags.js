@@ -30,6 +30,26 @@ ServerEvents.tags('item', catalyst => {
     //Exalted Crafter Powered
     catalyst.add('c:exaltedcrafter/tier/2', 'evilcraft:exalted_crafter_wooden_empowered')
     catalyst.add('c:exaltedcrafter/tier/2', 'evilcraft:exalted_crafter_empowered')
+
+    //adds missing item tags to saplings
+    let saptag = (saplings) => { catalyst.add('minecraft:saplings', saplings)}
+    saptag('productivetrees:black_ember_sapling')
+    saptag('productivetrees:brown_amber_sapling')
+    saptag('productivetrees:cave_dweller_sapling')
+    saptag('productivetrees:firecracker_sapling')
+    saptag('productivetrees:flickering_sun_sapling')
+    saptag('productivetrees:foggy_blast_sapling')
+    saptag('productivetrees:night_fuchsia_sapling')
+    saptag('productivetrees:purple_spiral_sapling')
+    saptag('biomesoplenty:red_maple_sapling')
+    saptag('productivetrees:rippling_willow_sapling')
+    saptag('productivetrees:slimy_delight_sapling')
+    saptag('productivetrees:soul_tree_sapling')
+    saptag('productivetrees:sparkle_cherry_sapling')
+    saptag('productivetrees:thunder_bolt_sapling')
+    saptag('productivetrees:time_traveller_sapling')
+    saptag('productivetrees:blue_yonder_sapling')
+    saptag('productivetrees:water_wonder_sapling')
 })
 
 //block tags
