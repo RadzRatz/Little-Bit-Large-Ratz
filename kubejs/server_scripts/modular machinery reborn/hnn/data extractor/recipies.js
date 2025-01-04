@@ -1,8 +1,12 @@
+/* 
+This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.
+It cannot be used or modified outside of Catalyst Studios without explicit permission from Catalyst Studios.
+*/
 ServerEvents.recipes(catalyst => {
     const maxAmount = 64;  // The upper cap for the output amount
     const minAmount = 1;   // The lower cap for the output amount (if needed)
-    const mintime = 1
-    const maxtime = 32
+    const mintime = 1;
+    const maxtime = 32;
 
     // Function to fabricate a recipe with dynamic inputs and output multiplier logic
     function fabricate(input_entity, catalyst_item, output, output_amount) {
