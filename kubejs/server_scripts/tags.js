@@ -30,6 +30,9 @@ ServerEvents.tags('item', catalyst => {
     //Exalted Crafter Powered
     catalyst.add('c:exaltedcrafter/tier/2', 'evilcraft:exalted_crafter_wooden_empowered')
     catalyst.add('c:exaltedcrafter/tier/2', 'evilcraft:exalted_crafter_empowered')
+
+    //Rubber Tag
+    catalyst.add('c:rubber', 'industrialforegoing:dryrubber')
 })
 
 //block tags
