@@ -54,9 +54,8 @@ ServerEvents.tags('block', catalyst => {
     buds_move("geore:budding_ruby"),
     buds_move("geore:budding_sapphire"),
     buds_move("geore:budding_topaz")
-    });
-
     catalyst.removeAll('productivebees:untickable')
+    });
 
 /* 
 This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.
