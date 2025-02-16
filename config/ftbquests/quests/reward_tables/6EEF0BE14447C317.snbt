@@ -1,7 +1,7 @@
 {
 	id: "6EEF0BE14447C317"
 	loot_size: 1
-	order_index: 2
+	order_index: 4
 	rewards: [
 		{ count: 7, item: { count: 1, id: "evilcraft:dark_power_gem" } }
 		{ item: { count: 1, id: "evilcraft:garmonbozia" }, weight: 0.001f }

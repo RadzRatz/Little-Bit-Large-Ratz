@@ -3,7 +3,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "sophisicated_backpacks"
-	group: "45275B7C3B114FEE"
+	group: "545321A0FD873ED4"
 	icon: {
 		id: "sophisticatedbackpacks:netherite_backpack"
 	}

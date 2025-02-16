@@ -4,7 +4,7 @@
 	}
 	id: "3E409B0EABC7C677"
 	loot_size: 1
-	order_index: 3
+	order_index: 5
 	rewards: [
 		{ count: 4, item: { count: 1, id: "ae2:logic_processor" } }
 		{ count: 4, item: { count: 1, id: "ae2:calculation_processor" } }
