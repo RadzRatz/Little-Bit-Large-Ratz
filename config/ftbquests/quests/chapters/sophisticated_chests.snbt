@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "sophisticated_chests"
-	group: "45275B7C3B114FEE"
+	group: "545321A0FD873ED4"
 	icon: {
 		components: {
 			"sophisticatedcore:accent_color": -5231066

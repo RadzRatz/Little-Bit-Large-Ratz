@@ -54,6 +54,7 @@ ServerEvents.tags('block', catalyst => {
     buds_move("geore:budding_ruby"),
     buds_move("geore:budding_sapphire"),
     buds_move("geore:budding_topaz")
+    catalyst.removeAll('productivebees:untickable')
     });
 
 /* 
