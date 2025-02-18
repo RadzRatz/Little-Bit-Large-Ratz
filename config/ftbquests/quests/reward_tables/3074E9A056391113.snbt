@@ -1,0 +1,38 @@
+{
+	icon: {
+		id: "minecraft:honey_block"
+	}
+	id: "3074E9A056391113"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			count: 16
+			item: {
+				count: 1
+				id: "productivebees:sturdy_bee_cage"
+			}
+			weight: 0.75f
+		}
+		{
+			count: 16
+			item: {
+				count: 1
+				id: "productivebees:wax"
+			}
+			weight: 0.75f
+		}
+		{
+			count: 3
+			item: {
+				count: 1
+				id: "productivebees:sugarbag_honeycomb"
+			}
+			weight: 0.75f
+		}
+		{ count: 10, item: { count: 1, id: "minecraft:honey_block" } }
+		{ count: 10, item: { count: 1, id: "minecraft:honeycomb_block" } }
+		{ item: { count: 1, id: "generatorgalore:honey_generator" }, weight: 0.04f }
+		{ item: { count: 1, id: "productivelib:upgrade_productivity" }, weight: 0.5f }
+	]
+}

@@ -1,4 +1,7 @@
 {
+	icon: {
+		id: "minecraft:gold_block"
+	}
 	id: "5281C2CE827B568B"
 	loot_size: 1
 	order_index: 9
