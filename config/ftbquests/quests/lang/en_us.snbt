@@ -79,6 +79,8 @@
 		"The pnc tanks are useful for this as they will hold multiple buckets so you don't have to sit there cycling buckets all day."
 	]
 	quest.01C22467B074967C.quest_subtitle: "Ice bath"
+	quest.021B7A0E87A969AD.title: "Draconic Bee"
+	quest.022A6FCC033F4FA1.title: "Leafcutter bee"
 	quest.023AEAAD31B7C79F.quest_desc: [
 		"The muffler upgrade helps conceal the router's presence. It has 3 levels:"
 		""
@@ -176,7 +178,9 @@
 		"#Range: 0 ~ 300"
 		"drygmyQuantityCap = 5"
 	]
+	quest.06D93FEF99C1385C.title: "Sussy Bee"
 	quest.06FD532ABD84C9EA.title: "&lThe Portal of All"
+	quest.071FE397CB2E98E4.title: "Fish Bee"
 	quest.073DE2F2007E5403.quest_desc: ["You get genes from the bees inside the hive, but it's too slow, go for the other method"]
 	quest.073DE2F2007E5403.quest_subtitle: "Genes"
 	quest.0781A4C9B5ED15F5.quest_desc: [
@@ -331,6 +335,7 @@
 		"The first tier however is purely just storage."
 	]
 	quest.0AE1D9E720C989FD.quest_subtitle: "Too much chalk?"
+	quest.0B590548E1FA4E1A.title: "Chocolate Mining Bee"
 	quest.0BB636E9C6105134.quest_desc: [
 		"&dWaystones&r mod adds multiple yet useful blocks for us to use!"
 		""
@@ -419,6 +424,7 @@
 	quest.0CEB2FA613B63E28.quest_subtitle: "Bigger nests"
 	quest.0CF08FDDD9D56E04.quest_desc: ["This satchel much like it previous tier allows you to store all your ritual materials this one however allows you to click on the ritual preview you place with the book and the satchel will place the right candle skull chalk or crystal."]
 	quest.0D205F4DB23CF931.quest_desc: ["The &dNecromancer's Staff&r is one of my favourite tools in all of Evilcraft. We can summon zombies to protect us from incoming damage and overwhelm our enemies... However, we still need blood to use this staff..."]
+	quest.0DB34FF7DC6B31CC.title: "Blue Banded Bee"
 	quest.0DB992CAB5B99494.quest_desc: ["Instead of combs, you get blocks, which are 4 combs, but they are quite expensive too"]
 	quest.0DB992CAB5B99494.quest_subtitle: "Blocky"
 	quest.0DF3C82DFF5E308A.quest_desc: [
@@ -576,6 +582,7 @@
 	]
 	quest.116C52D690CC1551.quest_subtitle: "Pretty op stuff..."
 	quest.116C52D690CC1551.title: "&l&4Apotheosis"
+	quest.1173CD14614D1F08.title: "BEE!"
 	quest.11AD62DE17CEDB14.quest_desc: [
 		"Otherworld logs are required for making chalk."
 		""
@@ -769,6 +776,7 @@
 		""
 		"&4(NOTE! does not regulate pressure in both ways.)&r"
 	]
+	quest.1C966B51149B598F.title: "Magmatic Bee"
 	quest.1CFF013971504D07.quest_desc: [
 		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
 		""
@@ -919,6 +927,7 @@
 	]
 	quest.2164219E306DCCEA.quest_subtitle: "Structure compass"
 	quest.2164219E306DCCEA.title: "&l&7Explorer's Compass"
+	quest.216C0477A265FD2E.title: "Green Carpenter Bee"
 	quest.2172EDCAEFA96592.quest_desc: ["Only useful if you have ender bees without simulation, which you shouldn't"]
 	quest.2172EDCAEFA96592.quest_subtitle: "Ender bees only"
 	quest.218624C62F3E436E.quest_desc: [
@@ -1067,6 +1076,7 @@
 		"Honestly, i suggest you forget about sunbathing and become a sentient walking being that generates &l&cenergy&r!"
 	]
 	quest.269D02D4BFFC0190.title: "Solar Helmet &lV1"
+	quest.271ED85A73CCEAF5.title: "Sculk Bee"
 	quest.273CC4D59C0D8731.quest_desc: [
 		"The mod &n&l&6Only Hammers&r adds a variety of hammers for us to mine big areas quickly!"
 		""
@@ -1223,6 +1233,7 @@
 	]
 	quest.2D31A67A30DD06D6.quest_subtitle: "in the form of blocks!"
 	quest.2D31A67A30DD06D6.title: "&l&1Infinite Water Sources"
+	quest.2D7DDADE52D33142.title: "Yellow Carpenter Bee"
 	quest.2D989ED723D100D3.quest_desc: [
 		"Ever wondered... Is there a pocket dimension similar to a &6Compact Machine&r?"
 		""
@@ -1615,6 +1626,7 @@
 	]
 	quest.3DFD32A1A229E04F.quest_subtitle: "now where did that trader go"
 	quest.3DFD32A1A229E04F.title: "local butcher"
+	quest.3E044FFF56666C0A.title: "Sugarbag Bee"
 	quest.3E24D52CA683A3F1.title: "Solar Helmet &l&cV4"
 	quest.3E884D06714017F1.quest_desc: [
 		"The crushers are used for ore multiplication."
@@ -1761,6 +1773,7 @@
 	]
 	quest.424808BE0E48D8C7.quest_subtitle: "GOT IT"
 	quest.424808BE0E48D8C7.title: "Metanocturnal"
+	quest.43282721A9578C0D.title: "Ghostly Bee"
 	quest.4364D54A37B97D40.quest_desc: [
 		"Resource generation is vital for this type of Modpacks."
 		""
@@ -2000,6 +2013,7 @@
 	]
 	quest.4D71091DD793653C.quest_subtitle: "Sorry for the beed jokes"
 	quest.4D71091DD793653C.title: "Collect honey"
+	quest.4D89C29C788AB9AD.title: "Mason Bee"
 	quest.4DA0BC20061D0D9A.quest_desc: ["Where the lamp does its work"]
 	quest.4DC0C27803D50263.quest_desc: [
 		"The last tier of promises we will need and use in all of Evilcraft... "
@@ -2215,6 +2229,7 @@
 		"Why are you killing your draconic bees to get a gene?"
 	]
 	quest.57D04ED4D6D227E8.quest_subtitle: "DON'T DO IT"
+	quest.57DC578CF4D74936.title: "Digger Bee"
 	quest.5847A76DAFC0F4C2.quest_desc: ["Powerful sensor that's capable of reading a large variety of different states in the world as well as wireless redstone."]
 	quest.5847A76DAFC0F4C2.quest_subtitle: "I see you"
 	quest.58D0DF58E56F6CBC.quest_desc: [
@@ -2237,6 +2252,7 @@
 	]
 	quest.5A83782E4EB80DB5.quest_subtitle: "Forbidden knowledge"
 	quest.5A83782E4EB80DB5.title: "Spiritual Guide"
+	quest.5B4289D140387AC8.title: "Nomad Bee"
 	quest.5BBC3C0F5B59E7F8.quest_desc: [
 		"Give a redstone signal like a lever to this machine and it will start to fuse genes."
 		""
@@ -2531,6 +2547,7 @@
 	]
 	quest.6609A4E0D6EE9C8D.quest_desc: ["useful for removing chalk"]
 	quest.6609A4E0D6EE9C8D.quest_subtitle: "Get scrubbing"
+	quest.6698EBDC4EE4D39A.title: "Neon Bee"
 	quest.67123063EB5567FC.quest_desc: [
 		"In this modpack we have plenty of storages for us to use."
 		""
@@ -3061,6 +3078,7 @@
 		"Sadly this cannot be done for the fruits"
 	]
 	quest.7D9A534A53DB60E2.title: "Transmutation"
+	quest.7DB4270301980965.title: "Ashy Mining Bee"
 	quest.7DD1FD32851C81F5.quest_desc: [
 		"You want them on all machines except hives"
 		"Why? Because hives benefits a lot more from other upgrades"
@@ -3114,9 +3132,21 @@
 	]
 	quest.7F6E4C605AD3DC95.quest_subtitle: "In the form of a Broom!"
 	quest.7F6E4C605AD3DC95.title: "&l&eCreative Flight"
+	reward.0C1EEE583A1FF036.title: "To the trash"
+	reward_table.037CD8900A50DEEB.title: "Productive Bees Rewards -  Novice"
+	reward_table.150820B2DD9A43B7.title: "AE2 Rewards - Connected"
+	reward_table.2D08FEDBF3C31B07.title: "Storage Rewards - Basic"
+	reward_table.3074E9A056391113.title: "Productive Bees Rewards - Disciple"
 	reward_table.342AE5B27FDE9C05.title: "EvilCraft Tier II Rewards"
+	reward_table.3E409B0EABC7C677.title: "AE2 Rewards -  Powered"
+	reward_table.3EC409828CECE357.title: "AE2 Rewards - Radioactive"
+	reward_table.5281C2CE827B568B.title: "Storage Rewards - Advanced"
+	reward_table.53A9237E4D75200A.title: "AE2 Rewards -  Basic"
+	reward_table.5A488243B9E5D50F.title: "Storage Rewards - Ultimate"
+	reward_table.69ECC3693C66470B.title: "Storage Rewards - Primitive"
 	reward_table.6D18C935723B8026.title: "EvilCraft Tier I Rewards"
 	reward_table.6EEF0BE14447C317.title: "Evilcraft Tier III Rewards"
+	reward_table.70E4B58B275C350D.title: "Productive Bees Rewards - Bee Archon"
 	task.016D3E4B60878147.title: "Get a Leafcutter Bee"
 	task.05001251EFC0420F.title: "Click if you agree"
 	task.060E3DA4CBADE3A5.title: "Can it be done?"
@@ -3136,6 +3166,7 @@
 	task.10F64B1DF8F5EAEB.title: "Welcome"
 	task.111AAFA4BDCD1C7C.title: "Any Wrench"
 	task.1234CBD155863564.title: "Get a Draconic Bee"
+	task.170D1E9E011EEAAD.title: "Any #c:foods/soups"
 	task.17FDA62C6FC7A94A.title: "Get a Neon Cuckoo Bee"
 	task.188936236005F46F.title: "NBT"
 	task.1DCD086A56EC3F0E.title: "Observe a KamikazBee"
@@ -3175,6 +3206,7 @@
 	task.5B0AADC3E7194977.title: "Observe a Water Bee"
 	task.5C2550532A72D2A1.title: "Any fence that you can use a lead"
 	task.5D0957728FA7D785.title: "Eviliest of Mods..."
+	task.5D610984B50807B3.title: "Any #c:foods/raw_fish"
 	task.5DB4811C80BF9785.title: "Any fish rod"
 	task.5E3DB1BC6B461008.title: "Mod created by: &aBlayTheNinth"
 	task.5E777A42A4FB1ACF.title: "Auto breeder"

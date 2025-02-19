@@ -1,0 +1,16 @@
+{
+	icon: {
+		id: "minecraft:honeycomb"
+	}
+	id: "037CD8900A50DEEB"
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{ count: 10, item: { count: 1, id: "minecraft:honeycomb" } }
+		{ count: 10, item: { count: 1, id: "minecraft:honey_bottle" } }
+		{ count: 4, item: { count: 1, id: "minecraft:honey_block" } }
+		{ count: 4, item: { count: 1, id: "minecraft:honeycomb_block" } }
+		{ item: { count: 1, id: "mysticalagriculture:honey_seeds" }, weight: 0.06f }
+		{ count: 8, item: { count: 1, id: "mysticalagriculture:honey_essence" } }
+	]
+}

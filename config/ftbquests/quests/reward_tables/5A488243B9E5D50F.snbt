@@ -1,4 +1,7 @@
 {
+	icon: {
+		id: "minecraft:diamond_block"
+	}
 	id: "5A488243B9E5D50F"
 	loot_size: 1
 	order_index: 10
