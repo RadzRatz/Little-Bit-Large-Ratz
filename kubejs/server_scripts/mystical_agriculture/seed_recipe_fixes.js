@@ -88,7 +88,7 @@ ServerEvents.recipes( catalyst => {
         type: 'mysticalagriculture:infusion',
         input: { item: 'mysticalagriculture:prosperity_seed_base' },
         ingredients: [
-        { item: 'mysticalagriculture:prudentium_essence' },
+        { item: 'mysticalagriculture:imperium_essence' },
         { tag: 'c:ingots/steel' },
         { item: 'mysticalagriculture:imperium_essence' },
         { tag: 'c:ingots/steel' },
