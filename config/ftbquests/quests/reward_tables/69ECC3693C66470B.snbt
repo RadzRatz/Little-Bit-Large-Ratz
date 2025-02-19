@@ -1,4 +1,7 @@
 {
+	icon: {
+		id: "minecraft:oak_planks"
+	}
 	id: "69ECC3693C66470B"
 	loot_size: 1
 	order_index: 3
