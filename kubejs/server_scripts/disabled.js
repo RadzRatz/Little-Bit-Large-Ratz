@@ -6,8 +6,6 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 ServerEvents.recipes(catalyst => {
     catalyst.remove('forcecraft:infuser/convert_time_torch')
     catalyst.remove('ae2:network/blocks/spatial_anchor')
-    catalyst.remove('easy_villagers:auto_trader')
-    catalyst.remove('easy_villagers:iron_farm')
     catalyst.remove('reliquary:alkahestry_tome')
     catalyst.remove('energizedpower:crafting/time_controller')
     catalyst.remove('energizedpower:crafting/weather_controller')
