@@ -17,4 +17,5 @@ RecipeViewerEvents.removeEntries('item', catalyst => {
     catalyst.remove('energizedpower:crafting/time_controller')
     catalyst.remove('energizedpower:crafting/weather_controller')
     catalyst.remove('quarryplus:adv_quarry')
+    catalyst.remove('quarryplus:remove_bedrock_module')
 })
