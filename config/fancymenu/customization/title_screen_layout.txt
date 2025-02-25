@@ -46,7 +46,7 @@ scroll_list_customization {
 
 element {
   button_element_executable_block_identifier = 27482e94-8e7e-4f86-aa09-2ee8da018500-1722387733306
-  [executable_action_instance:fed645d8-ea84-491f-a783-22bbec7045ad-1722387862223][action_type:openlink] = https://www.akliz.net/partners
+  [executable_action_instance:fed645d8-ea84-491f-a783-22bbec7045ad-1722387862223][action_type:openlink] = https://www.akliz.net/catalyst
   [executable_block:27482e94-8e7e-4f86-aa09-2ee8da018500-1722387733306][type:generic] = [executables:fed645d8-ea84-491f-a783-22bbec7045ad-1722387862223;]
   backgroundnormal = [source:local]/config/fancymenu/assets/button.png
   backgroundhovered = [source:local]/config/fancymenu/assets/buttonhover.png
