@@ -1,0 +1,433 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apothic_enchanting"
+	group: "7DB43C7557896446"
+	icon: {
+		id: "minecraft:enchanting_table"
+	}
+	id: "4E8B9F24557935B3"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "71832F62E0AD92C3"
+			tasks: [{
+				id: "378188B36D1EC503"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["617BBE7ACB125208"]
+			icon: {
+				id: "apothic_enchanting:seashelf"
+			}
+			id: "4EC0AED4959AB074"
+			rewards: [
+				{
+					id: "32D0FB893904FFE1"
+					item: {
+						count: 1
+						id: "apothic_enchanting:infused_seashelf"
+					}
+					type: "item"
+				}
+				{
+					id: "71BB0DFD29F45F94"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 15L
+				id: "28053582F22F4AEB"
+				item: { count: 1, id: "apothic_enchanting:seashelf" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			id: "617BBE7ACB125208"
+			tasks: [
+				{
+					id: "007FE66267DCA70E"
+					item: { count: 1, id: "minecraft:enchanting_table" }
+					type: "item"
+				}
+				{
+					count: 15L
+					id: "4E2CD8A254655D3A"
+					item: { count: 15, id: "minecraft:bookshelf" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4EC0AED4959AB074"]
+			id: "514B2D0B6F8E1E04"
+			tasks: [{
+				id: "3B70E524868E54BC"
+				item: { count: 1, id: "apothic_enchanting:infused_seashelf" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			id: "3A651E06C7FBF861"
+			tasks: [{
+				id: "1DF3A7F507C76CFE"
+				item: { count: 1, id: "apothic_enchanting:hellshelf" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "6D8AF09174D7779D"
+			tasks: [{
+				id: "3F7E270305D50C1B"
+				item: { count: 1, id: "apothic_enchanting:infused_hellshelf" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "6D93652BDFA881F0"
+			tasks: [{
+				id: "78A83BD1F8404338"
+				item: { count: 1, id: "apothic_enchanting:glowing_hellshelf" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			id: "35052C9371FE6843"
+			tasks: [{
+				id: "58E45E0664EF0EC3"
+				item: { count: 1, id: "apothic_enchanting:blazing_hellshelf" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			id: "162694C7F0BA16A9"
+			tasks: [{
+				id: "5B3F0CFF265AD7D1"
+				item: { count: 1, id: "apothic_enchanting:dormant_deepshelf" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			id: "5CF3600A45D365F5"
+			tasks: [{
+				id: "5EF9275D95984F52"
+				item: { count: 1, id: "apothic_enchanting:deepshelf" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			id: "6D4FB5CE5BA905D2"
+			tasks: [{
+				id: "56F1B6C818254886"
+				item: { count: 1, id: "apothic_enchanting:echoing_deepshelf" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "02D23779EC7C72E4"
+			tasks: [{
+				id: "53FA33E9669546AF"
+				item: { count: 1, id: "apothic_enchanting:soul_touched_deepshelf" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			id: "29ABE9033578C179"
+			tasks: [{
+				id: "065C86BC4D8CB208"
+				item: { count: 1, id: "apothic_enchanting:echoing_sculkshelf" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			id: "06193F4FCFE796C6"
+			tasks: [{
+				id: "4675B8F7C2FA180B"
+				item: { count: 1, id: "apothic_enchanting:soul_touched_sculkshelf" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			id: "0E96A0AEBFCAD34D"
+			tasks: [{
+				id: "799EFED29E256585"
+				item: { count: 1, id: "apothic_enchanting:geode_shelf" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			id: "04787EFC50B743C2"
+			tasks: [{
+				id: "13187CE059C0CD0F"
+				item: { count: 1, id: "apothic_enchanting:draconic_endshelf" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.5d
+		}
+		{
+			id: "69D74428BB9CC623"
+			tasks: [{
+				id: "622475B326852BF7"
+				item: { count: 1, id: "apothic_enchanting:treasure_shelf" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			id: "55B5FB4DF51A59B7"
+			tasks: [{
+				id: "51EEC618F35496A7"
+				item: { count: 1, id: "apothic_enchanting:filtering_shelf" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 1.5d
+		}
+		{
+			id: "2FE7E18D413274B6"
+			tasks: [{
+				id: "139CA3A960DC3F0A"
+				item: { count: 1, id: "apothic_enchanting:infused_breath" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			id: "7A1F575A64607749"
+			tasks: [{
+				id: "2C81EA1DA984DC32"
+				item: { count: 1, id: "apothic_enchanting:warden_tendril" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -1.0d
+		}
+		{
+			id: "6C10C757F924E1DD"
+			tasks: [{
+				id: "365C6EADBB5D3535"
+				item: { count: 1, id: "apothic_enchanting:library" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "35570C818FB1333F"
+			tasks: [{
+				id: "3FF7E314EA4F70B1"
+				item: { count: 1, id: "apothic_enchanting:ender_library" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			id: "01B5A1E674D7AF1E"
+			tasks: [{
+				id: "316D5CD9F5485C96"
+				item: { count: 1, id: "apothic_enchanting:inert_trident" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			id: "413527F17F167F3F"
+			tasks: [{
+				id: "516AB6A8A95004C9"
+				item: { count: 1, id: "minecraft:experience_bottle" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			id: "1C2725141CCA39D7"
+			tasks: [{
+				id: "6D933548C233336B"
+				item: { count: 1, id: "apothic_enchanting:improved_scrap_tome" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			id: "484B493059391887"
+			tasks: [{
+				id: "3F5A8C15087EC910"
+				item: { count: 1, id: "apothic_enchanting:extraction_tome" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			id: "3DF1A6F2F4DE5EA3"
+			tasks: [{
+				id: "6C0A3FD307655356"
+				item: { count: 1, id: "minecraft:golden_carrot" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			id: "51970F01EFF7AA39"
+			tasks: [{
+				id: "1765C8EAE9F2AFD4"
+				item: { count: 1, id: "minecraft:echo_shard" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			id: "0DB2F08E593B2B93"
+			tasks: [{
+				id: "65B0538E0FEBB1AF"
+				item: { count: 1, id: "minecraft:budding_amethyst" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			id: "774EF435A320B705"
+			tasks: [{
+				id: "55DC9A04832E44AF"
+				item: { components: { "minecraft:potion_contents": { potion: "minecraft:long_night_vision" }, "minecraft:unbreakable": { } }, count: 1, id: "apotheosis:potion_charm" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			id: "102001E8C574EFD3"
+			tasks: [{
+				id: "2707AD69005F2D73"
+				item: { count: 1, id: "minecraft:trident" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			id: "0CC33979932AF800"
+			tasks: [{
+				id: "553CBAAD511032AF"
+				item: { count: 1, id: "apothic_enchanting:seashelf" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "7B553B139ACE3695"
+			tasks: [{
+				id: "54C300E5BA1E734B"
+				item: { count: 1, id: "apothic_enchanting:infused_seashelf" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "51B99D1198D30855"
+			tasks: [{
+				id: "0EE5E785A4D5CFC2"
+				item: { count: 1, id: "apothic_enchanting:crystal_seashelf" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "2818BDCD7EDDDDDB"
+			tasks: [{
+				id: "7A71A993900E246C"
+				item: { count: 1, id: "apothic_enchanting:heart_seashelf" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "3C7D9A0E2C6583CE"
+			tasks: [{
+				id: "2E5E04C84BD8AF69"
+				item: { count: 1, id: "minecraft:heart_of_the_sea" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			id: "1B7D92A34E8743E2"
+			tasks: [{
+				id: "6C2E7D674F11A522"
+				item: { count: 1, id: "apothic_enchanting:melonshelf" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			id: "61EE5D51D5CB807B"
+			tasks: [{
+				id: "10A822136A95D8F1"
+				item: { count: 1, id: "apothic_enchanting:stoneshelf" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			id: "254B7CA3BF8C296B"
+			tasks: [{
+				id: "7585DFD7A841F5E9"
+				item: { count: 1, id: "apothic_enchanting:beeshelf" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+	]
+}
