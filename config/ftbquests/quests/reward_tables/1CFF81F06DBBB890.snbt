@@ -1,0 +1,203 @@
+{
+	icon: {
+		id: "minecraft:spawner"
+	}
+	id: "1CFF81F06DBBB890"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{
+			id: "187677341188DEE1"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"apothic_spawners:capturing": 1
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "1FAE2AF26C87ADCC"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"apothic_spawners:capturing": 2
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "433B8701AA40D85C"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"apothic_spawners:capturing": 3
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 0.25f
+		}
+		{
+			count: 6
+			id: "6BC688504F83A945"
+			item: {
+				count: 1
+				id: "minecraft:sugar"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{
+			count: 6
+			id: "080EA2923D1F54EA"
+			item: {
+				count: 1
+				id: "minecraft:clock"
+			}
+			random_bonus: 2
+			weight: 2.8f
+		}
+		{
+			id: "5DCE32A2F1497E5C"
+			item: {
+				count: 1
+				id: "minecraft:nether_star"
+			}
+			weight: 0.1f
+		}
+		{
+			count: 2
+			id: "4DF55C5A095321DE"
+			item: {
+				count: 1
+				id: "minecraft:pointed_dripstone"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			id: "65CE3BC821B621A3"
+			item: {
+				count: 1
+				id: "minecraft:soul_lantern"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "2AEA95712FFAA73C"
+			item: {
+				count: 1
+				id: "minecraft:chorus_fruit"
+			}
+			random_bonus: 1
+			weight: 0.18f
+		}
+		{
+			id: "2798C3A5CC51E480"
+			item: {
+				count: 1
+				id: "minecraft:conduit"
+			}
+			weight: 0.1f
+		}
+		{
+			count: 2
+			id: "4E1173417D924B89"
+			item: {
+				count: 1
+				id: "minecraft:comparator"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "7953D5D83D46DE20"
+			item: {
+				count: 1
+				id: "minecraft:piston"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "3F815AED239379E0"
+			item: {
+				count: 1
+				id: "minecraft:fermented_spider_eye"
+			}
+			random_bonus: 1
+			weight: 1.6f
+		}
+		{
+			count: 2
+			id: "49035FAF6FDBB005"
+			item: {
+				count: 1
+				id: "minecraft:ghast_tear"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "1F5CDB2E0A21DC9E"
+			item: {
+				count: 1
+				id: "minecraft:echo_shard"
+			}
+			random_bonus: 1
+			weight: 0.15f
+		}
+		{
+			id: "58D0E0A4E99130EC"
+			item: {
+				count: 1
+				id: "minecraft:campfire"
+			}
+			random_bonus: 2
+			weight: 2.1f
+		}
+		{
+			count: 2
+			id: "4CEFD7EC8EE216D0"
+			item: {
+				count: 1
+				id: "minecraft:white_wool"
+			}
+			random_bonus: 2
+			weight: 2.5f
+		}
+		{
+			id: "641E7182120FA4A2"
+			item: {
+				count: 1
+				id: "minecraft:turtle_egg"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 2
+			id: "4B50AC5C0D64D7A3"
+			item: {
+				count: 1
+				id: "minecraft:prismarine_crystals"
+			}
+			random_bonus: 2
+		}
+	]
+}

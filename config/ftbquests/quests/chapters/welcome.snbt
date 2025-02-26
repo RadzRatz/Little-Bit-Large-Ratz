@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "welcome"
 	group: ""
+	icon: {
+		id: "minecraft:oak_sapling"
+	}
 	id: "0701BDFECC9EA8CD"
 	order_index: 0
 	quest_links: [ ]
