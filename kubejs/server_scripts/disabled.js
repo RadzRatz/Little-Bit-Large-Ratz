@@ -13,6 +13,8 @@ ServerEvents.recipes(catalyst => {
     catalyst.remove('mekanism:upgrade_anchor')
     catalyst.remove('quarryplus:adv_quarry')
     catalyst.remove('quarryplus:remove_bedrock_module')
+    catalyst.remove('industrialforegoing:infinity_nuke')
+    catalyst.remove({id: 'productivebees:evilcraft/bloody_bee_2'})
     /*catalyst.remove('extradisks:disk/shaped/infinite_storage_disk')
     catalyst.remove('extradisks:blocks/infinite_storage_block')
     catalyst.remove('extradisks:part/infinite_storage_part')
