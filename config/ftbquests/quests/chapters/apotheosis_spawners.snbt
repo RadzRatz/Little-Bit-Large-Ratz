@@ -32,7 +32,7 @@
 				"Apothic Spawners"
 				"by Shadows_of_fire!"
 			]
-			image: "kubejs:textures/quest_images/apotheosis/apoth_spawn_logo.png.png"
+			image: "kubejs:textures/quest_images/apotheosis/apoth_spawn_logo.png"
 			rotation: 0.0d
 			width: 2.5d
 			x: -5.0d
