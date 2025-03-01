@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "mekanism_the_basics"
 	group: "799C57E4146F24A8"
+	icon: {
+		id: "mekanism:metallurgic_infuser"
+	}
 	id: "4BF27D0A53F14584"
 	images: [
 		{

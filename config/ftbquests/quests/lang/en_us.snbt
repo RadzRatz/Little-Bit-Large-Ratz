@@ -2,6 +2,7 @@
 	chapter.0701BDFECC9EA8CD.title: "Welcome!"
 	chapter.092F58C698EEBA75.title: "PneumaticCraft"
 	chapter.1287AC579F7832FE.title: "Occultism"
+	chapter.136E858245C7C7AD.title: "Apothic Spawners"
 	chapter.16058E3CD3AE6F74.title: "Routers"
 	chapter.160BB09BD6B3B0E2.title: "Xycraft: Machines"
 	chapter.184FD88EB54E4E86.title: "Applied Energistics 2 Examples"
@@ -10,13 +11,15 @@
 	chapter.1FE9C6E71A0B41E1.title: "Sophisticated Backpacks"
 	chapter.248AEB260B45DF6D.title: "LaserIO"
 	chapter.315076A74ED3C0B4.title: "Ars Nouveau"
+	chapter.33BD2251DF8E61AA.title: "Hostile Neural Networks"
 	chapter.376B718EFCF5AACE.title: "Functional Storage"
 	chapter.4143A153EDB194E8.title: "Pipez"
 	chapter.4A53A54E581CD0B3.title: "&a&lUseful&f Mods"
 	chapter.4BF27D0A53F14584.title: "Mekanism: The Basics"
-	chapter.4E8B9F24557935B3.title: "Apotheosis"
+	chapter.4E8B9F24557935B3.title: "Apothic Enchanting"
 	chapter.4ECE52DB829D7DC4.title: "Sophisticated Storage"
 	chapter.558E65AB78354674.title: "Energized Power"
+	chapter.60E93AB6224A9369.title: "Apotheosis"
 	chapter.661254AE0EBD66A8.title: "All of Macaw's Decorations"
 	chapter.6C942D6BA7090A71.title: "Productive Bees"
 	chapter.6D1B091BA4B10868.title: "&lSolar Generation"
@@ -179,6 +182,9 @@
 		"drygmyQuantityCap = 5"
 	]
 	quest.06D93FEF99C1385C.title: "Sussy Bee"
+	quest.06EA43B239BD0B56.quest_desc: [""]
+	quest.06EA43B239BD0B56.quest_subtitle: "The Beginning"
+	quest.06EA43B239BD0B56.title: "Your First Modifier!"
 	quest.06FD532ABD84C9EA.title: "&lThe Portal of All"
 	quest.071FE397CB2E98E4.title: "Fish Bee"
 	quest.073DE2F2007E5403.quest_desc: ["You get genes from the bees inside the hive, but it's too slow, go for the other method"]
@@ -424,9 +430,20 @@
 	quest.0CEB2FA613B63E28.quest_subtitle: "Bigger nests"
 	quest.0CF08FDDD9D56E04.quest_desc: ["This satchel much like it previous tier allows you to store all your ritual materials this one however allows you to click on the ritual preview you place with the book and the satchel will place the right candle skull chalk or crystal."]
 	quest.0D205F4DB23CF931.quest_desc: ["The &dNecromancer's Staff&r is one of my favourite tools in all of Evilcraft. We can summon zombies to protect us from incoming damage and overwhelm our enemies... However, we still need blood to use this staff..."]
+	quest.0DACD6F3077FBD20.quest_desc: [
+		"Apothic Spawners allows you to modify spawners to make them faster and more efficient!"
+		""
+		"Pick up any spawner using a &bSilk Touch&r pick!"
+		""
+		"You can change the spawned mob by right-clicking the spawner with its spawn egg."
+	]
+	quest.0DACD6F3077FBD20.title: "Apothic Spawners!"
 	quest.0DB34FF7DC6B31CC.title: "Blue Banded Bee"
 	quest.0DB992CAB5B99494.quest_desc: ["Instead of combs, you get blocks, which are 4 combs, but they are quite expensive too"]
 	quest.0DB992CAB5B99494.quest_subtitle: "Blocky"
+	quest.0DC883B46880A03C.quest_desc: ["Enchant a weapon with &bCapturing&r to have a chance of getting it's spawn egg!"]
+	quest.0DC883B46880A03C.quest_subtitle: "Which came first? The chicken or the egg?"
+	quest.0DC883B46880A03C.title: "Getting Spawn Eggs"
 	quest.0DF3C82DFF5E308A.quest_desc: [
 		"To get started  with Ars Nouveau you are going to need to get your hands on some Archwood planks."
 		""
@@ -756,6 +773,8 @@
 	quest.1A4A8AB28AEE3D91.title: "The Evil Pickaxe"
 	quest.1AD0B6FC4101DE41.quest_desc: ["This item acts like a remote terminal and allows you to access your storage from anywhere in your world."]
 	quest.1AD0B6FC4101DE41.title: "Remote Access"
+	quest.1AD8C1337F69E1C5.quest_desc: ["Makes the spawner require a &bredstone signal&r to function."]
+	quest.1AD8C1337F69E1C5.title: "Redstone Toggle"
 	quest.1AF45B00853ADE5F.quest_desc: [
 		"The Box of Eternal Enclosure will help us trap those annoying Vengeance Spirits."
 		""
@@ -989,6 +1008,13 @@
 	quest.234A684181B4B277.quest_desc: ["This is the highest tier of satchel and will construct the entire ritual if you click on the preview it will also allow you to instantly clean up the ritual by clicking on the ritual bowl"]
 	quest.237B43D294790EC9.quest_desc: ["For this bee, you need to use glowstone and be on &4The Nether&r"]
 	quest.237B43D294790EC9.quest_subtitle: "Turn off the light"
+	quest.240552BBF5D94EB1.quest_desc: [
+		"Mobs ignore spawn conditions and spawn in any condition."
+		""
+		"You don't need &bIgnore Light Level&r if you have this upgrade."
+	]
+	quest.240552BBF5D94EB1.quest_subtitle: "This spot looks good enough"
+	quest.240552BBF5D94EB1.title: "Ignore Spawn Conditions"
 	quest.2438C51737F1817B.quest_desc: [
 		"The Shrink mod adds the amazing &n&dShrinking Device&r, which will let you... SHRINK!"
 		""
@@ -1076,6 +1102,9 @@
 		"Honestly, i suggest you forget about sunbathing and become a sentient walking being that generates &l&cenergy&r!"
 	]
 	quest.269D02D4BFFC0190.title: "Solar Helmet &lV1"
+	quest.26D7A8C7156AB1F6.quest_desc: ["If you want to remove modifiers, just take that modifier item and hold a piece of &bNether Quartz&r in your &lOff-Hand&r to remove one level of modifier!"]
+	quest.26D7A8C7156AB1F6.quest_subtitle: "Everyone makes mistakes"
+	quest.26D7A8C7156AB1F6.title: "Removing Modifiers"
 	quest.271ED85A73CCEAF5.title: "Sculk Bee"
 	quest.273CC4D59C0D8731.quest_desc: [
 		"The mod &n&l&6Only Hammers&r adds a variety of hammers for us to mine big areas quickly!"
@@ -1354,6 +1383,13 @@
 		"It is also used to charge drones if you got a dispenser upgrade in it."
 	]
 	quest.3232A5D2408F36A7.quest_desc: ["Used to interact with logistics frames"]
+	quest.328025E9BA01FBDC.quest_desc: [
+		"The spawner no longer needs &bplayer nearby&r to spawn mobs."
+		""
+		"Great for farming while doing other things!"
+	]
+	quest.328025E9BA01FBDC.quest_subtitle: "I Don't Need You"
+	quest.328025E9BA01FBDC.title: "Ignore Players"
 	quest.32B17FE87968D864.quest_desc: [
 		"Expensive....."
 		""
@@ -1363,6 +1399,9 @@
 	quest.32CA71F95A2FE5D3.quest_desc: ["These bricks are used in various blocks in this mod like compressors and chargers etc."]
 	quest.32CA71F95A2FE5D3.quest_subtitle: "Though rock"
 	quest.32CA71F95A2FE5D3.title: "Reinforced stone"
+	quest.32E4322646FFF017.quest_desc: ["Mobs ignore light level and will spawn in any light level."]
+	quest.32E4322646FFF017.quest_subtitle: "I'm legally blind"
+	quest.32E4322646FFF017.title: "Ignore Light Level"
 	quest.341860979C6FB8C6.quest_desc: ["this image was set as a Placeholder for another one."]
 	quest.341860979C6FB8C6.title: "Placeholder"
 	quest.34296A48E28FE4F8.quest_desc: [
@@ -1743,6 +1782,13 @@
 		"{image:kubejs:textures/quest_images/ars_nouveau/enchanting_apparatus_auto.png width:100 height:150 align:center}"
 	]
 	quest.4055D1BC0E7E2C21.title: "Auto Enchanter"
+	quest.40D0DEDD660A301E.quest_desc: [
+		"Decreases the amount of health mobs spawned with."
+		""
+		"Each dripstone will &b-5% to initial health&r to a &bmin of 20% health&r."
+	]
+	quest.40D0DEDD660A301E.quest_subtitle: "Call an ambulance!"
+	quest.40D0DEDD660A301E.title: "Less Initial Health"
 	quest.40FF3CEA25F2CB54.quest_desc: [
 		"The pressure chamber the centerpiece of pnc,"
 		""
@@ -1792,6 +1838,7 @@
 	quest.43C7A0AFDBCB1D06.quest_desc: ["You need &6honey treats&r"]
 	quest.43C7A0AFDBCB1D06.quest_subtitle: "Stunning"
 	quest.44884F0AE8219EAB.quest_desc: ["The Arcane Pedestal is used to hold items for the essence crafting with the imbuement Chamber, for use with the Enchanting Apparatus. "]
+	quest.448F99A9197C7EAD.title: "Covered Cable"
 	quest.44A632CEC21C79E1.quest_desc: ["This makes the router immune to explosions and boss damage."]
 	quest.44A632CEC21C79E1.quest_subtitle: "Invincible"
 	quest.44D5D328F4A7375B.quest_desc: [
@@ -1807,6 +1854,13 @@
 	]
 	quest.44D5D328F4A7375B.quest_subtitle: "Cool Looking Blocks!"
 	quest.44D5D328F4A7375B.title: "&l&cChisels"
+	quest.45486AC8954F26C1.quest_desc: [
+		"Increases the range in which mobs spawn."
+		""
+		"Each piston will &b+2 spawn range&r to a &bmax of 32 blocks&r."
+	]
+	quest.45486AC8954F26C1.quest_subtitle: "Plenty of room to stretch"
+	quest.45486AC8954F26C1.title: "More Spawn Range"
 	quest.45CEDE5DDED5ADC2.quest_subtitle: "Sunshine of your Love?"
 	quest.45CEDE5DDED5ADC2.title: "Sunshine in a Bottle"
 	quest.4611B03649489FE8.quest_desc: [
@@ -1860,6 +1914,9 @@
 	quest.4821A8015B2F5FA1.quest_desc: ["One of the 4 chalks used in rituals."]
 	quest.48A0DC661D3F37C7.quest_desc: ["Alternatively candles can be made with wax or comb from bees "]
 	quest.48D68895FF14804B.quest_desc: ["If you've ever wanted an item catapult, here you go! It flings items based on the values you set in the GUI."]
+	quest.49235AB18DFE6AD7.quest_desc: ["Spawned mobs will always spawn as a baby if possible. "]
+	quest.49235AB18DFE6AD7.quest_subtitle: "&4You Monster&r"
+	quest.49235AB18DFE6AD7.title: "Youthful"
 	quest.495DE286325A307B.quest_desc: [
 		"This multiblock allows you to make advanced pressure tubes and allows you to make empty PCBs a lot easier without the whole light box and etching steps."
 		""
@@ -1911,6 +1968,8 @@
 	]
 	quest.4AB6901D51226E1B.quest_subtitle: "Don't say i didn't warn you"
 	quest.4AB6901D51226E1B.title: "Heat 103"
+	quest.4AEB916826B71BD3.quest_desc: ["The &2Overworld&r will be the start of your Apotheosis adventure."]
+	quest.4AEB916826B71BD3.title: "Visit the Overworld"
 	quest.4B3625968F4E4331.quest_subtitle: "Walk Faster and More Efficiently Effortlessly"
 	quest.4B3C04533F58F6C7.quest_desc: [
 		"Yep, a bee is like a pig or a horse, you can ride them."
@@ -1997,6 +2056,7 @@
 	]
 	quest.4C89C5F7446C15CD.quest_subtitle: "Explosivo"
 	quest.4C89C5F7446C15CD.title: "Under Pressure"
+	quest.4CB758202B13207D.title: "Dense Smart Cable"
 	quest.4CDF67A932172054.quest_desc: [
 		"We might've ran into some issues crafting these solar panels, but we finally done it..."
 		""
@@ -2051,6 +2111,7 @@
 		"&4Note:&r"
 		"&4Upgrades generally do not have access to all configurations; this is a custom feature specific to this pack.&r"
 	]
+	quest.4EC0AED4959AB074.quest_desc: ["Place down 15 &bSeashelves&r and infuse the last one into an Infused Seashelf. Replace one of the uninfused Seashelf with your Infused one and repeat this step until you have infused every shelf."]
 	quest.4FC8545E47191D01.quest_desc: [
 		"can do everything the other pipes can do, but all at once."
 		""
@@ -2139,6 +2200,7 @@
 		""
 		"Perfect to setup any &6farm&r that can get their drops!"
 	]
+	quest.54F0F61ECC99DA21.title: "Fluix Cable"
 	quest.551E66F2334C99EE.quest_desc: ["Used for auto crafting and auto brewing see book for more info."]
 	quest.556E67EC57457744.quest_desc: [
 		"Before diving into Pipez, there are a few things you should know about the mod."
@@ -2206,6 +2268,15 @@
 	]
 	quest.56FA78391A94AFE6.quest_desc: ["made in the assembly multiblock and allows you to handle 20 bars the highest the mod has to offer."]
 	quest.56FA78391A94AFE6.quest_subtitle: "20 Bar"
+	quest.5760A1BA7C6CDA67.quest_desc: [
+		"Decreases the maximum tick time between spawns. "
+		""
+		"Each clock will -20 ticks to the &bmax spawn delay&r."
+		""
+		"Minimum max spawn delay is &b20 ticks&r."
+	]
+	quest.5760A1BA7C6CDA67.quest_subtitle: "Upper bound"
+	quest.5760A1BA7C6CDA67.title: "Maximum Spawn Delay"
 	quest.5767DCAD635EB0D5.quest_desc: ["Your first successfully etched PCB all that's missing is the electronics."]
 	quest.5767DCAD635EB0D5.title: "PCB base"
 	quest.577615D670CC3BF1.quest_desc: ["Now, we are going to improve your bees, maybe you want to make a few draconic bees, because we are going to need them, again, in industrial quantities....."]
@@ -2232,6 +2303,7 @@
 	quest.57DC578CF4D74936.title: "Digger Bee"
 	quest.5847A76DAFC0F4C2.quest_desc: ["Powerful sensor that's capable of reading a large variety of different states in the world as well as wireless redstone."]
 	quest.5847A76DAFC0F4C2.quest_subtitle: "I see you"
+	quest.5888EC05989B8B92.title: "Dense Covered Cable"
 	quest.58D0DF58E56F6CBC.quest_desc: [
 		"Allows for breaking of blocks."
 		"The mining level of the module is determined by the pick used in the craft, so an iron pick will not be able to break obsidian. The enchantments on the pick are also applied."
@@ -2538,6 +2610,7 @@
 		""
 		"The Whirlspring charm can be used on any flower to create its home and you need to place a source jar and chest adjacent to its home for it to produce, look in the book for more info."
 	]
+	quest.65C2A7ACDD2D9947.title: "Smart Cable"
 	quest.66092D43BCF44F05.quest_desc: [
 		"Works a bit differently than MK1. The MK2 uses ghost blocks instead of actual blocks. By default, these blocks do not have any of their original properties, but this can be altered with the Mimic augment."
 		""
@@ -2598,6 +2671,13 @@
 		"And finally, you want to get at least 2 of each bees, they can bee breeded into more using the breeder"
 	]
 	quest.67E648AD068CAB9E.quest_subtitle: "Proximity"
+	quest.6890EED20F89D2AB.quest_desc: [
+		"Increases the player activation range."
+		""
+		"Each crystal will &b+4 player activation range&r to a &bmax of 48 blocks&r."
+	]
+	quest.6890EED20F89D2AB.quest_subtitle: "Maybe I don't need you"
+	quest.6890EED20F89D2AB.title: "Required Player Range"
 	quest.68BD90AE2185792E.quest_desc: ["Works exactly the same as the Stack Upgrade. This will override the Stack Upgrade, and the maximum items per operation will now be determined by the augment. The maximum useful upgrades are 6 (2⁶)."]
 	quest.68C25AACF9C16819.quest_desc: [
 		"Villagers always find a way to &8&msteal&r &lmake us&r buy from them..."
@@ -2647,6 +2727,9 @@
 		"You don't need to make this nest, just look for it, they are plentiful"
 	]
 	quest.6AF6F200251C478B.quest_subtitle: "/tp @e 0 0 0"
+	quest.6B477C68C8D84A3D.quest_desc: ["Spawns &6burning&r mobs. &oOuch&r."]
+	quest.6B477C68C8D84A3D.quest_subtitle: "Let them burn"
+	quest.6B477C68C8D84A3D.title: "Burning"
 	quest.6B5295ABF1D7D71D.quest_desc: [
 		"Are you tired of getting &ccurse of vanishing&r or any other annoying enchantment on your equipment and tools?"
 		""
@@ -2662,6 +2745,15 @@
 	]
 	quest.6B5295ABF1D7D71D.quest_subtitle: "Disenchanting at it's finest!"
 	quest.6B5295ABF1D7D71D.title: "&5&lDis-Enchanting Table"
+	quest.6C504AA720E7C1C3.quest_desc: [
+		"Decreases the minimum tick time between spawns. "
+		""
+		"Each sugar will -20 ticks to the &bmin spawn delay&r."
+		""
+		"Minimum min spawn delay is &b20 ticks&r."
+	]
+	quest.6C504AA720E7C1C3.quest_subtitle: "Lower bound"
+	quest.6C504AA720E7C1C3.title: "Minimum Spawn Delay"
 	quest.6C7CE3884A3A134B.quest_desc: [
 		"The refinery is a multiblock that can have up to 4 refinery outputs."
 		"Place down the controller and ideally 4 outputs on top."
@@ -2749,6 +2841,13 @@
 	]
 	quest.6F5B6AFAD2038ADA.quest_subtitle: "You heard me"
 	quest.6F5B6AFAD2038ADA.title: "The Silly Hat™"
+	quest.6FE1831C4E32CD9D.quest_desc: [
+		"Increases the amount of mobs spawned per wave."
+		""
+		"Each eye will &b+2 spawn count&r to a &bmax of 16 mobs&r in a single wave."
+	]
+	quest.6FE1831C4E32CD9D.quest_subtitle: "More Mobs!"
+	quest.6FE1831C4E32CD9D.title: "Increase Spawn Count"
 	quest.7053E4EEA04089E0.quest_desc: [
 		"Allows the Vacuum Module to handle experience. The experience will be converted into any form you select in the GUI. Bottles of enchanting do not require bottles in the buffer. However, for other liquids, a bucket or tank in the buffer is required, or an adjacent tank with the card set to eject."
 		" "
@@ -2781,6 +2880,8 @@
 	]
 	quest.7135BB6943B21402.quest_subtitle: "A blood chest, but bigger"
 	quest.7135BB6943B21402.title: "&lColossal&r &4Blood&r Chest"
+	quest.71832F62E0AD92C3.quest_desc: ["Apotheosis is"]
+	quest.71832F62E0AD92C3.title: "About Apothic Enchanting"
 	quest.725CAFF6779487BC.quest_desc: [
 		"The &4Blood Infuser&r is our very first machine in all Evilcraft, without it, we cannot progress throughout the whole mod."
 		""
@@ -2831,6 +2932,13 @@
 		""
 		"Contains chunk loading capabilities for itself and its drone."
 	]
+	quest.74F6B9592744EC7C.quest_desc: [
+		"Killed mobs drop more loot! "
+		""
+		"Max level is &bEchoing V&r."
+	]
+	quest.74F6B9592744EC7C.quest_subtitle: "MOAR LOOT!"
+	quest.74F6B9592744EC7C.title: "More Loot!"
 	quest.7509E3311610BE2B.quest_subtitle: "November Rain?"
 	quest.7509E3311610BE2B.title: "Rain in a Bottle"
 	quest.75566B910945A58D.quest_desc: [
@@ -2932,6 +3040,13 @@
 	]
 	quest.7855BF00C8A4A7F2.quest_subtitle: "In a dire need for equipment?"
 	quest.7855BF00C8A4A7F2.title: "&l&1Just Dire Things"
+	quest.78C350866A75F0D0.quest_desc: [
+		"Now that you have all the pieces, it's time to create the &l&dUltimate Spawner&r&r. "
+		""
+		"It'll have &bMinimum Delays&r, &bRedstone Control&r, &bNo AI&r, &bIgnores Spawn Conditions&r, and &bIgnores Players&r."
+	]
+	quest.78C350866A75F0D0.quest_subtitle: "Infinite loot!"
+	quest.78C350866A75F0D0.title: "&o&l&dThe Ultimate Spawner&r&r&r"
 	quest.78F4BD64456FAC4A.quest_desc: ["Used in the creation of bio diesel only requires pressure "]
 	quest.7903FA4DBF99A4D6.quest_desc: ["More robust version of the infused pickaxe"]
 	quest.795FB25F7FE3F03C.quest_desc: [
@@ -2957,6 +3072,9 @@
 	quest.7A3A78C25AC9D033.quest_subtitle: "Still doesn't attract love..."
 	quest.7A3A78C25AC9D033.title: "Kinecticators"
 	quest.7A545D85BF794497.quest_desc: ["Reduces the range of the module by 1 block per augment. Useful for vacuum modules that you want to work in a smaller area."]
+	quest.7A71E1BAB8050192.quest_desc: ["+2 total entities near by Max 32"]
+	quest.7A71E1BAB8050192.quest_subtitle: "Getting Crowded"
+	quest.7A71E1BAB8050192.title: "Max Nearby Entities"
 	quest.7A997E9003EA92FC.quest_desc: ["moves fluids"]
 	quest.7AB09B6B6E9206C4.quest_desc: [
 		"Evilcraft adds plenty of stuff, including a way to store items and craft within it's inventory!"
@@ -3084,6 +3202,13 @@
 		"Why? Because hives benefits a lot more from other upgrades"
 	]
 	quest.7DD1FD32851C81F5.quest_subtitle: "Sonic"
+	quest.7DDA8F8BFCB5F3EC.quest_desc: [
+		"Mobs spawn with no AI which means they won't do anything."
+		""
+		"&eWarning:&r This &omay&r break certain interactions with mobs."
+	]
+	quest.7DDA8F8BFCB5F3EC.quest_subtitle: "What am I?"
+	quest.7DDA8F8BFCB5F3EC.title: "No Ai"
 	quest.7E4F9C92570A846E.quest_desc: [
 		"This suit can be upgraded and allows a wide variety of abilities."
 		""
@@ -3117,6 +3242,9 @@
 	]
 	quest.7ED1D7F512275FAF.quest_subtitle: "Perfect for our Adventures"
 	quest.7ED1D7F512275FAF.title: "&l&9Sophisticated Backpacks"
+	quest.7F671051CEDCE162.quest_desc: ["Spawned mobs will be completely silent."]
+	quest.7F671051CEDCE162.quest_subtitle: "&lSILENCE&r"
+	quest.7F671051CEDCE162.title: "Peace and Quiet"
 	quest.7F6E4C605AD3DC95.quest_desc: [
 		"This is my favorite thing in all Evilcraft... This Broom will come in hand in case you don't like using &ejetpacks&r that might contaminate our precious air."
 		""
@@ -3135,6 +3263,7 @@
 	reward.0C1EEE583A1FF036.title: "To the trash"
 	reward_table.037CD8900A50DEEB.title: "Productive Bees Rewards -  Novice"
 	reward_table.150820B2DD9A43B7.title: "AE2 Rewards - Connected"
+	reward_table.1CFF81F06DBBB890.title: "Apoth Rewards - Spawners"
 	reward_table.2D08FEDBF3C31B07.title: "Storage Rewards - Basic"
 	reward_table.3074E9A056391113.title: "Productive Bees Rewards - Disciple"
 	reward_table.342AE5B27FDE9C05.title: "EvilCraft Tier II Rewards"
@@ -3143,7 +3272,9 @@
 	reward_table.5281C2CE827B568B.title: "Storage Rewards - Advanced"
 	reward_table.53A9237E4D75200A.title: "AE2 Rewards -  Basic"
 	reward_table.5A488243B9E5D50F.title: "Storage Rewards - Ultimate"
+	reward_table.5B268991ABCAD4F0.title: "Apoth Rewards - Exploration"
 	reward_table.69ECC3693C66470B.title: "Storage Rewards - Primitive"
+	reward_table.6A3E35E24B6431FC.title: "Apoth Rewards - Enchanting"
 	reward_table.6D18C935723B8026.title: "EvilCraft Tier I Rewards"
 	reward_table.6EEF0BE14447C317.title: "Evilcraft Tier III Rewards"
 	reward_table.70E4B58B275C350D.title: "Productive Bees Rewards - Bee Archon"
@@ -3151,6 +3282,7 @@
 	task.05001251EFC0420F.title: "Click if you agree"
 	task.060E3DA4CBADE3A5.title: "Can it be done?"
 	task.065D7932A755F400.title: "Cages"
+	task.07DEF24772DF8253.title: "Any Wool Block"
 	task.093E833D415B663B.title: "Centrifuges"
 	task.0945FABB3B320E12.title: "Get a Chocolate Minining Bee"
 	task.0A71A43D33CC5CAE.title: "Silly Hat"
@@ -3182,17 +3314,22 @@
 	task.2C410B95C396D49A.title: "Get an Ashy Mining Bee"
 	task.2ED36935EC5C9C93.title: "Any CreativeFlyType/Jetpack"
 	task.30F9A7474D527EA6.title: "Did you catch all?"
+	task.32B2A31CC3561D0A.title: "Any Dense Covered Cable"
 	task.37245969B8BF18C4.title: "Check Please!"
+	task.378188B36D1EC503.title: "About Apotheosis"
 	task.379F21343DF3C58C.title: "Get A Nomad Bee"
 	task.39001B6D46A193DF.title: "Placeholder"
 	task.3B75BD518D17E850.title: "Mod created by: &9DireWolf20"
 	task.41C0455F2876E6BB.title: "Mod created by: &3DireWolf20"
+	task.42F2038763A578EA.title: "Any Smart Cable"
 	task.42F282D144BDE847.title: "Storage!"
 	task.43A963B1CF474EE6.title: "Any Fluid Pump"
 	task.43CB1C4E1E8F0D33.title: "Build that spaghetti!"
 	task.467CAFDA51DC3CEB.title: "Tip #3"
 	task.4B95D6163A48C9E4.title: "Any Elevator"
+	task.4BCD3E3224791871.title: "Visit the Overworld"
 	task.4C16ECE209685FC4.title: "Any #c:exaltedcrafter/tier/1"
+	task.4C26EB3A3558B59F.title: "Any Dense Smart Cable"
 	task.4D77CB9540DD7B51.title: "Get a Reed Bee"
 	task.4E9AE9FE668879AE.title: "Redstone toggle"
 	task.4EC999DC78E9CD60.title: "Mod created by: &6Soaryn"
@@ -3226,6 +3363,8 @@
 	task.7C08B407252955A8.title: "Let's start to bee a beeliver"
 	task.7C17B430B816FFEF.title: "Genes"
 	task.7C3792BD4D5B2D27.title: "Get a Sweat Bee"
+	task.7EE476C64BEBFF8A.title: "Any Covered Cable"
+	task.7EF02B6515415F76.title: "Any Fluix Cable"
 	task.7F5D760B4E0FF776.title: "Distributor"
 	task.7F5F3877B6F33DF7.title: "Get a Blue Banded Bee"
 }
