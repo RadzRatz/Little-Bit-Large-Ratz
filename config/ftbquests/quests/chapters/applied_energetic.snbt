@@ -1,5 +1,5 @@
 {
-	autofocus_id: "7D38CBA6AFAA0123"
+	autofocus_id: "747BCC83F4809BCB"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "applied_energetic"
@@ -11,25 +11,6 @@
 	order_index: 4
 	quest_links: [ ]
 	quests: [
-		{
-			dependencies: ["5E635799470EEF47"]
-			hide_dependency_lines: true
-			icon: {
-				components: {
-					"ftbquests:icon": "pneumaticcraft:textures/gui/icon/gui_warning.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			id: "6730EB256CDEB6E1"
-			invisible: true
-			optional: true
-			tasks: [{
-				id: "280E52ABA0BB926D"
-				type: "checkmark"
-			}]
-			x: -3.0d
-			y: 1.5d
-		}
 		{
 			icon: {
 				id: "extendedae:entro_block"
@@ -46,15 +27,10 @@
 				item: { count: 1, id: "extendedae:entro_cluster" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 1.5d
+			x: 2.5d
+			y: -1.5d
 		}
 		{
-			dependencies: [
-				"6FF0A677B6BDD946"
-				"5D07E1630119890C"
-			]
-			dependency_requirement: "one_completed"
 			icon: {
 				id: "minecraft:emerald_ore"
 			}
@@ -82,8 +58,8 @@
 					type: "item"
 				}
 			]
-			x: -0.5d
-			y: 4.0d
+			x: 2.5d
+			y: 7.5d
 		}
 		{
 			icon: {
@@ -116,20 +92,34 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 1.5d
+			x: -2.0d
+			y: 3.0d
 		}
 		{
 			icon: {
 				id: "advanced_ae:quantum_core"
 			}
 			id: "30633D99588CAE94"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "08657ECA84D0E666"
-				table_id: 4522750382101554007L
-				type: "loot"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "08657ECA84D0E666"
+					table_id: 4522750382101554007L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "190BFFD20604FEF3"
+					table_id: 4522750382101554007L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "082413351F98235D"
+					table_id: 1515497227204314039L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					count: 218L
@@ -160,8 +150,53 @@
 					type: "item"
 				}
 			]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "megacells:cell_component_256m"
+			}
+			id: "7656D71CE6F49D32"
+			tasks: [{
+				id: "02476F93B40D264E"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "ae2:controller"
+			}
+			id: "747BCC83F4809BCB"
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "48D15AB9A44B5ED5"
+				type: "checkmark"
+			}]
 			x: 2.5d
-			y: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5E635799470EEF47"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "pneumaticcraft:textures/gui/icon/gui_warning.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4048CBD6C81EAFC7"
+			invisible: true
+			optional: true
+			tasks: [{
+				id: "64951EA9ED592DE5"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
 		}
 	]
 }

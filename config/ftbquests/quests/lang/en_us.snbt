@@ -533,6 +533,11 @@
 	]
 	quest.0D1919E6F8066E9E.quest_subtitle: "Finally, &cWireless"
 	quest.0D205F4DB23CF931.quest_desc: ["The &dNecromancer's Staff&r is one of my favourite tools in all of Evilcraft. We can summon zombies to protect us from incoming damage and overwhelm our enemies... However, we still need blood to use this staff..."]
+	quest.0D20B269523C1B70.quest_desc: ["Using the &dmethod&r from 1 block to 9 printed circuit, we are saving a lot of time!"]
+	quest.0D20B269523C1B70.quest_subtitle: "Check ExtendedAE quests too"
+	quest.0D20B269523C1B70.title: "Printed Quantum Circuit"
+	quest.0D7F28967280B814.quest_desc: ["If you have followed the &6bees&r quests, you only need 2 &6bees&r to get this one and some materials ;)"]
+	quest.0D7F28967280B814.quest_subtitle: "Just 3 bees"
 	quest.0DACD6F3077FBD20.quest_desc: [
 		"Apothic Spawners allows you to modify spawners to make them faster and more efficient!"
 		""
@@ -970,6 +975,8 @@
 	quest.1AD0B6FC4101DE41.title: "Remote Access"
 	quest.1AD8C1337F69E1C5.quest_desc: ["Makes the spawner require a &bredstone signal&r to function."]
 	quest.1AD8C1337F69E1C5.title: "Redstone Toggle"
+	quest.1AF3E9F16A147816.quest_desc: ["Now, the armor has a lot of &3upgrades&r that you can put, similar to &aMystical Agriculture&r's armor or the Mekasuit from &aMekanism&r."]
+	quest.1AF3E9F16A147816.quest_subtitle: "Upgrades"
 	quest.1AF45B00853ADE5F.quest_desc: [
 		"The Box of Eternal Enclosure will help us trap those annoying Vengeance Spirits."
 		""
@@ -1252,6 +1259,13 @@
 	]
 	quest.240552BBF5D94EB1.quest_subtitle: "This spot looks good enough"
 	quest.240552BBF5D94EB1.title: "Ignore Spawn Conditions"
+	quest.242A717797D292A4.quest_desc: [
+		"They are used a ton in setups, so you want a lot of them."
+		"They speed up things."
+		""
+		"For example, on &dexport bus&r, it allows to send more &eitems&r in the same time, but it also send more items in less time"
+	]
+	quest.242A717797D292A4.quest_subtitle: "Quite a bit"
 	quest.2438C51737F1817B.quest_desc: [
 		"The Shrink mod adds the amazing &n&dShrinking Device&r, which will let you... SHRINK!"
 		""
@@ -1345,6 +1359,20 @@
 	quest.26D7A8C7156AB1F6.quest_desc: ["If you want to remove modifiers, just take that modifier item and hold a piece of &bNether Quartz&r in your &lOff-Hand&r to remove one level of modifier!"]
 	quest.26D7A8C7156AB1F6.quest_subtitle: "Everyone makes mistakes"
 	quest.26D7A8C7156AB1F6.title: "Removing Modifiers"
+	quest.26D88FF9A22A338E.quest_desc: [
+		"At the beginning, you are going to use a lot of these, because it's needed on &6autocrafing&r and &binterfaces&r."
+		""
+		"More on that later."
+	]
+	quest.26D88FF9A22A338E.quest_subtitle: "Multiblock formed!"
+	quest.26D88FF9A22A338E.title: "Formation Core"
+	quest.26FCC70341995D39.quest_desc: [
+		"Well, well, well...."
+		""
+		"Another &dterminal&r, but this time it allows you to find &6patterns&r faster, either by using &einput&r materials or &aoutput&r result."
+		""
+		"Also locate &6pattern providers&r!"
+	]
 	quest.271ED85A73CCEAF5.title: "Sculk Bee"
 	quest.273CC4D59C0D8731.quest_desc: [
 		"The mod &n&l&6Only Hammers&r adds a variety of hammers for us to mine big areas quickly!"
@@ -1783,6 +1811,16 @@
 	]
 	quest.328025E9BA01FBDC.quest_subtitle: "I Don't Need You"
 	quest.328025E9BA01FBDC.title: "Ignore Players"
+	quest.325AD48FA7A279AB.quest_desc: [
+		"Once you have 32 &aentro&r crystal, you can dupe it or get a &6bee&r, whatever you like the most."
+		"The easiest one is &6bee&r."
+		""
+		"For now, we need to get some &abudding&r kicking, and we are going to modify a &b&nsimple certus farm&r "
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/entro_farm.png width:100 height:100 align:center fit:true}"
+		"{image:kubejs:textures/quest_images/applied_energetic/entro_farm_2.png width:100 height:100 align:center fit:true}"
+	]
+	quest.325AD48FA7A279AB.quest_subtitle: "First step, Entropy"
 	quest.32B17FE87968D864.quest_desc: [
 		"Expensive....."
 		""
@@ -1795,6 +1833,18 @@
 	quest.32E4322646FFF017.quest_desc: ["Mobs ignore light level and will spawn in any light level."]
 	quest.32E4322646FFF017.quest_subtitle: "I'm legally blind"
 	quest.32E4322646FFF017.title: "Ignore Light Level"
+	quest.338CC8C7E220FC3A.quest_desc: [
+		"This will be a long journey, but I will try to be as simple as I can."
+		""
+		"&bAE2&r is meant to be a powerful tool but a bit &cdifficult&r to start with. "
+		"You need to have some &amaterials&r to start with it, so maybe you want to get some resources and some power."
+		""
+		"The quests are here to try to help you, not to be a task, they will provide &crewards&r which scale. "
+		""
+		"Some quests are &dhidden&r until you complete them (for you to focus) and you have quests for 5 addons ;)"
+	]
+	quest.338CC8C7E220FC3A.quest_subtitle: "This will be a long one"
+	quest.338CC8C7E220FC3A.title: "&dThe beginning of a journey"
 	quest.341860979C6FB8C6.quest_desc: ["this image was set as a Placeholder for another one."]
 	quest.341860979C6FB8C6.title: "Placeholder"
 	quest.342249E9DEEF064F.quest_desc: ["This is basically a &emagnet&r, that can &4insert&r into the &dnetwork&r or inventory, also &afiltering&r for attracting items!"]
@@ -2359,6 +2409,7 @@
 	quest.43C7A0AFDBCB1D06.quest_subtitle: "Stunning"
 	quest.44884F0AE8219EAB.quest_desc: ["The Arcane Pedestal is used to hold items for the essence crafting with the imbuement Chamber, for use with the Enchanting Apparatus. "]
 	quest.448F99A9197C7EAD.title: "Covered Cable"
+	quest.448F99A9197C7EAD.quest_subtitle: "Don't use these"
 	quest.44A632CEC21C79E1.quest_desc: ["This makes the router immune to explosions and boss damage."]
 	quest.44A632CEC21C79E1.quest_subtitle: "Invincible"
 	quest.44D5D328F4A7375B.quest_desc: [
@@ -2381,6 +2432,8 @@
 	]
 	quest.45486AC8954F26C1.quest_subtitle: "Plenty of room to stretch"
 	quest.45486AC8954F26C1.title: "More Spawn Range"
+	quest.455950B18235B335.quest_desc: ["Allows 10 more slots for cells, just you can't check them on the block model"]
+	quest.455950B18235B335.quest_subtitle: "More space"
 	quest.45CEDE5DDED5ADC2.quest_subtitle: "Sunshine of your Love?"
 	quest.45CEDE5DDED5ADC2.title: "Sunshine in a Bottle"
 	quest.460CB2F19CF27EAA.quest_desc: [
@@ -2458,6 +2511,13 @@
 	quest.49235AB18DFE6AD7.quest_desc: ["Spawned mobs will always spawn as a baby if possible. "]
 	quest.49235AB18DFE6AD7.quest_subtitle: "&4You Monster&r"
 	quest.49235AB18DFE6AD7.title: "Youthful"
+	quest.49286C762F383267.quest_desc: [
+		"&bDiamonds.&r..."
+		""
+		"Well, I've told you that we would need them."
+	]
+	quest.49286C762F383267.quest_subtitle: "&bBottom&r"
+	quest.49286C762F383267.title: "&bPrinted Enginnering Circuit"
 	quest.495DE286325A307B.quest_desc: [
 		"This multiblock allows you to make advanced pressure tubes and allows you to make empty PCBs a lot easier without the whole light box and etching steps."
 		""
@@ -2511,6 +2571,12 @@
 	quest.4AB6901D51226E1B.title: "Heat 103"
 	quest.4AEB916826B71BD3.quest_desc: ["The &2Overworld&r will be the start of your Apotheosis adventure."]
 	quest.4AEB916826B71BD3.title: "Visit the Overworld"
+	quest.4B09BF91C8CBFBD3.quest_desc: [
+		"[ \"You probably want to start \", { \"text\": \"bee quests\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"232345A9C9EFDC9B\" } }, \", before doing this one.\" ]"
+		""
+		"But if you did, congrats, you have another powerful way to generate &bcertus&r and &bcertus dust&r, which we will need in industrial quantities ;)"
+	]
+	quest.4B09BF91C8CBFBD3.quest_subtitle: "bzzzzzzzz"
 	quest.4B3625968F4E4331.quest_subtitle: "Walk Faster and More Efficiently Effortlessly"
 	quest.4B3C04533F58F6C7.quest_desc: [
 		"Yep, a bee is like a pig or a horse, you can ride them."
@@ -2598,6 +2664,15 @@
 	quest.4C89C5F7446C15CD.quest_subtitle: "Explosivo"
 	quest.4C89C5F7446C15CD.title: "Under Pressure"
 	quest.4CB758202B13207D.title: "Dense Smart Cable"
+	quest.4CB758202B13207D.quest_desc: [
+		"These &dcables&r are one of the main way to transport &achannels&r around your base."
+		"They have some limitations, like they can only connect to &bAE2 machines&r that uses the &centire block&r, like interfaces or pattern providers."
+		""
+		"Here is an example:"
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/dense_cable_example.png width:100 height:100 align:center fit:true}"
+	]
+	quest.4CB758202B13207D.quest_subtitle: "Big, bigger, better"
 	quest.4CDF67A932172054.quest_desc: [
 		"We might've ran into some issues crafting these solar panels, but we finally done it..."
 		""
@@ -2831,7 +2906,21 @@
 		""
 		"Perfect to setup any &6farm&r that can get their drops!"
 	]
-	quest.54F0F61ECC99DA21.title: "Fluix Cable"
+	quest.54F0F61ECC99DA21.quest_desc: [
+		"Now, we can consider starting &bAE2&r."
+		"You might have seen words like network, channels and system around the quests."
+		"Time to explain."
+		""
+		"A &dnetwork&r is a serie of &bAE2 machines&r connected with each other. It can consist of &bmachines&r, &cstorage&r and &edisplays&r."
+		""
+		"These &dnetworks&r can be big or small, but they have some \"limits\", &achannels&r."
+		"What is a &achannel&r? It's how many machines you can connect to a cable."
+		"It can be 8 &bmachines&r or 32 &bmachines&r."
+		""
+		"You can disable &achannels&r, you would need OP, but once you get how they work, they will become easy. More info later."
+	]
+	quest.54F0F61ECC99DA21.quest_subtitle: "The begin.... another &5Déjà vu&r?"
+	quest.54F0F61ECC99DA21.title: "&5Fluix cables"
 	quest.551E66F2334C99EE.quest_desc: ["Used for auto crafting and auto brewing see book for more info."]
 	quest.556E67EC57457744.quest_desc: [
 		"Before diving into Pipez, there are a few things you should know about the mod."
@@ -2914,6 +3003,13 @@
 	]
 	quest.5760A1BA7C6CDA67.quest_subtitle: "Upper bound"
 	quest.5760A1BA7C6CDA67.title: "Maximum Spawn Delay"
+	quest.5735C6D3BF055470.quest_desc: [
+		"Now, we need all presses that the quest ask to continue with &bAE2&r, break the &8mysterious cube&r in the center of the meteorite or make them or buy them."
+		""
+		"After that, we need at least 5 &dinscribers&r, one for each press we got and 1 to combine"
+	]
+	quest.5735C6D3BF055470.quest_subtitle: "Pressing, pressing, ...."
+	quest.5735C6D3BF055470.title: "Presses"
 	quest.5767DCAD635EB0D5.quest_desc: ["Your first successfully etched PCB all that's missing is the electronics."]
 	quest.5767DCAD635EB0D5.title: "PCB base"
 	quest.577615D670CC3BF1.quest_desc: ["Now, we are going to improve your bees, maybe you want to make a few draconic bees, because we are going to need them, again, in industrial quantities....."]
@@ -2941,6 +3037,7 @@
 	quest.5847A76DAFC0F4C2.quest_desc: ["Powerful sensor that's capable of reading a large variety of different states in the world as well as wireless redstone."]
 	quest.5847A76DAFC0F4C2.quest_subtitle: "I see you"
 	quest.5888EC05989B8B92.title: "Dense Covered Cable"
+	quest.5888EC05989B8B92.quest_subtitle: "Don't use these"
 	quest.58D0DF58E56F6CBC.quest_desc: [
 		"Allows for breaking of blocks."
 		"The mining level of the module is determined by the pick used in the craft, so an iron pick will not be able to break obsidian. The enchantments on the pick are also applied."
@@ -3343,7 +3440,23 @@
 		""
 		"The Whirlspring charm can be used on any flower to create its home and you need to place a source jar and chest adjacent to its home for it to produce, look in the book for more info."
 	]
-	quest.65C2A7ACDD2D9947.title: "Smart Cable"
+	quest.65C2A7ACDD2D9947.quest_desc: [
+		"You should use these &dcables&r for your setups. Why? Simple, they show you how many &achannels&r you use, on the cable and if you look at them, they will also tell you."
+		""
+		"But we haven't talked how to get &achannels&r, just that &bmachines&r uses &achannels&r."
+		"Well, it's easy, place 8 cables and an energy acceptor, give it power and you have 8 free channels."
+		"Now, you can only place 8 &bAE2 machines&r, if you try to place 9 machines, the network will stop."
+		""
+		"{@pagebreak}"
+		"Sooooo... how do we &cscale&r up things? &dControllers&r! They are a fundamental part of this mod, so you should make them. &eQuests&r will guide you and tell you which &bmachines&r uses &achannels&r."
+		""
+		"&dSmart cables&r and &5fluix cables&r can only connect to 8 machines. You should check on &ddense cables&r."
+		"Also, tip here, use different colors, at least 2 colors and fluix colors. That way they don't connect to each other."
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/cables.png width:100 height:100 align:center fit:true}"
+	]
+	quest.65C2A7ACDD2D9947.quest_subtitle: "Now we are talking"
+	quest.65C2A7ACDD2D9947.title: "Smart cables"
 	quest.66092D43BCF44F05.quest_desc: [
 		"Works a bit differently than MK1. The MK2 uses ghost blocks instead of actual blocks. By default, these blocks do not have any of their original properties, but this can be altered with the Mimic augment."
 		""
@@ -3412,13 +3525,6 @@
 		"And finally, you want to get at least 2 of each bees, they can bee breeded into more using the breeder"
 	]
 	quest.67E648AD068CAB9E.quest_subtitle: "Proximity"
-	quest.6890EED20F89D2AB.quest_desc: [
-		"Increases the player activation range."
-		""
-		"Each crystal will &b+4 player activation range&r to a &bmax of 48 blocks&r."
-	]
-	quest.6890EED20F89D2AB.quest_subtitle: "Maybe I don't need you"
-	quest.6890EED20F89D2AB.title: "Required Player Range"
 	quest.68BD90AE2185792E.quest_desc: ["Works exactly the same as the Stack Upgrade. This will override the Stack Upgrade, and the maximum items per operation will now be determined by the augment. The maximum useful upgrades are 6 (2⁶)."]
 	quest.68C25AACF9C16819.quest_desc: [
 		"Villagers always find a way to &8&msteal&r &lmake us&r buy from them..."
@@ -3499,6 +3605,22 @@
 	quest.6B477C68C8D84A3D.quest_desc: ["Spawns &6burning&r mobs. &oOuch&r."]
 	quest.6B477C68C8D84A3D.quest_subtitle: "Let them burn"
 	quest.6B477C68C8D84A3D.title: "Burning"
+	quest.6B50E447E97394A8.quest_desc: [
+		"We need a &bcertus farm&r, but how do we make it?"
+		"You can go with &6bees&r, &dseeds&r or &cdupe&r method from AdvancedAE, but this is the intented way on AE2. (Probably easier to use seeds and bees)"
+		""
+		"This quest comes from the guide, which has a &e3D&r view of the farm. Search on examples and &b&nsimple certus farm&r. But we are doing a small modification to make it produce a bit more."
+		""
+		"This way we can fit 3 annihilation plane for more production."
+		""
+		"&2Photo on the next page&r"
+		""
+		"{@pagebreak}"
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/first_farm_certus.png width:100 height:100 align:center fit:true}"
+	]
+	quest.6B50E447E97394A8.quest_subtitle: "Can you go higher?"
+	quest.6B50E447E97394A8.title: "&bCertus farm"
 	quest.6B5295ABF1D7D71D.quest_desc: [
 		"Are you tired of getting &ccurse of vanishing&r or any other annoying enchantment on your equipment and tools?"
 		""
@@ -3523,6 +3645,20 @@
 	]
 	quest.6C504AA720E7C1C3.quest_subtitle: "Lower bound"
 	quest.6C504AA720E7C1C3.title: "Minimum Spawn Delay"
+	quest.6B552B61C702C105.quest_desc: ["Have you hear about parallelism? No? Well, you will"]
+	quest.6B552B61C702C105.quest_subtitle: "&bBottom&r"
+	quest.6B552B61C702C105.title: "&bPrinted Concurrent Circuit"
+	quest.6C6D6015BDFF4BD3.quest_desc: [
+		"This is the &bAE2 machine&r that allows to use &cstorage&r from other mods."
+		"It uses 1 &achannel&r and can only be placed on &dsmart cables&r."
+		""
+		"They have cool functionally in the GUI, so check them out, but the important are:"
+		""
+		"- &aFiltering&r: So 500 different thing doesn't go into the same thing"
+		""
+		"- &dExtraction&r: You can set them to extract only or insert only or both"
+	]
+	quest.6C6D6015BDFF4BD3.quest_subtitle: "Storing in other mods? Are u cheating on me?"
 	quest.6C7CE3884A3A134B.quest_desc: [
 		"The refinery is a multiblock that can have up to 4 refinery outputs."
 		"Place down the controller and ideally 4 outputs on top."
@@ -3624,6 +3760,25 @@
 	]
 	quest.6FE1831C4E32CD9D.quest_subtitle: "More Mobs!"
 	quest.6FE1831C4E32CD9D.title: "Increase Spawn Count"
+	quest.6FBE162F8B5157F3.quest_desc: [
+		"While you won't ever need to use this tool, I need to tell you."
+		""
+		"Convert some materials to another, like lava to obsidian."
+		"Only useful to get snow balls or ice at the beginning until you get &6bees&r or &dseeds&r"
+	]
+	quest.6FBE162F8B5157F3.quest_subtitle: "Mostly useless, but i have to tell you"
+	quest.6FF0A677B6BDD946.quest_desc: [
+		"Yes, we can automate &5fluix&r now without using &dseeds&r or &6bees&r."
+		""
+		"These machines needs 1 &bchannel&r to work and can't place blocks by themselves."
+		"[ \"There is a \", { \"text\": \"setup\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2992DF31EA2F37F1\" } }, \" explaining more.\" ]"
+	]
+	quest.6FF0A677B6BDD946.quest_subtitle: "&5Fluix&r automation"
+	quest.704E87C0BBB8172A.quest_desc: [
+		"Useless if you have the &5reaction chamber&r from &dAdvancedAE&r, since these charger are slow."
+		""
+		"But compared to the normal &dcharger&r, they can do 4 items at the same time"
+	]
 	quest.7053E4EEA04089E0.quest_desc: [
 		"Allows the Vacuum Module to handle experience. The experience will be converted into any form you select in the GUI. Bottles of enchanting do not require bottles in the buffer. However, for other liquids, a bucket or tank in the buffer is required, or an adjacent tank with the card set to eject."
 		" "
@@ -3726,6 +3881,41 @@
 	]
 	quest.74F6B9592744EC7C.quest_subtitle: "MOAR LOOT!"
 	quest.74F6B9592744EC7C.title: "More Loot!"
+	quest.747BCC83F4809BCB.quest_desc: [
+		"Now, if you have followed the &aquests&r, you should have a &6general&r idea of how your &dnetwork&r should look like."
+		"If you don't, I am here to help a bit, I hope...."
+		""
+		"First, I will show you the &cwhole&r setup, and then explain it, using &ac&r&3o&r&9l&r&eo&r&5r&r&ds&r! "
+		"Don't be &eafraid&r, you will surely get it!"
+		""
+		"&2There are more than 1 page&r"
+		""
+		"{@pagebreak}"
+		"{image:kubejs:textures/quest_images/applied_energetic/example_setup2.png width:100 height:100 align:center fit:true}"
+		"{@pagebreak}"
+		""
+		"Dark &5purple&r (1) -> This setups makes &dprocessors&r and alloys, like &5fluix&r or &8sky steel&r"
+		""
+		"&6Orange&r (2) -> This is a setup from &bAE2 guides&r, to make fluix and sky steel, if you don't want to use reaction chambers."
+		""
+		"Dark &2green&r (3) -> This is your &aresource&r farm, like &aentro&r crystal &6bee&r or &dseeds&r or a &bcertus farm&r"
+		""
+		"Dark &9blue&r (4) -> Your &6autocrafting&r for recipes, using a setup from &bquests&r"
+		""
+		"&cRed&r (5) -> &bCPU&rs to make crafts"
+		""
+		"&dPink&r (6) -> &dTerminals&r and &5spatial anchor&r"
+		""
+		"Darkish &5purple&r (7) -> &5Wireless&r &dterminal&r"
+		""
+		"Brown (8) -> &cStorage&r"
+		""
+		"&aLime&r (9) -> &aPower&r, to turn on your &dnetwork&r and &cstoring&r it"
+		""
+		"&eYellow&r (10) -> Free &dcables&r for other &csetups&r, like &aMekanism&r's machines or your &6bees&r/&dseeds&r setups"
+	]
+	quest.747BCC83F4809BCB.quest_subtitle: "Just an example, read &call&r the text!"
+	quest.747BCC83F4809BCB.title: "Example &dnetwork"
 	quest.7509E3311610BE2B.quest_subtitle: "November Rain?"
 	quest.7509E3311610BE2B.title: "Rain in a Bottle"
 	quest.75566B910945A58D.quest_desc: [
@@ -4096,6 +4286,14 @@
 	]
 	quest.7DDA8F8BFCB5F3EC.quest_subtitle: "What am I?"
 	quest.7DDA8F8BFCB5F3EC.title: "No Ai"
+	quest.7DF7DE4654985DE5.quest_desc: ["&aArs Nouveau&r &cStorage&r for &dsource&r, what in the world needs 50000000000000 &dsource&r?"]
+	quest.7DF7DE4654985DE5.quest_subtitle: "Wait, source too?"
+	quest.7E4EF758E4B3C965.quest_desc: [
+		"\"&bParallelism&r\", we are using &econcurrency&r. I guess computers lied to you.... or not?"
+		""
+		"This processor is used a lot on &aExtendedAE&r mod, which you will be using"
+	]
+	quest.7E4EF758E4B3C965.quest_subtitle: "We have made a sandwich"
 	quest.7E4F9C92570A846E.quest_desc: [
 		"This suit can be upgraded and allows a wide variety of abilities."
 		""
@@ -4132,9 +4330,9 @@
 	]
 	quest.7ED1D7F512275FAF.quest_subtitle: "Perfect for our Adventures"
 	quest.7ED1D7F512275FAF.title: "&l&9Sophisticated Backpacks"
-	quest.7F671051CEDCE162.quest_desc: ["Spawned mobs will be completely silent."]
-	quest.7F671051CEDCE162.quest_subtitle: "&lSILENCE&r"
-	quest.7F671051CEDCE162.title: "Peace and Quiet"
+	quest.7F1A9B044B5F9703.quest_desc: ["These &bprocessors&r are not used a lot, compared to the others, 16 should be enough to start with"]
+	quest.7F1A9B044B5F9703.quest_subtitle: "We have made a sandwich"
+	quest.7F1A9B044B5F9703.title: "Engineering Processor"
 	quest.7F6E4C605AD3DC95.quest_desc: [
 		"This is my favorite thing in all Evilcraft... This Broom will come in hand in case you don't like using &ejetpacks&r that might contaminate our precious air."
 		""
@@ -4207,25 +4405,25 @@
 	task.2C410B95C396D49A.title: "Get an Ashy Mining Bee"
 	task.2ED36935EC5C9C93.title: "Any CreativeFlyType/Jetpack"
 	task.30F9A7474D527EA6.title: "Did you catch all?"
-	task.32B2A31CC3561D0A.title: "Any Dense Covered Cable"
+	task.32B2A31CC3561D0A.title: "Dense convered fluix cable"
 	task.37245969B8BF18C4.title: "Check Please!"
-	task.378188B36D1EC503.title: "About Apotheosis"
+	task.3773257F65DF0B1D.title: "Extended Interface"
 	task.379F21343DF3C58C.title: "Get A Nomad Bee"
 	task.39001B6D46A193DF.title: "Placeholder"
 	task.3B75BD518D17E850.title: "Mod created by: &9DireWolf20"
 	task.3CF17D9E6A7FA068.title: "Any Ore"
 	task.3EBD4602D46B06F4.title: "Mysterious cube"
 	task.41C0455F2876E6BB.title: "Mod created by: &3DireWolf20"
-	task.42F2038763A578EA.title: "Any Smart Cable"
+	task.42F2038763A578EA.title: "Smart cables"
 	task.42F282D144BDE847.title: "Storage!"
 	task.43A963B1CF474EE6.title: "Any Fluid Pump"
 	task.43CB1C4E1E8F0D33.title: "Build that spaghetti!"
 	task.467CAFDA51DC3CEB.title: "Tip #3"
 	task.48D15AB9A44B5ED5.title: "Example setup"
 	task.4B95D6163A48C9E4.title: "Any Elevator"
-	task.4BCD3E3224791871.title: "Visit the Overworld"
 	task.4C16ECE209685FC4.title: "Any #c:exaltedcrafter/tier/1"
-	task.4C26EB3A3558B59F.title: "Any Dense Smart Cable"
+	task.4C26EB3A3558B59F.title: "Dense smart cable"
+	task.4CC4125F5D13EE52.title: "Extended Pattern Provider"
 	task.4D77CB9540DD7B51.title: "Get a Reed Bee"
 	task.4E9AE9FE668879AE.title: "Redstone toggle"
 	task.4EC999DC78E9CD60.title: "Mod created by: &6Soaryn"
@@ -4260,8 +4458,9 @@
 	task.7C08B407252955A8.title: "Let's start to bee a beeliver"
 	task.7C17B430B816FFEF.title: "Genes"
 	task.7C3792BD4D5B2D27.title: "Get a Sweat Bee"
-	task.7EE476C64BEBFF8A.title: "Any Covered Cable"
-	task.7EF02B6515415F76.title: "Any Fluix Cable"
+	task.7EE476C64BEBFF8A.title: "Covered fluix cables"
+	task.7EF02B6515415F76.title: "Fluix cable"
+	task.7F3470F9BE65E9F9.title: "Wrenches"
 	task.7F5D760B4E0FF776.title: "Distributor"
 	task.7F5F3877B6F33DF7.title: "Get a Blue Banded Bee"
 }

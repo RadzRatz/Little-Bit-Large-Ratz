@@ -6,42 +6,19 @@
 	loot_size: 1
 	order_index: 12
 	rewards: [
+		{ item: { components: { "ftbquests:missing_item": "apotheosis:gem" }, count: 1, id: "ftbquests:missing_item" }, weight: 0.01f }
+		{ count: 10, item: { count: 1, id: "minecraft:bookshelf" } }
 		{
-			id: "667B28D7C214212A"
+			count: 10
 			item: {
 				components: {
-					"apotheosis:gem": "apotheosis:core/warlord"
-					"apotheosis:purity": "perfect"
+					"ftbquests:missing_item": "apotheosis:gem_dust"
 				}
 				count: 1
-				id: "apotheosis:gem"
-			}
-			weight: 0.01f
-		}
-		{
-			count: 10
-			id: "37F6D42291EAFE64"
-			item: {
-				count: 1
-				id: "minecraft:bookshelf"
-			}
-		}
-		{
-			count: 10
-			id: "5C10EE5BDE601905"
-			item: {
-				count: 1
-				id: "apotheosis:gem_dust"
+				id: "ftbquests:missing_item"
 			}
 			weight: 0.5f
 		}
-		{
-			id: "50EA0E85709B397B"
-			item: {
-				count: 1
-				id: "minecraft:dragon_breath"
-			}
-			weight: 0.01f
-		}
+		{ item: { count: 1, id: "minecraft:dragon_breath" }, weight: 0.01f }
 	]
 }

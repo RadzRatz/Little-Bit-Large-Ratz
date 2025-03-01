@@ -4,7 +4,7 @@
 	}
 	id: "70E4B58B275C350D"
 	loot_size: 1
-	order_index: 12
+	order_index: 13
 	rewards: [
 		{ item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:sculk" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" } }
 		{ count: 2, item: { components: { "minecraft:entity_data": { id: "productivebees:configurable_bee", type: "productivebees:draconic" } }, count: 1, id: "productivebees:spawn_egg_configurable_bee" } }

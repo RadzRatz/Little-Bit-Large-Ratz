@@ -4,7 +4,7 @@
 	}
 	id: "037CD8900A50DEEB"
 	loot_size: 1
-	order_index: 13
+	order_index: 14
 	rewards: [
 		{ count: 10, item: { count: 1, id: "minecraft:honeycomb" } }
 		{ count: 10, item: { count: 1, id: "minecraft:honey_bottle" } }
