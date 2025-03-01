@@ -1,0 +1,31 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis_60E93AB6224A9369"
+	group: "1624E0136E971599"
+	icon: {
+		id: "minecraft:grass_block"
+	}
+	id: "60E93AB6224A9369"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "4AEB916826B71BD3"
+		rewards: [{
+			id: "4095F1DACB2F4A65"
+			type: "xp"
+			xp: 100
+		}]
+		tasks: [{
+			dimension: "minecraft:overworld"
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "55CABFA8B358FD03"
+			type: "dimension"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

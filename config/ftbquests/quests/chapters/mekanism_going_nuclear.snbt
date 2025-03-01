@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "mekanism_going_nuclear"
 	group: "799C57E4146F24A8"
+	icon: {
+		id: "mekanism:radioactive_waste_barrel"
+	}
 	id: "731F653DF0327C9D"
 	order_index: 1
 	quest_links: [ ]

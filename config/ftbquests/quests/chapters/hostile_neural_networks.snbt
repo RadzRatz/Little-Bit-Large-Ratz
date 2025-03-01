@@ -1,0 +1,64 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hostile_neural_networks"
+	group: "44E753EB6A5C541F"
+	icon: {
+		id: "hostilenetworks:deep_learner"
+	}
+	id: "33BD2251DF8E61AA"
+	images: [
+		{
+			height: 1.0d
+			image: "hostilenetworks:item/deep_learner"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "hostilenetworks:item/blank_data_model"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "hostilenetworks:block/simulation_chamber_north"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "hostilenetworks:block/loot_fabricator_north"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "hostilenetworks:item/prediction_matrix"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 5.0d
+			image: "kubejs:textures/quest_images/hostileneuralnetworkslogo.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.5d
+			y: 2.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}
