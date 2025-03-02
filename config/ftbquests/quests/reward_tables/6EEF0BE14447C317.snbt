@@ -3,11 +3,33 @@
 	loot_size: 1
 	order_index: 4
 	rewards: [
-		{ count: 7, item: { count: 1, id: "evilcraft:dark_power_gem" } }
-		{ item: { count: 1, id: "evilcraft:garmonbozia" }, weight: 0.001f }
-		{ count: 5, item: { count: 1, id: "evilcraft:dark_gem" } }
+		{
+			count: 7
+			id: "4DE65AC0F23657C9"
+			item: {
+				count: 1
+				id: "evilcraft:dark_power_gem"
+			}
+		}
+		{
+			id: "3A67AA54B592F4F1"
+			item: {
+				count: 1
+				id: "evilcraft:garmonbozia"
+			}
+			weight: 0.001f
+		}
+		{
+			count: 5
+			id: "345DC49C7C1AABA3"
+			item: {
+				count: 1
+				id: "evilcraft:dark_gem"
+			}
+		}
 		{
 			count: 2
+			id: "7144BE1A3AA44175"
 			item: {
 				components: {
 					"minecraft:entity_data": {
@@ -22,6 +44,7 @@
 		}
 		{
 			count: 2
+			id: "127DE49E8B7318EE"
 			item: {
 				components: {
 					"minecraft:entity_data": {
@@ -34,7 +57,21 @@
 			}
 			weight: 0.1f
 		}
-		{ count: 4, item: { count: 1, id: "evilcraft:flesh_werewolf" } }
-		{ item: { count: 1, id: "evilcraft:flesh_rejuvenated" }, weight: 0.001f }
+		{
+			count: 4
+			id: "586CEA2627B4D7F0"
+			item: {
+				count: 1
+				id: "evilcraft:flesh_werewolf"
+			}
+		}
+		{
+			id: "6D6F360E78CAB65E"
+			item: {
+				count: 1
+				id: "evilcraft:flesh_rejuvenated"
+			}
+			weight: 0.001f
+		}
 	]
 }

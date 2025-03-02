@@ -7,7 +7,7 @@
 	order_index: 16
 	rewards: [
 		{
-			id: "187677341188DEE1"
+			id: "0230F0D71077B4B9"
 			item: {
 				components: {
 					"minecraft:stored_enchantments": {
@@ -22,7 +22,7 @@
 			weight: 2.0f
 		}
 		{
-			id: "1FAE2AF26C87ADCC"
+			id: "647E052805A23EEC"
 			item: {
 				components: {
 					"minecraft:stored_enchantments": {
@@ -37,7 +37,7 @@
 			weight: 0.5f
 		}
 		{
-			id: "433B8701AA40D85C"
+			id: "4564816A8EAADAEE"
 			item: {
 				components: {
 					"minecraft:stored_enchantments": {
@@ -53,7 +53,7 @@
 		}
 		{
 			count: 6
-			id: "6BC688504F83A945"
+			id: "5A30410BF6EF4C2F"
 			item: {
 				count: 1
 				id: "minecraft:sugar"
@@ -63,7 +63,7 @@
 		}
 		{
 			count: 6
-			id: "080EA2923D1F54EA"
+			id: "1D0685982ECE79F5"
 			item: {
 				count: 1
 				id: "minecraft:clock"
@@ -72,7 +72,7 @@
 			weight: 2.8f
 		}
 		{
-			id: "5DCE32A2F1497E5C"
+			id: "10EA66E8E8C17C94"
 			item: {
 				count: 1
 				id: "minecraft:nether_star"
@@ -81,7 +81,7 @@
 		}
 		{
 			count: 2
-			id: "4DF55C5A095321DE"
+			id: "19E8CFAB5B3484C7"
 			item: {
 				count: 1
 				id: "minecraft:pointed_dripstone"
@@ -90,7 +90,7 @@
 			weight: 2.0f
 		}
 		{
-			id: "65CE3BC821B621A3"
+			id: "787B87E97C9B408E"
 			item: {
 				count: 1
 				id: "minecraft:soul_lantern"
@@ -99,7 +99,7 @@
 			weight: 0.5f
 		}
 		{
-			id: "2AEA95712FFAA73C"
+			id: "0EF322BC084D580D"
 			item: {
 				count: 1
 				id: "minecraft:chorus_fruit"
@@ -108,7 +108,7 @@
 			weight: 0.18f
 		}
 		{
-			id: "2798C3A5CC51E480"
+			id: "639AF8A84DFEF997"
 			item: {
 				count: 1
 				id: "minecraft:conduit"
@@ -117,7 +117,7 @@
 		}
 		{
 			count: 2
-			id: "4E1173417D924B89"
+			id: "5B3E053A8C5DF3A4"
 			item: {
 				count: 1
 				id: "minecraft:comparator"
@@ -127,7 +127,7 @@
 		}
 		{
 			count: 2
-			id: "7953D5D83D46DE20"
+			id: "11A9AF8FA4ADF02F"
 			item: {
 				count: 1
 				id: "minecraft:piston"
@@ -137,7 +137,7 @@
 		}
 		{
 			count: 2
-			id: "3F815AED239379E0"
+			id: "6B50547836E155DD"
 			item: {
 				count: 1
 				id: "minecraft:fermented_spider_eye"
@@ -147,7 +147,7 @@
 		}
 		{
 			count: 2
-			id: "49035FAF6FDBB005"
+			id: "65C87E3528947C65"
 			item: {
 				count: 1
 				id: "minecraft:ghast_tear"
@@ -155,7 +155,7 @@
 			random_bonus: 1
 		}
 		{
-			id: "1F5CDB2E0A21DC9E"
+			id: "0A71CC2FC6DBD9B7"
 			item: {
 				count: 1
 				id: "minecraft:echo_shard"
@@ -164,7 +164,7 @@
 			weight: 0.15f
 		}
 		{
-			id: "58D0E0A4E99130EC"
+			id: "15DA5BEF50D498F4"
 			item: {
 				count: 1
 				id: "minecraft:campfire"
@@ -174,7 +174,7 @@
 		}
 		{
 			count: 2
-			id: "4CEFD7EC8EE216D0"
+			id: "779FC655A25838A2"
 			item: {
 				count: 1
 				id: "minecraft:white_wool"
@@ -183,7 +183,7 @@
 			weight: 2.5f
 		}
 		{
-			id: "641E7182120FA4A2"
+			id: "4D4CEE45D3194737"
 			item: {
 				count: 1
 				id: "minecraft:turtle_egg"
@@ -192,7 +192,7 @@
 		}
 		{
 			count: 2
-			id: "4B50AC5C0D64D7A3"
+			id: "17C63A04BB84AEBA"
 			item: {
 				count: 1
 				id: "minecraft:prismarine_crystals"

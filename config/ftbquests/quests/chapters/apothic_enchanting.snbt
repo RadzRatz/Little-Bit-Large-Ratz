@@ -7,8 +7,8 @@
 	icon: {
 		id: "minecraft:enchanting_table"
 	}
-	id: "4E8B9F24557935B3"
-	order_index: 0
+	id: "5ECFFC609789024D"
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -333,7 +333,7 @@
 			id: "774EF435A320B705"
 			tasks: [{
 				id: "55DC9A04832E44AF"
-				item: { components: { "minecraft:potion_contents": { potion: "minecraft:long_night_vision" }, "minecraft:unbreakable": { } }, count: 1, id: "apotheosis:potion_charm" }
+				item: { components: { "ftbquests:missing_item": "apotheosis:potion_charm" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -4.5d
