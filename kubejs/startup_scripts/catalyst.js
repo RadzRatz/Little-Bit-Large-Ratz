@@ -1,3 +1,5 @@
+Platform.mods.kubejs.name = 'Catalyst Studios';
+
 StartupEvents.registry('item', catalyst => {
     catalyst.create('storage_catalyst').displayName('Storage Catalyst').texture('catalyst:item/storage_catalyst')
     catalyst.create('innovation_catalyst').displayName('Innovation Catalyst').texture('catalyst:item/innovation_catalyst')
