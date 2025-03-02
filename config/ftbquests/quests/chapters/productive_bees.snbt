@@ -1842,6 +1842,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_ashy_mining_bee"
 			}
@@ -1864,6 +1865,7 @@
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "62BB3FE6CDA129F7"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -1875,6 +1877,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_blue_banded_bee"
 			}
@@ -1890,12 +1893,14 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 9L
 					id: "3A85ED2BEBF7ADF0"
 					item: { count: 10, id: "actuallyadditions:palis_crystal_shard" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "60E34109C348EDAE"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -1907,6 +1912,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_green_carpenter_bee"
 			}
@@ -1922,12 +1928,14 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 9L
 					id: "327F77EB7053DF52"
 					item: { count: 9, id: "actuallyadditions:emeradic_crystal_shard" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "58D8D4C132D9D755"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -1939,6 +1947,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_yellow_black_carpenter_bee"
 			}
@@ -1954,12 +1963,14 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 4L
 					id: "01E69F88E3DB6ED6"
 					item: { count: 4, id: "handcrafted:yellow_cushion" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "0A9891FF3E8351E4"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -1970,6 +1981,7 @@
 			y: 6.0d
 		}
 		{
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_chocolate_mining_bee"
 			}
@@ -1984,12 +1996,14 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 4L
 					id: "34A6524BA79A8A5E"
 					item: { count: 1, id: "farmersdelight:chocolate_pie" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "07B007043744EF24"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2001,6 +2015,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_digger_bee"
 			}
@@ -2016,18 +2031,21 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 16L
 					id: "730C50D5F3DAD86F"
 					item: { count: 16, id: "minecraft:dirt" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 16L
 					id: "680BA4B7A75A412A"
 					item: { count: 16, id: "minecraft:stone" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "76A5640ACF08D6BB"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2039,6 +2057,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_leafcutter_bee"
 			}
@@ -2054,18 +2073,21 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 16L
 					id: "0C8BB65C9A88312A"
 					item: { count: 16, id: "minecraft:oak_leaves" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 16L
 					id: "1625538E052E03A9"
 					item: { count: 16, id: "minecraft:cherry_leaves" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "7BA773D804A166E9"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2077,6 +2099,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_mason_bee"
 			}
@@ -2092,12 +2115,14 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 16L
 					id: "4D6ED0FFA16B7F32"
 					item: { components: { "twilightforest:jar_lid": { lid: "twilightforest:twilight_oak_log" } }, count: 16, id: "twilightforest:mason_jar" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "67A16FF69949B3AA"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2109,6 +2134,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_neon_cuckoo_bee"
 			}
@@ -2124,18 +2150,21 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 16L
 					id: "14616BD28AF64B13"
 					item: { count: 16, id: "minecraft:glowstone" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "2DDA814C304571B5"
 					item: { count: 4, id: "minecraft:blue_dye" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "042DE75D814E7926"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2147,6 +2176,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "productivebees:spawn_egg_nomad_bee"
 			}
@@ -2162,11 +2192,13 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					id: "7E4B3877FEE01836"
 					item: { count: 1, id: "productivebees:spawn_egg_ashy_mining_bee" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "5DBF1F1C10889351"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2178,6 +2210,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				components: {
 					"minecraft:entity_data": {
@@ -2205,17 +2238,20 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					id: "4005565ED9E691CD"
 					item: { count: 1, id: "minecraft:ghast_tear" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "5CC328F4D5A3DF30"
 					item: { count: 4, id: "minecraft:honey_block" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "59D60F318FDE1BD1"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2227,6 +2263,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				components: {
 					"minecraft:entity_data": {
@@ -2254,12 +2291,14 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 4L
 					id: "3FED093C8C481BBA"
 					item: { count: 4, id: "minecraft:sculk" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "7BF8F4E2851FB7A8"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2271,6 +2310,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				components: {
 					"minecraft:entity_data": {
@@ -2298,11 +2338,13 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					id: "170D1E9E011EEAAD"
 					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:foods/soups)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "358B63C55EE019E6"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2314,6 +2356,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				components: {
 					"minecraft:entity_data": {
@@ -2341,24 +2384,28 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 16L
 					id: "1BE7EAF031120E49"
 					item: { count: 16, id: "minecraft:end_stone" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 6L
 					id: "183B19DEC92579E0"
 					item: { count: 6, id: "minecraft:ender_eye" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "59F929EA3221650C"
 					item: { count: 4, id: "minecraft:obsidian" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "7CBE9E954C842283"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2370,6 +2417,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				components: {
 					"minecraft:entity_data": {
@@ -2397,12 +2445,14 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 4L
 					id: "4B97FCCB36B6C018"
 					item: { count: 4, id: "minecraft:magma_block" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "00E582CB14B2B8B3"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2414,6 +2464,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				components: {
 					"minecraft:entity_data": {
@@ -2441,11 +2492,13 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					id: "5D610984B50807B3"
 					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:foods/raw_fish)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "2270CD1B1BF14B50"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2457,6 +2510,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				components: {
 					"minecraft:entity_data": {
@@ -2484,24 +2538,28 @@
 			}]
 			tasks: [
 				{
+					consume_items: true
 					count: 64L
 					id: "6912FA60A1F26AA3"
 					item: { count: 64, id: "minecraft:sugar" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 64L
 					id: "1A5BA4D46B893666"
 					item: { count: 64, id: "minecraft:sugar_cane" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 16L
 					id: "4ABD98D14ABB2C0C"
 					item: { count: 16, id: "minecraft:cocoa_beans" }
 					type: "item"
 				}
 				{
+					consume_items: true
 					count: 4L
 					id: "5839D8C81B21739F"
 					item: { count: 4, id: "minecraft:honeycomb_block" }
@@ -2513,6 +2571,7 @@
 		}
 		{
 			can_repeat: true
+			disable_toast: true
 			icon: {
 				id: "minecraft:bee_spawn_egg"
 			}
@@ -2527,6 +2586,7 @@
 				type: "item"
 			}]
 			tasks: [{
+				consume_items: true
 				count: 4L
 				id: "79C65DC329CAB82B"
 				item: { count: 4, id: "minecraft:honeycomb_block" }
