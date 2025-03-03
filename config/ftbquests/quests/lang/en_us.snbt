@@ -14,15 +14,15 @@
 	chapter.33BD2251DF8E61AA.title: "Hostile Neural Networks"
 	chapter.376B718EFCF5AACE.title: "Functional Storage"
 	chapter.4143A153EDB194E8.title: "Pipez"
+	chapter.46FE3A44D3ECB19B.title: "Apotheosis"
 	chapter.4A53A54E581CD0B3.title: "&a&lUseful&f Mods"
 	chapter.4BF27D0A53F14584.title: "Mekanism: The Basics"
 	chapter.4E8B9F24557935B3.title: "Apothic Enchanting"
 	chapter.4ECE52DB829D7DC4.title: "Sophisticated Storage"
 	chapter.558E65AB78354674.title: "Energized Power"
-	chapter.60E93AB6224A9369.title: "Apotheosis"
 	chapter.661254AE0EBD66A8.title: "All of Macaw's Decorations"
 	chapter.6C942D6BA7090A71.title: "Productive Bees"
-	chapter.6D1B091BA4B10868.title: "&lSolar Generation"
+	chapter.6D1B091BA4B10868.title: "Solar Generation"
 	chapter.6E7DE3824D41BB16.title: "Theurgy"
 	chapter.707DFCF38F8333D4.title: "Just Dire Things"
 	chapter.731F653DF0327C9D.title: "Mekanism: Going Nuclear"
@@ -39,6 +39,7 @@
 	chapter_group.799C57E4146F24A8.title: "Technology"
 	chapter_group.7DB43C7557896446.title: "Magic"
 	file.0000000000000001.title: "Little Bit Large"
+	quest.0018BE7C428A3137.quest_desc: ["&bCtrl+T&r to open screen"]
 	quest.003142001F6FDC93.quest_desc: ["Now that you have &aExtendedAE&r, you should check the &dprocessor&r recipes and change your old setup for a better one and faster"]
 	quest.003142001F6FDC93.quest_subtitle: "UPGRADES - some average GregTech Player"
 	quest.003C69131CD0DA79.quest_desc: [
@@ -81,6 +82,7 @@
 		"Applying negative pressure to an air grate will cause it to suck things in instead of blowing them away."
 	]
 	quest.01AC9F09A84155B8.quest_subtitle: "Sucktion"
+	quest.01B5A1E674D7AF1E.quest_desc: ["4x Echoing Sculkshelf, 1x Melonshelf, 1x Normal Bookshelf"]
 	quest.01BBE3BF6F5EAE35.quest_desc: ["Instead of filters acting as whitelist, now it acts as blacklists"]
 	quest.01BBE3BF6F5EAE35.quest_subtitle: "pǝʇɹǝʌuᴉ"
 	quest.01C22467B074967C.quest_desc: [
@@ -115,6 +117,7 @@
 	]
 	quest.0263BA792A5781AC.quest_subtitle: "Fishing time"
 	quest.0263BA792A5781AC.title: "Weather gene"
+	quest.02D23779EC7C72E4.title: "Soul-Touched Deepshelf"
 	quest.02E409957CF1A24F.quest_desc: [
 		"Creating source gems isn't the only thing the imbuement chamber is used for."
 		""
@@ -143,6 +146,7 @@
 	quest.036C58E2C3423F58.quest_subtitle: "You're a wizard harry..."
 	quest.036C58E2C3423F58.title: "&l&dArs Nouveau"
 	quest.03F4B189616EDCBC.quest_desc: ["Adds more nuanced distribution options. Allows for Round Robin configuration, Nearest First, Furthest First, and Random distribution."]
+	quest.04787EFC50B743C2.title: "Draconic Endshelf"
 	quest.0492F1947C0D0901.quest_desc: ["Jar is used to get source from your network"]
 	quest.0492F1947C0D0901.quest_subtitle: "In a jar"
 	quest.04BA44C84D598B0C.quest_desc: [
@@ -155,6 +159,9 @@
 		"if for some reason this doesn't work the rod animation will operate like a game of hot and cold."
 	]
 	quest.04BA44C84D598B0C.quest_subtitle: "prospecting"
+	quest.0539774D6FEBD2D4.quest_desc: ["Hellshelf of Sight"]
+	quest.0539774D6FEBD2D4.quest_subtitle: "What could it be?"
+	quest.0539774D6FEBD2D4.title: "Enchanting Clues"
 	quest.057C34F21922414A.quest_desc: [
 		"The uv light box is used to increase the etch success chance on your empty PCBs the longer they stay inn the higher the chance of success"
 		""
@@ -185,6 +192,7 @@
 	]
 	quest.060E4B2A707CF6E5.quest_subtitle: "Mining the sky"
 	quest.060E4B2A707CF6E5.title: "Sky stone dust farm"
+	quest.06193F4FCFE796C6.title: "Soul-Touched Sculkshelf"
 	quest.062FB5E168C9D41E.quest_desc: [
 		"To set up a henge place an inventory and a source jar adjacent to the henge then spawn in your Drygmys then place your jarred mobs inside a 10 block range of the henge."
 		""
@@ -210,6 +218,15 @@
 		"#Range: 0 ~ 300"
 		"drygmyQuantityCap = 5"
 	]
+	quest.06BB747C353B7A3B.quest_desc: [
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
+		""
+		"&bHostile Neural Networks&r questline made by: &o&l&5ArcTrooper&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.06BB747C353B7A3B.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.06BB747C353B7A3B.title: "&l&4Catalyst Studios Quests"
 	quest.06D93FEF99C1385C.title: "Sussy Bee"
 	quest.06EA43B239BD0B56.quest_desc: [""]
 	quest.06EA43B239BD0B56.quest_subtitle: "The Beginning"
@@ -263,6 +280,8 @@
 		"The camouflage applicator is able to hide pipes among other things."
 	]
 	quest.08F416131D7643D3.quest_subtitle: "Ugly pipes? fear not"
+	quest.091E5C879772310D.quest_desc: [""]
+	quest.091E5C879772310D.title: "Removing Curses"
 	quest.0925EFA03EAFF209.quest_desc: [
 		"This is your main way to process combs from Productive bee mod."
 		""
@@ -305,8 +324,8 @@
 	quest.09AA28D69D0D696E.quest_desc: ["Candles are used in most if not all rituals"]
 	quest.09AA28D69D0D696E.title: "Organic candles"
 	quest.0A570D70294358D0.quest_desc: [
-		"Whilst pipes will \"function\" perfectly fine without upgrades, their versatility and applicability are greatly enhanced with upgrades.  "
-		"Upgrades not only improve transfer speeds and amounts but also add different configurations."
+		"While pipes will \"function\" perfectly fine without upgrades, their versatility and applicability are greatly enhanced with upgrades.  "
+		"Upgrades not only improve transfer speeds and amounts, but they also add different configuration options."
 		""
 		"Configurations allow you to change the behavior of the Pipez, which will be explained in later quests, and include:  "
 		"&5- Redstone mode &r "
@@ -314,13 +333,13 @@
 		"&5- Destination/Distribution mode"
 		"&r"
 		"&6This pack has modified the upgrades to allow all of them to use any configuration. As a result, you now have the flexibility to choose the exact upgrade you need, rather than&r &6being forced to use a diamond upgrade just to set a filter.&r"
-		"&4The changes were made in response to known issues with lag when Pipez tries to push into full inventories, which is only amplified by higher speeds and amounts. so please avoid using faster upgrades than necessary.&r"
+		"&4The changes were made in response to known issues with lag when Pipez tries to push into full inventories, which is only amplified by higher speeds and amounts. So please avoid using faster upgrades than necessary.&r"
 		""
 		"Second page is info dump for upgrades and what they do"
 		"{@pagebreak}"
-		"info dump pipe speeds and transfere amounts"
+		"Info dump of pipe speeds and transfer amounts"
 		"&e[item_pipe.speed]&r"
-		"ticks per operations"
+		"Ticks per operation"
 		"&8no_upgrade = 20&r"
 		"basic = 15"
 		"&eimproved = 10&r"
@@ -328,7 +347,7 @@
 		"&5ultimate = 1&r"
 		""
 		"&e[item_pipe.amount]&r"
-		"items per operation"
+		"Items per operation"
 		"&8no_upgrade = 4&r"
 		"basic = 8"
 		"&eimproved = 16&r"
@@ -336,28 +355,29 @@
 		"&5ultimate = 64&r"
 		""
 		"&b[fluid_pipe.amount]&r"
-		"amount transfered per tick in mb"
-		"&8no_upgrade = 50&r"
-		"basic = 100"
-		"&eimproved = 500&r"
-		"&badvanced = 2000&r"
-		"&5ultimate = 10000&r"
+		"Amount transfered per tick in mb"
+		"&8no_upgrade = 50 mB/t&r"
+		"basic = 100 mB/t"
+		"&eimproved = 500 mB/t&r"
+		"&badvanced = 2,000 mB/t&r"
+		"&5ultimate = 10,000 mB/t&r"
 		""
 		"&4[energy_pipe.amount]&r"
-		"amount of FE transferred each tick"
-		"&8no_upgrade = 256&r"
-		"basic = 1024"
-		"&eimproved = 8192&r"
-		"&badvanced = 32768&r"
-		"&5ultimate = 131072&r"
+		"Amount of FE transferred each tick"
+		"&8no_upgrade = 256 FE/t&r"
+		"basic = 1,024 FE/t"
+		"&eimproved = 8,192 FE/t&r"
+		"&badvanced = 32,768 FE/t&r"
+		"&5ultimate = 131,072 FE/t&r"
 		""
 		"&a[gas_pipe.amount]&r"
-		"amount of gas/chemical transfered per tick in mB"
-		"&8no_upgrade = 200&r"
-		"basic = 400"
-		"&badvanced = 8000&r"
-		"&5ultimate = 40000&r"
+		"Amount of gas/chemical transfered per tick in mB"
+		"&8no_upgrade = 200 mB/t&r"
+		"basic = 400 mB/t"
+		"&badvanced = 8,000 mB/t&r"
+		"&5ultimate = 40,000 mB/t&r"
 	]
+	quest.0A570D70294358D0.quest_subtitle: "Faster!"
 	quest.0A570D70294358D0.title: "Upgrades/Configurations"
 	quest.0A691F71CA79DCB0.quest_desc: [
 		"This is one of my favourite fluid tanks within all of modded mc, it's quite cheap and it's incredibly similar to the Mekanism Tanks!"
@@ -472,7 +492,7 @@
 	]
 	quest.0C513C2290CB94DA.quest_subtitle: "in the form of a bucket!"
 	quest.0C513C2290CB94DA.title: "&l&1Infinite Water"
-	quest.0C6B960703FA685F.quest_desc: ["Transferes fe/rf"]
+	quest.0C6B960703FA685F.quest_desc: ["Transfers FE/RF."]
 	quest.0C7B1EBED4C008AC.quest_desc: [
 		"Imagine you want to have always 500 stone bricks in your &bnetwork&r."
 		""
@@ -546,11 +566,13 @@
 		"You can change the spawned mob by right-clicking the spawner with its spawn egg."
 	]
 	quest.0DACD6F3077FBD20.title: "Apothic Spawners!"
+	quest.0DB2F08E593B2B93.quest_desc: ["10x Crystalline Seashelf and 5x Normal Bookshelves"]
+	quest.0DB2F08E593B2B93.title: "Budding Amethyst"
 	quest.0DB34FF7DC6B31CC.title: "Blue Banded Bee"
 	quest.0DB992CAB5B99494.quest_desc: ["Instead of combs, you get blocks, which are 4 combs, but they are quite expensive too"]
 	quest.0DB992CAB5B99494.quest_subtitle: "Blocky"
 	quest.0DC883B46880A03C.quest_desc: ["Enchant a weapon with &bCapturing&r to have a chance of getting it's spawn egg!"]
-	quest.0DC883B46880A03C.quest_subtitle: "Which came first? The chicken or the egg?"
+	quest.0DC883B46880A03C.quest_subtitle: "Who came first? The chicken or the egg?"
 	quest.0DC883B46880A03C.title: "Getting Spawn Eggs"
 	quest.0DF3C82DFF5E308A.quest_desc: [
 		"To get started  with Ars Nouveau you are going to need to get your hands on some Archwood planks."
@@ -575,6 +597,7 @@
 		"We can do a combination of these promises to 'upgrade' our machines/blocks for a better performance in each process, there are 3 slots for these promises, so go wild and look at whats best for your machines!"
 	]
 	quest.0E8C2C8D2D00843A.title: "Useful Promises"
+	quest.0E96A0AEBFCAD34D.title: "Geode-Encased Bookcase of Stability"
 	quest.0EB614A5D08D59BD.title: "Solar Helmet &l&5V7"
 	quest.0EF171C9D1A27B99.quest_desc: [
 		"PNC comes with a handy villiger which trades you everything you could need except for plastic. In fact he is so good that if you have these you don't even need to build a pressure chamber."
@@ -655,6 +678,7 @@
 		"After that, you pass your cells to one of these &amachines&r to join all &eitems&r of the same type to a single cell, to save on types"
 	]
 	quest.0FFFD7F307112518.quest_subtitle: "Move content from cells"
+	quest.1092F4D5F4D6C072.title: "Frontier"
 	quest.109871D7E0FD1BF3.quest_desc: ["The stack upgrade increases the number of items sent per operation and applies to all compatible modules in the router (granted the module doesn't have stack augments). Each upgrade doubles the amount of items that can be sent per operation, meaning the maximum effective upgrades are 6 (2⁶)."]
 	quest.10B2FF4D07F806B7.quest_desc: [
 		"The pressure tube is used to move and contain your air."
@@ -849,6 +873,9 @@
 	quest.15BA38377EA9D7A2.quest_desc: ["Now that we are generating 4096FE/t we can begin to grow our factory with more machines..."]
 	quest.15BA38377EA9D7A2.quest_subtitle: "I'm Out of Subtitles"
 	quest.15BA38377EA9D7A2.title: "&l&3Resonant Solar Panel"
+	quest.162694C7F0BA16A9.quest_desc: [""]
+	quest.162694C7F0BA16A9.quest_subtitle: "&oYawn"
+	quest.162694C7F0BA16A9.title: "Dormant Deepshelf"
 	quest.16359AA62D3FE75B.quest_desc: [
 		"The Spirit Furnace is a way to farm mob drops by using a trapped spirit on the Spirit Box, kinda similar to a &dSimulation Chamber&r from Hostile Neural Networks. The only difference here, is that this is a multiblock and it uses &4blood&r instead of &cenergy&r!"
 		""
@@ -933,13 +960,13 @@
 	]
 	quest.1893C08C4FA72DCC.quest_subtitle: "The easy way"
 	quest.18996DFF949E4494.quest_desc: [
-		"Destination spesific filters."
-		"Pipez allows you to set filters to spesific locations using the destination tool."
-		"you set the destination by  right clicking the side you want to send to then you click the destination tool onto the slot for it in the filter."
+		"Pipez allows you to set filters to specific locations using the destination tool."
+		"You set the destination by &bright-clicking&r the side you want to &bsend to&r then you click the destination tool onto the slot for it in the filter."
 		""
 		"&4NOTE!!&r"
-		"&4Destination filters are side spesific so do make sure you get the correct side that the pipe connects to if not the filter wont work.&r"
+		"&4Destination filters are side specific, so make sure you get the correct side that the pipe connects to. If you don't, the filter won't work.&r"
 	]
+	quest.18996DFF949E4494.quest_subtitle: "Destination specific filters"
 	quest.1967006A4AFEE71C.quest_desc: ["The upcoming creatures need to be created with the tablet of awakening."]
 	quest.1967006A4AFEE71C.quest_subtitle: "Expanding the labor force"
 	quest.199EE3B22FAFAC74.quest_desc: [
@@ -974,6 +1001,7 @@
 	quest.1AD0B6FC4101DE41.quest_desc: ["This item acts like a remote terminal and allows you to access your storage from anywhere in your world."]
 	quest.1AD0B6FC4101DE41.title: "Remote Access"
 	quest.1AD8C1337F69E1C5.quest_desc: ["Makes the spawner require a &bredstone signal&r to function."]
+	quest.1AD8C1337F69E1C5.quest_subtitle: "Pull the lever Kronk!"
 	quest.1AD8C1337F69E1C5.title: "Redstone Toggle"
 	quest.1AF3E9F16A147816.quest_desc: ["Now, the armor has a lot of &3upgrades&r that you can put, similar to &aMystical Agriculture&r's armor or the Mekasuit from &aMekanism&r."]
 	quest.1AF3E9F16A147816.quest_subtitle: "Upgrades"
@@ -997,6 +1025,12 @@
 		""
 		"&4(NOTE! does not regulate pressure in both ways.)&r"
 	]
+	quest.1B7D92A34E8743E2.quest_desc: [
+		"E -2"
+		"Q -10%"
+	]
+	quest.1B7D92A34E8743E2.title: "&aMelonshelf"
+	quest.1C2725141CCA39D7.quest_desc: ["3x Soul-Touched Sculkshelf, 1x Draconic Endshelf"]
 	quest.1C966B51149B598F.title: "Magmatic Bee"
 	quest.1CC084EAB233E5FE.quest_desc: [
 		"Not as broken as &aExtendedAE&r, but still, it allows some insane setups, specially the &ddupe&r method or the &bCPU&r."
@@ -1092,6 +1126,8 @@
 	quest.1E9DEB2861DAE355.quest_subtitle: "Yep, we have started the mod"
 	quest.1E9DEB2861DAE355.title: "Honey Treat"
 	quest.1EACFBCABFF93EE6.quest_desc: ["If you don't already have another kind of liquid experience to use to fill the spawner cores you can use this item to store experience then use it on a tank to get memory essence."]
+	quest.1EE93E4C80945A97.quest_desc: [""]
+	quest.1EE93E4C80945A97.title: "Max Enchanting Setup"
 	quest.1F9003B2E0134DEF.quest_desc: ["Allows the router to place blocks. It can also be used to plant crops, such as sugar cane, cocoa pods, and Ars fruits."]
 	quest.1F94352650044208.quest_desc: ["In order to use the &dAdvanced&r &aExtended&r &6Pattern provider&r (who put names in here?), you need to use this tool to convert them"]
 	quest.1F94352650044208.quest_subtitle: "New patterns"
@@ -1341,6 +1377,11 @@
 		"read ars nouveau worn notebook under ars Ocultas for more info"
 	]
 	quest.253D4934AE39B4DA.title: "Bottled Demons"
+	quest.254B7CA3BF8C296B.quest_desc: [
+		"E -30"
+		"Q +100%"
+	]
+	quest.254B7CA3BF8C296B.title: "&6Beeshelf"
 	quest.2574C8E53EFD83E1.quest_desc: ["Items and circuits, good combination"]
 	quest.2574C8E53EFD83E1.quest_subtitle: "Items"
 	quest.2577E2D827AC5D6C.quest_desc: ["Will generate source from Mob deaths, Breading and passively of baby animals as well as acell their growth"]
@@ -1402,6 +1443,7 @@
 	]
 	quest.27E705A8E21A5236.quest_subtitle: "An Upgrade in the form of a Promise..."
 	quest.27E705A8E21A5236.title: "Our First &lPromise"
+	quest.2818BDCD7EDDDDDB.title: "Heart-Forged Seashelf"
 	quest.286161478F4107E8.quest_desc: ["Augments are used to enhance or modify the behavior of individual modules."]
 	quest.28904D17FA902B9C.quest_desc: [
 		"This is on of those &aaddons&r that you will use a lot, but when i say a lot, it's a lot."
@@ -1452,6 +1494,7 @@
 	]
 	quest.2992DF31EA2F37F1.quest_subtitle: "From ores to raw ores"
 	quest.2992DF31EA2F37F1.title: "Ore processing"
+	quest.29ABE9033578C179.title: "Echoing Sculkshelf"
 	quest.29DD8D76E24CCE26.quest_desc: [
 		"The mod &l&aNature's Compass&r will aid us our search for that incredible &2Biome&r we want our base in..."
 		""
@@ -1512,12 +1555,14 @@
 		"&8&opssst... Its above this one in case you didn't find it&r"
 	]
 	quest.2AC25C2A0F0A8043.quest_desc: [
-		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them"
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
 		""
-		"Pipez Questline made by: &aApexSlayer&r"
+		"&bPipez&r questline made by: &aApexSlayer&r"
 		""
 		"If you are seeing this, it means you are in editing mode"
 	]
+	quest.2AC25C2A0F0A8043.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.2AC25C2A0F0A8043.title: "&l&4Catalyst Studios Quests"
 	quest.2AE4D5671C45025B.quest_desc: [
 		"Works like both a Builder and a Breaker module. When given a redstone signal (behavior can be altered), it places blocks in the configured direction from the router's buffer. These are actual blocks, not ghost blocks like MK2. It can also be used for farming, such as planting rows of cocoa or other fruits on logs, etc."
 		""
@@ -1721,12 +1766,22 @@
 		"This item is uncraftable at the moment, but it may become craftable in a near future... Heads up for future updates and see you next time!"
 	]
 	quest.2FE1CD6DDFDF2F31.title: "&l¿The &4End&r?"
+	quest.2FE7E18D413274B6.title: "Infused Dragon's Breath"
 	quest.2FF33C9923F3A56C.quest_subtitle: "NASv9: ON"
 	quest.2FF33C9923F3A56C.title: "64M Storage Component"
 	quest.3006700ADFA33FAE.quest_desc: ["Allow supported machines to &4craft&r items on demand if they need because there aren't anymore on the &dnetwork&r"]
 	quest.3006700ADFA33FAE.quest_subtitle: "On-demand"
 	quest.300ED33E1226CF44.quest_desc: ["You will also need this for later, only 1 catcher"]
 	quest.300ED33E1226CF44.quest_subtitle: "Who's that bee"
+	quest.3015AE1C08827D3E.quest_desc: [
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
+		""
+		"&bApotheosis&r questline made by: &5ArcTrooper&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.3015AE1C08827D3E.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.3015AE1C08827D3E.title: "&l&4Catalyst Studios Quests"
 	quest.30290B4FDEF77D4C.quest_subtitle: "Same as Pattern Encoding Terminal"
 	quest.3031D9996B7B1DDD.quest_desc: [
 		"In order to generate Source you need some kind of Sourcelink  which there are several kinds for you to choose from."
@@ -1767,7 +1822,7 @@
 		"When you insert tons of items, like 9 stacks per tick, on an interface, it will use a lot of power, so it can help a lot in those kind of scenarios"
 	]
 	quest.312977962EF7DFA3.quest_subtitle: "Storing energy?"
-	quest.312BA63EB275D0B0.quest_desc: ["all pipez with a upgrade can be controlled with a redstone signal"]
+	quest.312BA63EB275D0B0.quest_desc: ["All pipez with a upgrade can be controlled with a &bredstone signal&r."]
 	quest.312BA63EB275D0B0.title: "Redstone mode"
 	quest.313E0224222B0EAD.quest_desc: [
 		"More &bcertus&r? "
@@ -1809,8 +1864,8 @@
 		""
 		"Great for farming while doing other things!"
 	]
-	quest.328025E9BA01FBDC.quest_subtitle: "I Don't Need You"
-	quest.328025E9BA01FBDC.title: "Ignore Players"
+	quest.328025E9BA01FBDC.quest_subtitle: "I don't need you"
+	quest.328025E9BA01FBDC.title: "&dIgnore Players"
 	quest.325AD48FA7A279AB.quest_desc: [
 		"Once you have 32 &aentro&r crystal, you can dupe it or get a &6bee&r, whatever you like the most."
 		"The easiest one is &6bee&r."
@@ -1821,6 +1876,7 @@
 		"{image:kubejs:textures/quest_images/applied_energetic/entro_farm_2.png width:100 height:100 align:center fit:true}"
 	]
 	quest.325AD48FA7A279AB.quest_subtitle: "First step, Entropy"
+	quest.3292668B69E6A25D.title: "Endshelf"
 	quest.32B17FE87968D864.quest_desc: [
 		"Expensive....."
 		""
@@ -1830,10 +1886,12 @@
 	quest.32CA71F95A2FE5D3.quest_desc: ["These bricks are used in various blocks in this mod like compressors and chargers etc."]
 	quest.32CA71F95A2FE5D3.quest_subtitle: "Though rock"
 	quest.32CA71F95A2FE5D3.title: "Reinforced stone"
+	quest.338CC8C7E220FC3A.quest_subtitle: "Find your first affixed item!"
+	quest.338CC8C7E220FC3A.title: "Haven"
 	quest.32E4322646FFF017.quest_desc: ["Mobs ignore light level and will spawn in any light level."]
 	quest.32E4322646FFF017.quest_subtitle: "I'm legally blind"
-	quest.32E4322646FFF017.title: "Ignore Light Level"
-	quest.338CC8C7E220FC3A.quest_desc: [
+	quest.32E4322646FFF017.title: "&dIgnore Light Level"
+	quest.02286BA0F16600B1.quest_desc: [
 		"This will be a long journey, but I will try to be as simple as I can."
 		""
 		"&bAE2&r is meant to be a powerful tool but a bit &cdifficult&r to start with. "
@@ -1843,8 +1901,8 @@
 		""
 		"Some quests are &dhidden&r until you complete them (for you to focus) and you have quests for 5 addons ;)"
 	]
-	quest.338CC8C7E220FC3A.quest_subtitle: "This will be a long one"
-	quest.338CC8C7E220FC3A.title: "&dThe beginning of a journey"
+	quest.02286BA0F16600B1.quest_subtitle: "This will be a long one"
+	quest.02286BA0F16600B1.title: "&dThe beginning of a journey"
 	quest.341860979C6FB8C6.quest_desc: ["this image was set as a Placeholder for another one."]
 	quest.341860979C6FB8C6.title: "Placeholder"
 	quest.342249E9DEEF064F.quest_desc: ["This is basically a &emagnet&r, that can &4insert&r into the &dnetwork&r or inventory, also &afiltering&r for attracting items!"]
@@ -1882,7 +1940,11 @@
 		"It may or not take a while to transform, but once we get these I truly advise you on doing the Blood Infuser, with it, the creation of these gems will be easier and faster!"
 	]
 	quest.348C191492897716.title: "The &cDarkest&r of Gems"
-	quest.34A001109ABA014F.quest_desc: ["moves gasses/chemicals akak everything in mek that isnt a fluid or item."]
+	quest.34A001109ABA014F.quest_desc: [
+		"Moves &agasses&r and &achemicals&r. "
+		""
+		"AKA: everything in &bMekanism&r that isnt a fluid or an item."
+	]
 	quest.34C914F96A3A1A27.quest_desc: [
 		"This relay functions much like a splitter in that it can send to multiple locations."
 		""
@@ -1907,6 +1969,14 @@
 		"Also, check the other quests first, they will be useful later on"
 	]
 	quest.34E20FB41656A81A.quest_subtitle: "Before you start...."
+	quest.35052C9371FE6843.quest_desc: [
+		"The &4Blazing Hellshelf&r is not usually used in normal enchanting since it has a &c-1 Enchanting Clue debuff&r, but it is usually used in infusion setups. "
+		""
+		"We will not be using it in this questline, but you are free to experiement with other setups using this shelf!"
+	]
+	quest.35052C9371FE6843.quest_subtitle: "Lets go gambling!"
+	quest.35052C9371FE6843.title: "Blazing Hellshelf"
+	quest.35570C818FB1333F.quest_desc: ["6x Echoing Sculkshelf, 3x Melonshelf, 2x Draconic Endshelf, 2 Infused Seashelf"]
 	quest.359C9083E3B69D29.quest_desc: ["&cWarning&r! &eElectrical&r shock"]
 	quest.359C9083E3B69D29.quest_subtitle: "&cBottom&r"
 	quest.359C9083E3B69D29.title: "&cPrinted Energy Circuit"
@@ -2091,6 +2161,7 @@
 		"Normal Coal 1600t (8 items per coal) - Blood-Waxed Coal 3200t (16 items per coal)"
 	]
 	quest.3A5E0A470630131E.title: "Blood Coal"
+	quest.3A651E06C7FBF861.quest_desc: ["5 Hellshelves to infuse"]
 	quest.3A911DEE451C256F.quest_desc: [
 		"Are you tired of using (CTRL + Mouse Wheel) to zoom in/out from the quests?"
 		""
@@ -2193,18 +2264,21 @@
 		"{image:kubejs:textures/quest_images/productive_bees/hives.png width:100 height:100 align:center fit:true}"
 	]
 	quest.3CDBC61BD4DAA7F6.quest_subtitle: "Updates"
+	quest.3CFAB0154E4DC38E.title: "Ascent"
 	quest.3D394FEA4D7724C6.quest_desc: [
 		"The Pipez Wrench."
 		"You wont get far without a way to configure your pipez."
-		"However Pipez isnt all that picky and will accept most other wrenches in the game like mek configurator, certus wrench ect."
+		"However Pipez isnt all that picky and will accept most other wrenches in the game like &bMek Configurator&r, &bCertus Wrench&r, ect."
 		""
-		"The wrench is used to seperate and dissconect pipe segments and set pipes to extract."
+		"The wrench is used to &bseperate&r and &bdisconnect&r pipe segments and set pipes to &bextract.&r"
 		""
-		"&6Pipez does all its filters and configurations on the extract side there is no configurations on the input side.&r"
+		"&6Pipez does all its filters and configurations on the extract side. There are no configurations on the input side.&r"
 		""
-		"&4NOTE! &r"
-		"&4If the block the pipez extract point is set to gets updated in a way where the pipe looses connection the pipe will revert to a normal connection and drop the upgrade to the ground so its not adviced to ever use pipez in conjunction with a mek multiblock as they have a tendency to deform and reform on a whim.&r"
+		"&4NOTE!&r"
+		"&4If the block the pipez extract point is set to gets updated in a way where the pipe looses connection, the pipe will revert to a normal connection and drop the upgrade to the ground. It is not advised to ever use pipez in conjunction with a mek multiblock as they have a tendency to deform and reform on a whim.&r"
 	]
+	quest.3D394FEA4D7724C6.quest_subtitle: "One of many"
+	quest.3DF1A6F2F4DE5EA3.title: "Carrot Infusion"
 	quest.3DFD32A1A229E04F.quest_desc: [
 		"One of the kinds of candles you can use in Occultism is the tallow candle."
 		""
@@ -2344,7 +2418,7 @@
 	]
 	quest.4055D1BC0E7E2C21.title: "Auto Enchanter"
 	quest.40D0DEDD660A301E.quest_desc: [
-		"Decreases the amount of health mobs spawned with."
+		"Decreases the amount of health mobs are spawned with."
 		""
 		"Each dripstone will &b-5% to initial health&r to a &bmin of 20% health&r."
 	]
@@ -2362,7 +2436,13 @@
 		"You can replace any blocks in the walls with valves and ports or windows or pressure chamber interfaces &4except for the outer edges and corners.&r"
 	]
 	quest.40FF3CEA25F2CB54.title: "pressure chamber"
-	quest.41808246B6D14D0A.quest_desc: ["Transports items"]
+	quest.413527F17F167F3F.quest_desc: [
+		"1: 2x Echoing Sculkshelf"
+		"8: 5x Echoing Sculkshelf, 1x Soul-Touched Sculkshelf"
+		"32: 5x Echoing Sculkshelf, 3x Soul-Touched Sculkshelf, 1x Draconic Endshelf"
+	]
+	quest.413527F17F167F3F.title: "Honey to XP Bottles"
+	quest.41808246B6D14D0A.quest_desc: ["Transports items."]
 	quest.41B3A0FD5859D510.quest_desc: [
 		"The amethyst golem is a creature that will go around harvesting fully grown amethyst normally they will break the buds however in a claimed area they won't break them, but will still harvest them making them work significantly faster."
 		""
@@ -2405,11 +2485,12 @@
 	]
 	quest.4364D54A37B97D40.quest_subtitle: "no more manual resource collection!"
 	quest.4364D54A37B97D40.title: "&lResource Generation"
+	quest.43A8D8D6947220F4.title: "Pearlescent Endshelf"
 	quest.43C7A0AFDBCB1D06.quest_desc: ["You need &6honey treats&r"]
 	quest.43C7A0AFDBCB1D06.quest_subtitle: "Stunning"
 	quest.44884F0AE8219EAB.quest_desc: ["The Arcane Pedestal is used to hold items for the essence crafting with the imbuement Chamber, for use with the Enchanting Apparatus. "]
-	quest.448F99A9197C7EAD.title: "Covered Cable"
 	quest.448F99A9197C7EAD.quest_subtitle: "Don't use these"
+	quest.448F99A9197C7EAD.title: "Covered Cable"
 	quest.44A632CEC21C79E1.quest_desc: ["This makes the router immune to explosions and boss damage."]
 	quest.44A632CEC21C79E1.quest_subtitle: "Invincible"
 	quest.44D5D328F4A7375B.quest_desc: [
@@ -2506,10 +2587,11 @@
 	]
 	quest.47C942BC0BD3D01E.title: "&lEvilcraft Tip&r #1"
 	quest.4821A8015B2F5FA1.quest_desc: ["One of the 4 chalks used in rituals."]
+	quest.484B493059391887.quest_desc: ["4x Soul-Touched Sculkshelf, 1x Draconic Endshelf"]
 	quest.48A0DC661D3F37C7.quest_desc: ["Alternatively candles can be made with wax or comb from bees "]
 	quest.48D68895FF14804B.quest_desc: ["If you've ever wanted an item catapult, here you go! It flings items based on the values you set in the GUI."]
 	quest.49235AB18DFE6AD7.quest_desc: ["Spawned mobs will always spawn as a baby if possible. "]
-	quest.49235AB18DFE6AD7.quest_subtitle: "&4You Monster&r"
+	quest.49235AB18DFE6AD7.quest_subtitle: "&4You monster&r"
 	quest.49235AB18DFE6AD7.title: "Youthful"
 	quest.49286C762F383267.quest_desc: [
 		"&bDiamonds.&r..."
@@ -2750,13 +2832,16 @@
 		"&4Note:&r"
 		"&4Upgrades generally do not have access to all configurations; this is a custom feature specific to this pack.&r"
 	]
+	quest.4EBBDA15BC54E844.quest_subtitle: "Here or there?"
 	quest.4EC0AED4959AB074.quest_desc: ["Place down 15 &bSeashelves&r and infuse the last one into an Infused Seashelf. Replace one of the uninfused Seashelf with your Infused one and repeat this step until you have infused every shelf."]
+	quest.4EC0AED4959AB074.title: "Seashelves"
 	quest.4FC8545E47191D01.quest_desc: [
-		"can do everything the other pipes can do, but all at once."
+		"The &bUniversal Pipe&r can do everything the other pipes can do, but all at once."
 		""
 		"&4NOTE!&r"
-		"&4you cannot input and extract from the same side&r"
+		"&4You cannot input and extract from the same side&r"
 	]
+	quest.4FC8545E47191D01.quest_subtitle: "All in one!"
 	quest.4FC8545E47191D01.title: "Universal Pipez"
 	quest.4FCD069CFF4FA112.quest_desc: [
 		"A programmable drone, this drone can do anything the other drones can and more can be programmed in the programming station and can even run multiple programs with the external program widget and network api"
@@ -2791,6 +2876,7 @@
 	quest.506BF99DA7D09C35.title: "Color Applicator"
 	quest.50975CD6F96E5A96.quest_desc: ["Needed for the &5CPU&r, make sure you have a few of them"]
 	quest.50975CD6F96E5A96.quest_subtitle: "We have made a sandwich"
+	quest.514B2D0B6F8E1E04.title: "Infused Seashelves"
 	quest.5154EABFFD85F34D.quest_desc: [
 		"Now, you are thinking, why do we need to do this?"
 		""
@@ -2802,8 +2888,13 @@
 	]
 	quest.5154EABFFD85F34D.quest_subtitle: "Use &9water&r!!!!"
 	quest.5154EABFFD85F34D.title: "&dWireless terminal path"
+	quest.51970F01EFF7AA39.title: "Echo Shard Duplication"
 	quest.51A04C8539DD3226.quest_desc: ["These are primarily used in PCBs and can be gotten from the trader, dungeons or be made in the pressure chamber."]
 	quest.51A04C8539DD3226.title: "Electronics"
+	quest.51B99D1198D30855.title: "Crystalline Seashelf"
+	quest.51EF51862695FB96.quest_desc: ["Hellshelf of Masterful Sight"]
+	quest.51EF51862695FB96.quest_subtitle: "Even more hints!"
+	quest.51EF51862695FB96.title: "Enchant Clues 2.0"
 	quest.51FE6BCEA111CD86.quest_desc: [
 		"There are 2 &cmain&r difference between the &aExtended&r version and the regular one:"
 		""
@@ -2934,6 +3025,7 @@
 		"example of what can happen:"
 		"{image:kubejs:textures/quest_images/pipez/pipzus.png width:100 height:100 align:center}"
 	]
+	quest.556E67EC57457744.title: "A word of caution..."
 	quest.5571630621763AA6.quest_desc: [
 		"The path to get the &cRejuvenated Flesh&r might be annoying, but there is a way that not many people know to get this easily."
 		""
@@ -2948,6 +3040,8 @@
 		"And later encase this mob (once it turns into a werewolf) in amber for the Wannabee or in a containment jar for the Drygmys."
 	]
 	quest.5571630621763AA6.title: "&lEvilcraft Tip&r #3"
+	quest.55B5FB4DF51A59B7.quest_desc: ["Seashelf of Aquatic Filtration"]
+	quest.55B5FB4DF51A59B7.title: "Enchantment Filtering"
 	quest.55D8A20CBD2262BA.quest_desc: ["Voids any item matching its filter use with extreme care."]
 	quest.55DB4A314B7F2DCA.quest_desc: ["Just allow you to &cstore&r more &aenergy&r on the allowed items"]
 	quest.55DB4A314B7F2DCA.quest_subtitle: "Bigger"
@@ -3001,7 +3095,7 @@
 		""
 		"Minimum max spawn delay is &b20 ticks&r."
 	]
-	quest.5760A1BA7C6CDA67.quest_subtitle: "Upper bound"
+	quest.5760A1BA7C6CDA67.quest_subtitle: "I don't like waiting..."
 	quest.5760A1BA7C6CDA67.title: "Maximum Spawn Delay"
 	quest.5735C6D3BF055470.quest_desc: [
 		"Now, we need all presses that the quest ask to continue with &bAE2&r, break the &8mysterious cube&r in the center of the meteorite or make them or buy them."
@@ -3122,6 +3216,7 @@
 		"Also, if you right click on any &dcable&r, you will see a tab with information, like energy used or generated"
 	]
 	quest.5CE2A10C711EC3C9.quest_subtitle: "Wrench v2"
+	quest.5CF3600A45D365F5.title: "Deepshelf"
 	quest.5D07E1630119890C.quest_desc: [
 		"Yes, we can automate &5fluix&r now without using &dseeds&r or &6bees&r."
 		""
@@ -3283,6 +3378,8 @@
 	]
 	quest.613B94C20D7E7072.quest_subtitle: "watch out for that tree..."
 	quest.613B94C20D7E7072.title: "&l&aUseful Slime"
+	quest.617BBE7ACB125208.quest_subtitle: "The path to Godhood"
+	quest.617BBE7ACB125208.title: "Getting Started"
 	quest.619DAE1E67930A91.quest_desc: [
 		"We have to admit one thing, travelling through dimensions sometimes might be annoying."
 		""
@@ -3298,6 +3395,11 @@
 	]
 	quest.619DAE1E67930A91.quest_subtitle: "Travelling long distances"
 	quest.619DAE1E67930A91.title: "&l&dWaystones"
+	quest.61EE5D51D5CB807B.quest_desc: [
+		"E -3"
+		"A -7.5%"
+	]
+	quest.61EE5D51D5CB807B.title: "&8&lStoneshelf"
 	quest.622DB8CA3BE8663C.quest_desc: [
 		"The mod &6Pocket Storage&r will surely help us a lot when mining."
 		""
@@ -3318,11 +3420,12 @@
 	]
 	quest.62AE066A0F40D92D.quest_subtitle: "Piercing the Veil imma right?"
 	quest.62D20F94DACD2B85.quest_desc: [
-		"Pipez also allows you to filter based on nbt."
+		"Pipez also allows you to filter based on &bNBT&r."
 		""
-		"you set a nbt filter simply by editing the nbt string thats set when you filter for an item with nbt"
-		"This is especially usefull for apothiosis gems where you can set the filter for any gem then just remove the nbt tag except for the gem tag and you now have a generic gem filter that will work for any gem."
+		"You set a nbt filter simply by editing the nbt string that's set when you filter for an item with nbt."
+		"This is especially useful for &bApotheosis&r gems where you can set the filter for any gem. Just remove the nbt tag except for the gem tag and you now have a generic gem filter that will work for any gem."
 	]
+	quest.62D20F94DACD2B85.quest_subtitle: "NBT filtering!"
 	quest.62F972854AA43136.quest_desc: [
 		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
 		""
@@ -3435,6 +3538,7 @@
 	]
 	quest.6547327236A3C8E1.quest_subtitle: "No mo' annoying dirt!"
 	quest.6547327236A3C8E1.title: "&l&dOnly Excavators"
+	quest.65B604A2EB9026A4.title: "Summit"
 	quest.65C2489369AE9D84.quest_desc: [
 		"Much like a Drygmy the Whirlspring will generate drops from things around it, in this case plants."
 		""
@@ -3525,6 +3629,13 @@
 		"And finally, you want to get at least 2 of each bees, they can bee breeded into more using the breeder"
 	]
 	quest.67E648AD068CAB9E.quest_subtitle: "Proximity"
+	quest.6890EED20F89D2AB.quest_desc: [
+		"Increases the player activation range."
+		""
+		"Each crystal will &b+4 player activation range&r to a &bmax of 48 blocks&r."
+	]
+	quest.6890EED20F89D2AB.quest_subtitle: "Maybe I don't need you"
+	quest.6890EED20F89D2AB.title: "Required Player Range"
 	quest.68BD90AE2185792E.quest_desc: ["Works exactly the same as the Stack Upgrade. This will override the Stack Upgrade, and the maximum items per operation will now be determined by the augment. The maximum useful upgrades are 6 (2⁶)."]
 	quest.68C25AACF9C16819.quest_desc: [
 		"Villagers always find a way to &8&msteal&r &lmake us&r buy from them..."
@@ -3567,6 +3678,8 @@
 	]
 	quest.69D6ACCAC3B91456.quest_subtitle: "In Need for Speed"
 	quest.69D6ACCAC3B91456.title: "&l&eTime In a Bottle"
+	quest.69D74428BB9CC623.quest_desc: ["Deepshelf of Arcane Treasures"]
+	quest.69D74428BB9CC623.title: "Getting Treasure Enchants"
 	quest.69E5E1E33F978ABE.quest_desc: ["This is used for armor, basically"]
 	quest.69E5E1E33F978ABE.quest_subtitle: "Expensive"
 	quest.6A1F6F3694025B4A.quest_desc: [
@@ -3602,6 +3715,7 @@
 		"You don't need to make this nest, just look for it, they are plentiful"
 	]
 	quest.6AF6F200251C478B.quest_subtitle: "/tp @e 0 0 0"
+	quest.6AFF11B49B2F901B.title: "Pinnacle"
 	quest.6B477C68C8D84A3D.quest_desc: ["Spawns &6burning&r mobs. &oOuch&r."]
 	quest.6B477C68C8D84A3D.quest_subtitle: "Let them burn"
 	quest.6B477C68C8D84A3D.title: "Burning"
@@ -3636,6 +3750,9 @@
 	]
 	quest.6B5295ABF1D7D71D.quest_subtitle: "Disenchanting at it's finest!"
 	quest.6B5295ABF1D7D71D.title: "&5&lDis-Enchanting Table"
+	quest.6B552B61C702C105.quest_desc: ["Have you hear about parallelism? No? Well, you will"]
+	quest.6B552B61C702C105.quest_subtitle: "&bBottom&r"
+	quest.6B552B61C702C105.title: "&bPrinted Concurrent Circuit"
 	quest.6C504AA720E7C1C3.quest_desc: [
 		"Decreases the minimum tick time between spawns. "
 		""
@@ -3643,11 +3760,8 @@
 		""
 		"Minimum min spawn delay is &b20 ticks&r."
 	]
-	quest.6C504AA720E7C1C3.quest_subtitle: "Lower bound"
+	quest.6C504AA720E7C1C3.quest_subtitle: "Faster!"
 	quest.6C504AA720E7C1C3.title: "Minimum Spawn Delay"
-	quest.6B552B61C702C105.quest_desc: ["Have you hear about parallelism? No? Well, you will"]
-	quest.6B552B61C702C105.quest_subtitle: "&bBottom&r"
-	quest.6B552B61C702C105.title: "&bPrinted Concurrent Circuit"
 	quest.6C6D6015BDFF4BD3.quest_desc: [
 		"This is the &bAE2 machine&r that allows to use &cstorage&r from other mods."
 		"It uses 1 &achannel&r and can only be placed on &dsmart cables&r."
@@ -3699,6 +3813,10 @@
 	]
 	quest.6D20BEE603706F69.quest_subtitle: "Water bill: 9999999999€"
 	quest.6D36292892EA5781.title: "Solar Helmet &l&7V2"
+	quest.6D4FB5CE5BA905D2.title: "Echoing Deepshelf"
+	quest.6D8AF09174D7779D.quest_desc: ["5 Hellshelves, 15 Bookshelves"]
+	quest.6D8AF09174D7779D.title: "Infused Hellshelf"
+	quest.6D93652BDFA881F0.title: "Glowing Hellshelf"
 	quest.6DA978E4D7B0B5F6.quest_desc: ["Upgraded vacuum pump this pump is a pipe module and will be able to handle as much pressure as the pipe its place onto you can further upgrade the pump with a module expansion card"]
 	quest.6E01662992FF940F.quest_desc: [
 		"You could of course use your handy bucket or a Mekanism tank in bucket mode to collect the oil  but you can also use the gas lift to collect it for you."
@@ -3784,6 +3902,15 @@
 		" "
 	]
 	quest.705D0129508997FA.quest_desc: ["Used in plastic production."]
+	quest.70B9826E828AF96C.quest_desc: [
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
+		""
+		"&bApothic Enchanting&r questline made by: &5ArcTrooper&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.70B9826E828AF96C.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.70B9826E828AF96C.title: "&l&4Catalyst Studios Quests"
 	quest.70D11E8D3C62E581.quest_desc: [
 		"The Dominion Wand is used for connecting Source Relays together and to give commands to the forest creatures you so kindly enslaved to do your bidding."
 		""
@@ -3811,8 +3938,6 @@
 	]
 	quest.7135BB6943B21402.quest_subtitle: "A blood chest, but bigger"
 	quest.7135BB6943B21402.title: "&lColossal&r &4Blood&r Chest"
-	quest.71832F62E0AD92C3.quest_desc: ["Apotheosis is"]
-	quest.71832F62E0AD92C3.title: "About Apothic Enchanting"
 	quest.725CAFF6779487BC.quest_desc: [
 		"The &4Blood Infuser&r is our very first machine in all Evilcraft, without it, we cannot progress throughout the whole mod."
 		""
@@ -3877,7 +4002,7 @@
 	quest.74F6B9592744EC7C.quest_desc: [
 		"Killed mobs drop more loot! "
 		""
-		"Max level is &bEchoing V&r."
+		"Each Echo Shard gives &b+1 level&r. Max level is &bEchoing V&r."
 	]
 	quest.74F6B9592744EC7C.quest_subtitle: "MOAR LOOT!"
 	quest.74F6B9592744EC7C.title: "More Loot!"
@@ -4005,6 +4130,7 @@
 		""
 		"Well, not anymore, with this wonderful &bmachine&r, you can select the side where the ingredient is going to be inserted"
 	]
+	quest.76C1268FC04633AD.title: "Ways to Disenchant"
 	quest.76ED2E2F59D4E7BB.quest_desc: ["Works similarly to the Sender MK2 with the same range limitations. However, this version can have up to 8 targets."]
 	quest.771543603CFE5506.quest_desc: ["The guide has a simpler explanation on how to use them."]
 	quest.771543603CFE5506.title: "More Export buses"
@@ -4017,6 +4143,8 @@
 	]
 	quest.7743458DF29237C3.quest_subtitle: "NASv.2: ON"
 	quest.7743458DF29237C3.title: "4K Storage Component"
+	quest.774EF435A320B705.quest_desc: ["5x Draconic Endshelf, 2x Echoing Deepshelf, 1x Melonshelf, 1x Endshelf"]
+	quest.774EF435A320B705.title: "Unbreakable Potion Charms"
 	quest.77544FB030619A81.quest_desc: [
 		"Put any ingot (you want to use the cheapest one, like &6copper&r) and this tool on a &acrafting table&r and you get cable anchors, more info later."
 		""
@@ -4077,7 +4205,7 @@
 		"It'll have &bMinimum Delays&r, &bRedstone Control&r, &bNo AI&r, &bIgnores Spawn Conditions&r, and &bIgnores Players&r."
 	]
 	quest.78C350866A75F0D0.quest_subtitle: "Infinite loot!"
-	quest.78C350866A75F0D0.title: "&o&l&dThe Ultimate Spawner&r&r&r"
+	quest.78C350866A75F0D0.title: "&o&l&dThe Ultimate Spawner"
 	quest.78F4BD64456FAC4A.quest_desc: ["Used in the creation of bio diesel only requires pressure "]
 	quest.7903FA4DBF99A4D6.quest_desc: ["More robust version of the infused pickaxe"]
 	quest.795FB25F7FE3F03C.quest_desc: [
@@ -4111,10 +4239,14 @@
 	quest.7A3A78C25AC9D033.quest_subtitle: "Still doesn't attract love..."
 	quest.7A3A78C25AC9D033.title: "Kinecticators"
 	quest.7A545D85BF794497.quest_desc: ["Reduces the range of the module by 1 block per augment. Useful for vacuum modules that you want to work in a smaller area."]
-	quest.7A71E1BAB8050192.quest_desc: ["+2 total entities near by Max 32"]
+	quest.7A71E1BAB8050192.quest_desc: [
+		"Increases the max allowed mobs near the spawner."
+		""
+		"Each tear will &b+2 total entities&r to a &bmax of 32 mobs&r near the spawner."
+	]
 	quest.7A71E1BAB8050192.quest_subtitle: "Getting Crowded"
 	quest.7A71E1BAB8050192.title: "Max Nearby Entities"
-	quest.7A997E9003EA92FC.quest_desc: ["moves fluids"]
+	quest.7A997E9003EA92FC.quest_desc: ["Moves fluids."]
 	quest.7AB09B6B6E9206C4.quest_desc: [
 		"Evilcraft adds plenty of stuff, including a way to store items and craft within it's inventory!"
 		""
@@ -4179,6 +4311,7 @@
 		"&4Note:&r"
 		"&4Upgrades generally do not have access to all configurations; this is a custom feature specific to this pack.&r"
 	]
+	quest.7BCDEFB84468CC16.quest_subtitle: "To go or Not to go"
 	quest.7BCDEFB84468CC16.title: "Black on White"
 	quest.7BE6E09B682F621E.quest_desc: [
 		"The mod &l&6Crafting on a Stick&r not only adds a crafting table on a stick, it comes with multiple of our favorite tables... The best part of this is that they can go into a curio slot for us to save up more space in our inventory!"
@@ -4249,6 +4382,15 @@
 	]
 	quest.7D38CBA6AFAA0123.quest_subtitle: "You should get a bee, really"
 	quest.7D38CBA6AFAA0123.title: "Entro Farm"
+	quest.7D421F7F44B98A4F.quest_desc: [
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
+		""
+		"&bApothic Spawners&r questline made by: &5ArcTrooper&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.7D421F7F44B98A4F.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.7D421F7F44B98A4F.title: "&l&4Catalyst Studios Quests"
 	quest.7D5439BA46732CEB.quest_desc: [
 		"Before we start creating &cmachines&r and &6multiblocks&r, we'll need to craft this core first."
 		""
@@ -4285,7 +4427,7 @@
 		"&eWarning:&r This &omay&r break certain interactions with mobs."
 	]
 	quest.7DDA8F8BFCB5F3EC.quest_subtitle: "What am I?"
-	quest.7DDA8F8BFCB5F3EC.title: "No Ai"
+	quest.7DDA8F8BFCB5F3EC.title: "&dNo Ai"
 	quest.7DF7DE4654985DE5.quest_desc: ["&aArs Nouveau&r &cStorage&r for &dsource&r, what in the world needs 50000000000000 &dsource&r?"]
 	quest.7DF7DE4654985DE5.quest_subtitle: "Wait, source too?"
 	quest.7E4EF758E4B3C965.quest_desc: [
@@ -4333,6 +4475,9 @@
 	quest.7F1A9B044B5F9703.quest_desc: ["These &bprocessors&r are not used a lot, compared to the others, 16 should be enough to start with"]
 	quest.7F1A9B044B5F9703.quest_subtitle: "We have made a sandwich"
 	quest.7F1A9B044B5F9703.title: "Engineering Processor"
+	quest.7F671051CEDCE162.quest_desc: ["Spawned mobs will be completely silent."]
+	quest.7F671051CEDCE162.quest_subtitle: "&lSILENCE&r"
+	quest.7F671051CEDCE162.title: "Peace and Quiet"
 	quest.7F6E4C605AD3DC95.quest_desc: [
 		"This is my favorite thing in all Evilcraft... This Broom will come in hand in case you don't like using &ejetpacks&r that might contaminate our precious air."
 		""
@@ -4348,6 +4493,7 @@
 	]
 	quest.7F6E4C605AD3DC95.quest_subtitle: "In the form of a Broom!"
 	quest.7F6E4C605AD3DC95.title: "&l&eCreative Flight"
+	quest.7F6EE9B1A8F7F345.title: "Dragon Head"
 	reward.0C1EEE583A1FF036.title: "To the trash"
 	reward_table.037CD8900A50DEEB.title: "Productive Bees Rewards -  Novice"
 	reward_table.150820B2DD9A43B7.title: "AE2 Rewards - Connected"
@@ -4360,12 +4506,11 @@
 	reward_table.5281C2CE827B568B.title: "Storage Rewards - Advanced"
 	reward_table.53A9237E4D75200A.title: "AE2 Rewards -  Basic"
 	reward_table.5A488243B9E5D50F.title: "Storage Rewards - Ultimate"
-	reward_table.5B268991ABCAD4F0.title: "Apoth Rewards - Exploration"
 	reward_table.69ECC3693C66470B.title: "Storage Rewards - Primitive"
-	reward_table.6A3E35E24B6431FC.title: "Apoth Rewards - Enchanting"
 	reward_table.6D18C935723B8026.title: "EvilCraft Tier I Rewards"
 	reward_table.6EEF0BE14447C317.title: "Evilcraft Tier III Rewards"
 	reward_table.70E4B58B275C350D.title: "Productive Bees Rewards - Bee Archon"
+	reward_table.7FE7230E5997B4B2.title: "Pipez Rewards - Upgrades"
 	task.016D3E4B60878147.title: "Get a Leafcutter Bee"
 	task.02476F93B40D264E.title: "\"Infinite\" storage"
 	task.05001251EFC0420F.title: "Click if you agree"
@@ -4420,7 +4565,9 @@
 	task.43CB1C4E1E8F0D33.title: "Build that spaghetti!"
 	task.467CAFDA51DC3CEB.title: "Tip #3"
 	task.48D15AB9A44B5ED5.title: "Example setup"
+	task.4996655B4D4EAC13.title: "Anvil"
 	task.4B95D6163A48C9E4.title: "Any Elevator"
+	task.4BCD3E3224791871.title: "Visit the Overworld"
 	task.4C16ECE209685FC4.title: "Any #c:exaltedcrafter/tier/1"
 	task.4C26EB3A3558B59F.title: "Dense smart cable"
 	task.4CC4125F5D13EE52.title: "Extended Pattern Provider"
