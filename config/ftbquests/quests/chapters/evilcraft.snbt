@@ -98,7 +98,6 @@
 			y: -17.5d
 		}
 		{
-			dependency: "76890D74EE32B4CF"
 			height: 5.0d
 			image: "catalyst:textures/quest_images/evilcraft/evilcraft_quest_logo_oly.png"
 			order: 2
@@ -932,7 +931,7 @@
 			y: -20.5d
 		}
 	]
-	order_index: 4
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{

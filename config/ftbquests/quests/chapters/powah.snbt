@@ -42,5 +42,15 @@
 			x: -0.5d
 			y: -2.0d
 		}
+		{
+			id: "6A8971E96045CBA2"
+			tasks: [{
+				id: "352FAB3838788030"
+				item: { count: 1, id: "powah:uraninite_raw" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
 	]
 }
