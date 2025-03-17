@@ -30,7 +30,6 @@ ServerEvents.tags('item', catalyst => {
     //Exalted Crafter Powered
     catalyst.add('c:exaltedcrafter/tier/2', 'evilcraft:exalted_crafter_wooden_empowered')
     catalyst.add('c:exaltedcrafter/tier/2', 'evilcraft:exalted_crafter_empowered')
-
     //adds missing item tags to saplings
     let saptag = (saplings) => { catalyst.add('minecraft:saplings', saplings)}
     saptag('productivetrees:black_ember_sapling')
@@ -50,13 +49,14 @@ ServerEvents.tags('item', catalyst => {
     saptag('productivetrees:time_traveller_sapling')
     saptag('productivetrees:blue_yonder_sapling')
     saptag('productivetrees:water_wonder_sapling')
-})
+});
 
 //block tags
 ServerEvents.tags('block', catalyst => {
     //Geore
     //lets Geore buds be acceled
     catalyst.add("c:budding", "#c:budding_blocks")
+    
     //lets geore buds be moved
     let buds_move = (buds) => { catalyst.remove('c:relocation_not_supported', buds)}
     buds_move("geore:budding_coal")
@@ -71,7 +71,10 @@ ServerEvents.tags('block', catalyst => {
     buds_move("geore:budding_ruby"),
     buds_move("geore:budding_sapphire"),
     buds_move("geore:budding_topaz")
-    });
+ });
+
+
+ 
 
 /* 
 This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.

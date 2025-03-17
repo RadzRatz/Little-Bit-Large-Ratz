@@ -5,8 +5,8 @@ It cannot be used or modified outside of Catalyst Studios without explicit permi
 ServerEvents.recipes(catalyst => {
     const maxAmount = 64;  // The upper cap for the output amount
     const minAmount = 1;   // The lower cap for the output amount (if needed)
-    const mintime = 1;
-    const maxtime = 32;
+    const mintime = 2;
+    const maxtime = 128;
 
     // Function to fabricate a recipe with dynamic inputs and output multiplier logic
     function fabricate(input_entity, catalyst_item, output, output_amount) {
@@ -259,7 +259,7 @@ fabricate('twilightforest/giant', 'twilightforest:giant_obsidian', 'twilightfore
 fabricate('twilightforest/goblin', 'twilightforest:armor_shard', 'twilightforest:armor_shard', 16);
 
 /* twilight_forest - helmet crab prediction */
-fabricate('twilightforest/helmet_crab', 'twilightforest:armor_shard', 'twilightforest:armor_shard', 16);
+fabricate('twilightforest/helmet_crab', 'twilightforest:armor_shard', 'twilightforest:armor_shard', 8);
 fabricate('twilightforest/helmet_crab', 'minecraft:cod', 'minecraft:cod', 24);
 
 /* twilight_forest - hydra prediction */

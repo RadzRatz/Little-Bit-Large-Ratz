@@ -9,7 +9,7 @@ ServerEvents.recipes(catalyst => {
             // }
             .requireEnergy(10000, 0, 0)
             .produceChemical(`${out}x ${output_chemical}`, 73, 20)
-            .requireChemical(`${inn}x ${input_chemical}`, 25, 10)
+            .requireChemical(`${inn}x ${input_chemical}`, 25, 20)
             
     }
 

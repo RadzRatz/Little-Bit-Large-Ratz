@@ -58,20 +58,20 @@ ServerEvents.recipes(catalyst => {
     modifiedItemNames.forEach(modifiedName => {
         try {
             // Create first set of recipes
-            catalyst.recipes.modular_machinery_reborn.machine_recipe("mmr:arboretum", 20)
+            catalyst.recipes.modular_machinery_reborn.machine_recipe("mmr:arboretum", 200)
                 // OPTIONAL CUSTOMIZATION (can be adjusted as needed)
                 .progressX(54)  // default 74
-                .progressY(10)   // default 8
+                .progressY(15)   // default 8
                 .width(110)      // default 256
                 .height(80)      // default 256
                 // Energy requirements and production (can be customized)
                 .requireEnergy(10000, 0, 0)
                 // Using the modified item names for the required and produced items
-                .requireItem(`1x ${modifiedName}_sapling`, 25, 10)   // Modify required item to be the modified item
-                .produceItem(`64x ${modifiedName}_log`, 90, 10)    // Modify produced item to be the modified item
-                .produceItem(`2x ${modifiedName}_sapling`, 90, 30);    // Modify produced item to be the modified item
+                .requireItem(`1x ${modifiedName}_sapling`, 25, 0)   // Modify required item to be the modified item
+                .requireFluid('10000x minecraft:water', 25, 20)
+                .produceItem(`64x ${modifiedName}_log`, 90, 0)    // Modify produced item to be the modified item
+                .produceItem(`2x ${modifiedName}_sapling`, 90, 20);    // Modify produced item to be the modified item
 
-            console.log(`First recipe created for: ${modifiedName}`);
         } catch (error) {
             // Log the error if something fails during recipe creation
             console.error(`Failed to create first recipe for ${modifiedName}: ${error.message}`);
@@ -82,23 +82,22 @@ ServerEvents.recipes(catalyst => {
     modifiedItemNames.forEach(modifiedName => {
         try {
             // Create second set of recipes
-            catalyst.recipes.modular_machinery_reborn.machine_recipe("mmr:arboretum", 20)
+            catalyst.recipes.modular_machinery_reborn.machine_recipe("mmr:arboretum", 200)
                 // OPTIONAL CUSTOMIZATION (can be adjusted as needed)
                 .progressX(54)  // default 74
-                .progressY(10)   // default 8
+                .progressY(15)   // default 8
                 .width(110)      // default 256
                 .height(80)      // default 256
                 // Energy requirements and production (can be customized)
                 .requireEnergy(10000, 0, 0)
                 // Using the modified item names for the required and produced items
-                .requireItem(`1x ${modifiedName}_sapling`, 25, 10)   // Modify required item to be the modified item
-                .requireItem('reliquary:shears_of_winter', 0, 25, 30)  // Add extra required item
-                .produceItem(`64x ${modifiedName}_log`, 90, 10)    // Modify produced item to be the modified item
-                .produceItem(`2x ${modifiedName}_sapling`, 90, 50)    // Modify produced item to be the modified item
-                .produceItem(`64x ${modifiedName}_leaves`, 90, 30)  // Add new produced item
+                .requireItem(`1x ${modifiedName}_sapling`, 25, 0)   // Modify required item to be the modified item
+                .requireFluid('10000x minecraft:water', 25, 40)
+                .requireItem('reliquary:shears_of_winter', 0, 25, 20)  // Add extra required item
+                .produceItem(`64x ${modifiedName}_log`, 90, 0)    // Modify produced item to be the modified item
+                .produceItem(`2x ${modifiedName}_sapling`, 90, 40)    // Modify produced item to be the modified item
+                .produceItem(`64x ${modifiedName}_leaves`, 90, 20)  // Add new produced item
                 .priority(1);
-
-            console.log(`Second recipe created for: ${modifiedName}`);
         } catch (error) {
             // Log the error if something fails during recipe creation
             console.error(`Failed to create second recipe for ${modifiedName}: ${error.message}`);
