@@ -1,0 +1,32 @@
+{
+	icon: {
+		id: "ae2:charged_certus_quartz_crystal"
+	}
+	id: "53A9237E4D75200A"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 10
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_crystal"
+			}
+			weight: 2.0f
+		}
+		{ count: 4, item: { count: 1, id: "ae2:fluix_crystal" } }
+		{ count: 4, item: { count: 1, id: "ae2:fluix_dust" } }
+		{ count: 4, item: { count: 1, id: "ae2:certus_quartz_dust" } }
+		{ count: 2, item: { count: 1, id: "ae2:charged_certus_quartz_crystal" } }
+		{
+			count: 10
+			item: {
+				count: 1
+				id: "ae2:silicon"
+			}
+			weight: 2.0f
+		}
+		{ item: { count: 1, id: "mysticalagriculture:fluix_seeds" }, weight: 0.1f }
+		{ item: { count: 1, id: "mysticalagriculture:certus_quartz_seeds" }, weight: 0.1f }
+	]
+}

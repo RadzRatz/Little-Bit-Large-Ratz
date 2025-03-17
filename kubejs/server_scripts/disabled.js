@@ -13,6 +13,7 @@ ServerEvents.recipes(catalyst => {
     catalyst.remove('energizedpower:crafting/weather_controller')
     catalyst.remove('mekanism:dimensional_stabilizer')
     catalyst.remove('mekanism:upgrade_anchor')
+    catalyst.remove('quarryplus:adv_quarry')
     /*catalyst.remove('extradisks:disk/shaped/infinite_storage_disk')
     catalyst.remove('extradisks:blocks/infinite_storage_block')
     catalyst.remove('extradisks:part/infinite_storage_part')

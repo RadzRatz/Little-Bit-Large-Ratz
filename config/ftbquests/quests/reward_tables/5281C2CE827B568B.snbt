@@ -1,0 +1,13 @@
+{
+	icon: {
+		id: "minecraft:gold_block"
+	}
+	id: "5281C2CE827B568B"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ count: 3, item: { count: 1, id: "minecraft:gold_ingot" } }
+		{ count: 3, item: { count: 1, id: "minecraft:gold_block" } }
+		{ count: 2, item: { count: 1, id: "minecraft:chest" } }
+	]
+}

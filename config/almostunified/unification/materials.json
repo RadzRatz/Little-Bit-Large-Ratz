@@ -1,12 +1,13 @@
 {
   "mod_priorities": [
     "minecraft",
-    "eternalores",
     "kubejs",
+    "eternalores",
     "mekanism",
     "railcraft",
     "forcecraft",
-    "immersiveengineering"
+    "immersiveengineering",
+    "oritech"
   ],
   "priority_overrides": {},
   "stone_variants": [
