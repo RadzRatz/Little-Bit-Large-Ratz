@@ -83,7 +83,7 @@
 		}
 		{
 			height: 1.0d
-			image: "minecraft:item/end_crystal"
+			image: "minecraft:item/totem_of_undying"
 			rotation: 0.0d
 			width: 1.0d
 			x: -1.0d
