@@ -2,6 +2,7 @@
 	chapter.0701BDFECC9EA8CD.title: "Welcome!"
 	chapter.092F58C698EEBA75.title: "PneumaticCraft"
 	chapter.1287AC579F7832FE.title: "Occultism"
+	chapter.136E858245C7C7AD.title: "Apothic Spawners"
 	chapter.16058E3CD3AE6F74.title: "Routers"
 	chapter.160BB09BD6B3B0E2.title: "Xycraft: Machines"
 	chapter.184FD88EB54E4E86.title: "Applied Energistics 2 Examples"
@@ -10,16 +11,18 @@
 	chapter.1FE9C6E71A0B41E1.title: "Sophisticated Backpacks"
 	chapter.248AEB260B45DF6D.title: "LaserIO"
 	chapter.315076A74ED3C0B4.title: "Ars Nouveau"
+	chapter.33BD2251DF8E61AA.title: "Hostile Neural Networks"
 	chapter.376B718EFCF5AACE.title: "Functional Storage"
 	chapter.4143A153EDB194E8.title: "Pipez"
+	chapter.46FE3A44D3ECB19B.title: "Apotheosis"
 	chapter.4A53A54E581CD0B3.title: "&a&lUseful&f Mods"
 	chapter.4BF27D0A53F14584.title: "Mekanism: The Basics"
-	chapter.4E8B9F24557935B3.title: "Apotheosis"
+	chapter.4E8B9F24557935B3.title: "Apothic Enchanting"
 	chapter.4ECE52DB829D7DC4.title: "Sophisticated Storage"
 	chapter.558E65AB78354674.title: "Energized Power"
 	chapter.661254AE0EBD66A8.title: "All of Macaw's Decorations"
 	chapter.6C942D6BA7090A71.title: "Productive Bees"
-	chapter.6D1B091BA4B10868.title: "&lSolar Generation"
+	chapter.6D1B091BA4B10868.title: "Solar Generation"
 	chapter.6E7DE3824D41BB16.title: "Theurgy"
 	chapter.707DFCF38F8333D4.title: "Just Dire Things"
 	chapter.731F653DF0327C9D.title: "Mekanism: Going Nuclear"
@@ -36,6 +39,9 @@
 	chapter_group.799C57E4146F24A8.title: "Technology"
 	chapter_group.7DB43C7557896446.title: "Magic"
 	file.0000000000000001.title: "Little Bit Large"
+	quest.0018BE7C428A3137.quest_desc: ["&bCtrl+T&r to open screen"]
+	quest.003142001F6FDC93.quest_desc: ["Now that you have &aExtendedAE&r, you should check the &dprocessor&r recipes and change your old setup for a better one and faster"]
+	quest.003142001F6FDC93.quest_subtitle: "UPGRADES - some average GregTech Player"
 	quest.003C69131CD0DA79.quest_desc: [
 		"Modules control what your router does. Each router can hold up to 9 modules, allowing for quite advanced behavior."
 		""
@@ -60,6 +66,11 @@
 		""
 		"&eNOTE: will not generate source from crops that are bone mealed will not contribute Source but other kinds of growth acell still works, bonemealed trees will still contribute.&r"
 	]
+	quest.00FF8AAFCC2E4533.quest_desc: [
+		"They are used on &aExtendedAE&r, so you probably want to make some."
+		"They can also be used to paint &dcables&r or make singularities with less amount of water"
+	]
+	quest.00FF8AAFCC2E4533.quest_subtitle: "Small singularities"
 	quest.0120F94F0DB55575.quest_subtitle: "I Can See... I Can FIGHT!"
 	quest.0120F94F0DB55575.title: "I See Spirits..."
 	quest.01948A35B9155A51.quest_desc: ["This orb will be one of the first creations we do over the &cBlood Infuser&r."]
@@ -71,6 +82,9 @@
 		"Applying negative pressure to an air grate will cause it to suck things in instead of blowing them away."
 	]
 	quest.01AC9F09A84155B8.quest_subtitle: "Sucktion"
+	quest.01B5A1E674D7AF1E.quest_desc: ["4x Echoing Sculkshelf, 1x Melonshelf, 1x Normal Bookshelf"]
+	quest.01BBE3BF6F5EAE35.quest_desc: ["Instead of filters acting as whitelist, now it acts as blacklists"]
+	quest.01BBE3BF6F5EAE35.quest_subtitle: "pǝʇɹǝʌuᴉ"
 	quest.01C22467B074967C.quest_desc: [
 		"The heat frame can be placed on top of any inventory and is used to create obsidian, ice and plastic "
 		""
@@ -88,6 +102,12 @@
 		"2 upgrades: Removes particle effects"
 		"3 upgrades: Removes active animations"
 	]
+	quest.024A2075F924FE1C.quest_desc: [
+		"Imagine that you have your base in &aThe Overworld&r and you have a setup on &dThe End&r and you need to change a &6pattern&r."
+		""
+		"You would have to go there and change &6patterns&r manually, but not anymore with this terminal!"
+	]
+	quest.024A2075F924FE1C.quest_subtitle: "Wireless pattern access"
 	quest.0263BA792A5781AC.quest_desc: [
 		"Go to a River biome with a fishing rod and start fishing."
 		""
@@ -97,6 +117,7 @@
 	]
 	quest.0263BA792A5781AC.quest_subtitle: "Fishing time"
 	quest.0263BA792A5781AC.title: "Weather gene"
+	quest.02D23779EC7C72E4.title: "Soul-Touched Deepshelf"
 	quest.02E409957CF1A24F.quest_desc: [
 		"Creating source gems isn't the only thing the imbuement chamber is used for."
 		""
@@ -125,6 +146,9 @@
 	quest.036C58E2C3423F58.quest_subtitle: "You're a wizard harry..."
 	quest.036C58E2C3423F58.title: "&l&dArs Nouveau"
 	quest.03F4B189616EDCBC.quest_desc: ["Adds more nuanced distribution options. Allows for Round Robin configuration, Nearest First, Furthest First, and Random distribution."]
+	quest.04787EFC50B743C2.title: "Draconic Endshelf"
+	quest.0492F1947C0D0901.quest_desc: ["Jar is used to get source from your network"]
+	quest.0492F1947C0D0901.quest_subtitle: "In a jar"
 	quest.04BA44C84D598B0C.quest_desc: [
 		"The divination rod makes the process of finding Iesnium significantly easier."
 		""
@@ -135,6 +159,9 @@
 		"if for some reason this doesn't work the rod animation will operate like a game of hot and cold."
 	]
 	quest.04BA44C84D598B0C.quest_subtitle: "prospecting"
+	quest.0539774D6FEBD2D4.quest_desc: ["Hellshelf of Sight"]
+	quest.0539774D6FEBD2D4.quest_subtitle: "What could it be?"
+	quest.0539774D6FEBD2D4.title: "Enchanting Clues"
 	quest.057C34F21922414A.quest_desc: [
 		"The uv light box is used to increase the etch success chance on your empty PCBs the longer they stay inn the higher the chance of success"
 		""
@@ -153,6 +180,19 @@
 	]
 	quest.05CBF1076C1E21DF.quest_subtitle: "I/O"
 	quest.05FAEBA8E296FE54.quest_desc: ["increases the pickup delay by 10 ticks per augment."]
+	quest.060E4B2A707CF6E5.quest_desc: [
+		"Okay, this one is not needed unless you want, because &6bees&r and &dseeds&r are a whole lot easier to do, but I have to tell you."
+		""
+		"Go to the max build heigth, and plant the following looking up and get sky stone dust."
+		"You need to smelt it or leave as it is. "
+		"Also you need a way to get the dust from the &7sky&r to your base"
+		""
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/sky_stone_farm.png width:100 height:100 align:center fit:true}"
+	]
+	quest.060E4B2A707CF6E5.quest_subtitle: "Mining the sky"
+	quest.060E4B2A707CF6E5.title: "Sky stone dust farm"
+	quest.06193F4FCFE796C6.title: "Soul-Touched Sculkshelf"
 	quest.062FB5E168C9D41E.quest_desc: [
 		"To set up a henge place an inventory and a source jar adjacent to the henge then spawn in your Drygmys then place your jarred mobs inside a 10 block range of the henge."
 		""
@@ -178,7 +218,19 @@
 		"#Range: 0 ~ 300"
 		"drygmyQuantityCap = 5"
 	]
+	quest.06BB747C353B7A3B.quest_desc: [
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
+		""
+		"&bHostile Neural Networks&r questline made by: &o&l&5ArcTrooper&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.06BB747C353B7A3B.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.06BB747C353B7A3B.title: "&l&4Catalyst Studios Quests"
 	quest.06D93FEF99C1385C.title: "Sussy Bee"
+	quest.06EA43B239BD0B56.quest_desc: [""]
+	quest.06EA43B239BD0B56.quest_subtitle: "The Beginning"
+	quest.06EA43B239BD0B56.title: "Your First Modifier!"
 	quest.06FD532ABD84C9EA.title: "&lThe Portal of All"
 	quest.071FE397CB2E98E4.title: "Fish Bee"
 	quest.073DE2F2007E5403.quest_desc: ["You get genes from the bees inside the hive, but it's too slow, go for the other method"]
@@ -210,8 +262,16 @@
 	quest.078639E7470871B6.title: "special glasses"
 	quest.07B077F7F5D09FDF.quest_desc: ["In this section, we will talk about some &eblocks&r that will surely bring us joy when we craft them."]
 	quest.07B077F7F5D09FDF.title: "&l&e&nAmazing Blocks"
+	quest.07C07D7DB62F2A27.quest_desc: ["Alloy used for housings for &aMekanism&r chemicals, doesn't allow for nuclear stuff"]
+	quest.07C07D7DB62F2A27.quest_subtitle: "Mekanism storage"
 	quest.083604B3D2850E53.quest_desc: ["Just a faster version, but doesn't work on hives"]
 	quest.083604B3D2850E53.quest_subtitle: "Sonic, the film"
+	quest.086F96B893CA021F.quest_desc: [
+		"Why do I need to delete my old setups?"
+		""
+		"Because the new one is a lot &cfaster&r to make and saves you some &achannels&r, because it does the job of a few &dinscribers&r in just 2 blocks."
+	]
+	quest.086F96B893CA021F.quest_subtitle: "EFFICIENCY - probably some GregTech player"
 	quest.08F416131D7643D3.quest_desc: [
 		"Are you tired of pipes ruining your clean setup?"
 		""
@@ -220,6 +280,8 @@
 		"The camouflage applicator is able to hide pipes among other things."
 	]
 	quest.08F416131D7643D3.quest_subtitle: "Ugly pipes? fear not"
+	quest.091E5C879772310D.quest_desc: [""]
+	quest.091E5C879772310D.title: "Removing Curses"
 	quest.0925EFA03EAFF209.quest_desc: [
 		"This is your main way to process combs from Productive bee mod."
 		""
@@ -238,6 +300,10 @@
 		"- &cHeated&r &dcentrifuge&r doesn't generate wax"
 	]
 	quest.0925EFA03EAFF209.quest_subtitle: "SFM triggered"
+	quest.092767A2A7AC588C.quest_desc: ["Needed for casing, basically"]
+	quest.092767A2A7AC588C.quest_subtitle: "Casing completed?"
+	quest.09491BB900209FF2.quest_desc: ["Basically an &aExtended&r &bInterface&r, but each slot allows to store more, 16 times more!"]
+	quest.09491BB900209FF2.quest_subtitle: "Now we are talking"
 	quest.09846E3BA8A6FF77.quest_desc: [
 		"This mod is one of the many definitions of pure &cRNG&r. Why? Simple, &eEverlasting Abilities&r mod adds a lot of &bTotems&r that have 1 ability each."
 		""
@@ -258,8 +324,8 @@
 	quest.09AA28D69D0D696E.quest_desc: ["Candles are used in most if not all rituals"]
 	quest.09AA28D69D0D696E.title: "Organic candles"
 	quest.0A570D70294358D0.quest_desc: [
-		"Whilst pipes will \"function\" perfectly fine without upgrades, their versatility and applicability are greatly enhanced with upgrades.  "
-		"Upgrades not only improve transfer speeds and amounts but also add different configurations."
+		"While pipes will \"function\" perfectly fine without upgrades, their versatility and applicability are greatly enhanced with upgrades.  "
+		"Upgrades not only improve transfer speeds and amounts, but they also add different configuration options."
 		""
 		"Configurations allow you to change the behavior of the Pipez, which will be explained in later quests, and include:  "
 		"&5- Redstone mode &r "
@@ -267,13 +333,13 @@
 		"&5- Destination/Distribution mode"
 		"&r"
 		"&6This pack has modified the upgrades to allow all of them to use any configuration. As a result, you now have the flexibility to choose the exact upgrade you need, rather than&r &6being forced to use a diamond upgrade just to set a filter.&r"
-		"&4The changes were made in response to known issues with lag when Pipez tries to push into full inventories, which is only amplified by higher speeds and amounts. so please avoid using faster upgrades than necessary.&r"
+		"&4The changes were made in response to known issues with lag when Pipez tries to push into full inventories, which is only amplified by higher speeds and amounts. So please avoid using faster upgrades than necessary.&r"
 		""
 		"Second page is info dump for upgrades and what they do"
 		"{@pagebreak}"
-		"info dump pipe speeds and transfere amounts"
+		"Info dump of pipe speeds and transfer amounts"
 		"&e[item_pipe.speed]&r"
-		"ticks per operations"
+		"Ticks per operation"
 		"&8no_upgrade = 20&r"
 		"basic = 15"
 		"&eimproved = 10&r"
@@ -281,7 +347,7 @@
 		"&5ultimate = 1&r"
 		""
 		"&e[item_pipe.amount]&r"
-		"items per operation"
+		"Items per operation"
 		"&8no_upgrade = 4&r"
 		"basic = 8"
 		"&eimproved = 16&r"
@@ -289,28 +355,29 @@
 		"&5ultimate = 64&r"
 		""
 		"&b[fluid_pipe.amount]&r"
-		"amount transfered per tick in mb"
-		"&8no_upgrade = 50&r"
-		"basic = 100"
-		"&eimproved = 500&r"
-		"&badvanced = 2000&r"
-		"&5ultimate = 10000&r"
+		"Amount transfered per tick in mb"
+		"&8no_upgrade = 50 mB/t&r"
+		"basic = 100 mB/t"
+		"&eimproved = 500 mB/t&r"
+		"&badvanced = 2,000 mB/t&r"
+		"&5ultimate = 10,000 mB/t&r"
 		""
 		"&4[energy_pipe.amount]&r"
-		"amount of FE transferred each tick"
-		"&8no_upgrade = 256&r"
-		"basic = 1024"
-		"&eimproved = 8192&r"
-		"&badvanced = 32768&r"
-		"&5ultimate = 131072&r"
+		"Amount of FE transferred each tick"
+		"&8no_upgrade = 256 FE/t&r"
+		"basic = 1,024 FE/t"
+		"&eimproved = 8,192 FE/t&r"
+		"&badvanced = 32,768 FE/t&r"
+		"&5ultimate = 131,072 FE/t&r"
 		""
 		"&a[gas_pipe.amount]&r"
-		"amount of gas/chemical transfered per tick in mB"
-		"&8no_upgrade = 200&r"
-		"basic = 400"
-		"&badvanced = 8000&r"
-		"&5ultimate = 40000&r"
+		"Amount of gas/chemical transfered per tick in mB"
+		"&8no_upgrade = 200 mB/t&r"
+		"basic = 400 mB/t"
+		"&badvanced = 8,000 mB/t&r"
+		"&5ultimate = 40,000 mB/t&r"
 	]
+	quest.0A570D70294358D0.quest_subtitle: "Faster!"
 	quest.0A570D70294358D0.title: "Upgrades/Configurations"
 	quest.0A691F71CA79DCB0.quest_desc: [
 		"This is one of my favourite fluid tanks within all of modded mc, it's quite cheap and it's incredibly similar to the Mekanism Tanks!"
@@ -321,6 +388,8 @@
 	]
 	quest.0A691F71CA79DCB0.quest_subtitle: "Can store any fluid"
 	quest.0A691F71CA79DCB0.title: "Dark Tank"
+	quest.0AB09FA4A1BDFED8.quest_desc: ["Using a &ecrusher&r from &aMekanism&r or an &dinscriber&r, you can get the dust"]
+	quest.0AB09FA4A1BDFED8.quest_subtitle: "Time to crush that singularity"
 	quest.0AC4D069AEA88579.quest_desc: [
 		"To get our very first block of Hardened Blood, we can use 2 methods..."
 		""
@@ -335,7 +404,24 @@
 		"The first tier however is purely just storage."
 	]
 	quest.0AE1D9E720C989FD.quest_subtitle: "Too much chalk?"
+	quest.0AE5D4C43C7C4C8C.quest_desc: [
+		"Well, congrats!"
+		""
+		"You have made the biggest &cstorage&r component that you can."
+		"As a reward, you can &n&bchoose&r 1 item on each reward pool"
+	]
+	quest.0AE5D4C43C7C4C8C.quest_subtitle: "Final NAS: &cON&r"
+	quest.0AE5D4C43C7C4C8C.title: "256M Storage Component"
 	quest.0B590548E1FA4E1A.title: "Chocolate Mining Bee"
+	quest.0B6D864866C886A0.quest_desc: [
+		"While these are AE2 machines, they only needs 1 channel, but now we have a little problem, if you did the whole block version, it can be used on dense cables, if not, only on smart cables."
+		""
+		"There are meant to keep &eitems&r, &9fluids&r, &cgas&r, ... on stock and insert a lot of stuff fast into your &dnetwork&r, but with an &aenergy&r cost."
+		""
+		"They can do 9 stacks of &eitems&r per tick, so they are fast"
+	]
+	quest.0B6D864866C886A0.quest_subtitle: "How to move stuff fast"
+	quest.0B6D864866C886A0.title: "Interface"
 	quest.0BB636E9C6105134.quest_desc: [
 		"&dWaystones&r mod adds multiple yet useful blocks for us to use!"
 		""
@@ -406,7 +492,25 @@
 	]
 	quest.0C513C2290CB94DA.quest_subtitle: "in the form of a bucket!"
 	quest.0C513C2290CB94DA.title: "&l&1Infinite Water"
-	quest.0C6B960703FA685F.quest_desc: ["Transferes fe/rf"]
+	quest.0C6B960703FA685F.quest_desc: ["Transfers FE/RF."]
+	quest.0C7B1EBED4C008AC.quest_desc: [
+		"Imagine you want to have always 500 stone bricks in your &bnetwork&r."
+		""
+		"You could use a complicated setups or just slap one of these."
+		"They have 4 slots per line:"
+		""
+		"- &dEnable&r: It's a checkbox to turn on/off the item to be requested"
+		""
+		"- Item to be &dcrafted&r"
+		""
+		"- &aQuantity&r to have in stock"
+		""
+		"- How many it will &erequest&r at a given time"
+		""
+		"You need to &capply&r or else it won't save the configuration, this is a common &cissue&r with requester."
+		"The &bterminal&r is to manage multiple requester at the same time."
+	]
+	quest.0C7B1EBED4C008AC.quest_subtitle: "Requesters.... ON-DEMAND"
 	quest.0C7FFA80C1B2836F.quest_desc: ["W.I.P"]
 	quest.0C7FFA80C1B2836F.quest_subtitle: "Free loot"
 	quest.0C7FFA80C1B2836F.title: "&lGateways to Eternity"
@@ -420,13 +524,56 @@
 		"{image:kubejs:textures/quest_images/productive_bees/bottler.png width:100 height:100 align:center fit:true}"
 	]
 	quest.0CA42C4E6040517E.quest_subtitle: "SMASH"
+	quest.0CA9BFCE2BDE798A.quest_desc: [
+		"They are cheap, and powerful."
+		"It gives you a lot of cobblestone and water in just 2 cells, worth making them"
+	]
+	quest.0CA9BFCE2BDE798A.quest_subtitle: "Infinite? I doubt"
 	quest.0CEB2FA613B63E28.quest_desc: ["Useful only on &bcatchers&r, to make it catch bees farther"]
 	quest.0CEB2FA613B63E28.quest_subtitle: "Bigger nests"
 	quest.0CF08FDDD9D56E04.quest_desc: ["This satchel much like it previous tier allows you to store all your ritual materials this one however allows you to click on the ritual preview you place with the book and the satchel will place the right candle skull chalk or crystal."]
+	quest.0D052E525AAEE0E2.quest_desc: [
+		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
+		""
+		"AE2 quests made by: &cTito&ep&c54&r"
+		""
+		"If you are seeing this, it means you are in editing mode. And you are &4cheating&r so no bueno"
+	]
+	quest.0D052E525AAEE0E2.quest_subtitle: "Cheating is no bueno"
+	quest.0D052E525AAEE0E2.title: "Quests"
+	quest.0D1919E6F8066E9E.quest_desc: [
+		"You need all items to do it correctly."
+		"Place the &5wireless access point&r somewhere in your &dmain network&r and link your wireless crafting terminal inside the &5access point&r."
+		""
+		"After than, place &aquantum card&r and then the &elinked singularity&r on the top right corner."
+		""
+		"Now, break the &5access point&r, charge the wireless terminal and you have the best wireless terminal."
+		""
+		"If you connected the &dquantum ring&r from the last quest to your main network, of course...."
+	]
+	quest.0D1919E6F8066E9E.quest_subtitle: "Finally, &cWireless"
 	quest.0D205F4DB23CF931.quest_desc: ["The &dNecromancer's Staff&r is one of my favourite tools in all of Evilcraft. We can summon zombies to protect us from incoming damage and overwhelm our enemies... However, we still need blood to use this staff..."]
+	quest.0D20B269523C1B70.quest_desc: ["Using the &dmethod&r from 1 block to 9 printed circuit, we are saving a lot of time!"]
+	quest.0D20B269523C1B70.quest_subtitle: "Check ExtendedAE quests too"
+	quest.0D20B269523C1B70.title: "Printed Quantum Circuit"
+	quest.0D7F28967280B814.quest_desc: ["If you have followed the &6bees&r quests, you only need 2 &6bees&r to get this one and some materials ;)"]
+	quest.0D7F28967280B814.quest_subtitle: "Just 3 bees"
+	quest.0DACD6F3077FBD20.quest_desc: [
+		"Apothic Spawners allows you to modify spawners to make them faster and more efficient!"
+		""
+		"Pick up any spawner using a &bSilk Touch&r pick!"
+		""
+		"You can change the spawned mob by right-clicking the spawner with its spawn egg."
+	]
+	quest.0DACD6F3077FBD20.title: "Apothic Spawners!"
+	quest.0DB2F08E593B2B93.quest_desc: ["10x Crystalline Seashelf and 5x Normal Bookshelves"]
+	quest.0DB2F08E593B2B93.title: "Budding Amethyst"
 	quest.0DB34FF7DC6B31CC.title: "Blue Banded Bee"
 	quest.0DB992CAB5B99494.quest_desc: ["Instead of combs, you get blocks, which are 4 combs, but they are quite expensive too"]
 	quest.0DB992CAB5B99494.quest_subtitle: "Blocky"
+	quest.0DC883B46880A03C.quest_desc: ["Enchant a weapon with &bCapturing&r to have a chance of getting it's spawn egg!"]
+	quest.0DC883B46880A03C.quest_subtitle: "Who came first? The chicken or the egg?"
+	quest.0DC883B46880A03C.title: "Getting Spawn Eggs"
 	quest.0DF3C82DFF5E308A.quest_desc: [
 		"To get started  with Ars Nouveau you are going to need to get your hands on some Archwood planks."
 		""
@@ -450,6 +597,7 @@
 		"We can do a combination of these promises to 'upgrade' our machines/blocks for a better performance in each process, there are 3 slots for these promises, so go wild and look at whats best for your machines!"
 	]
 	quest.0E8C2C8D2D00843A.title: "Useful Promises"
+	quest.0E96A0AEBFCAD34D.title: "Geode-Encased Bookcase of Stability"
 	quest.0EB614A5D08D59BD.title: "Solar Helmet &l&5V7"
 	quest.0EF171C9D1A27B99.quest_desc: [
 		"PNC comes with a handy villiger which trades you everything you could need except for plastic. In fact he is so good that if you have these you don't even need to build a pressure chamber."
@@ -517,6 +665,20 @@
 	]
 	quest.0FB79B7ACDEDBA93.quest_subtitle: "I am Indestructible!"
 	quest.0FB79B7ACDEDBA93.title: "Empowered Crafters"
+	quest.0FEF062F9D5B30FF.quest_desc: [
+		"This is probably one of the easiest thing you will find to automate certus"
+		"&aPlant&r it, give &9water&r, collect and repeat."
+	]
+	quest.0FEF062F9D5B30FF.quest_subtitle: "Why dirt has so many things?"
+	quest.0FFFD7F307112518.quest_desc: [
+		"Now, we are talking about &ecleaning&r your cells."
+		""
+		"From time to time, its a &drecommended&r thing to clean your cells from old items or the one that you don't use anymore, like old armor."
+		""
+		"After that, you pass your cells to one of these &amachines&r to join all &eitems&r of the same type to a single cell, to save on types"
+	]
+	quest.0FFFD7F307112518.quest_subtitle: "Move content from cells"
+	quest.1092F4D5F4D6C072.title: "Frontier"
 	quest.109871D7E0FD1BF3.quest_desc: ["The stack upgrade increases the number of items sent per operation and applies to all compatible modules in the router (granted the module doesn't have stack augments). Each upgrade doubles the amount of items that can be sent per operation, meaning the maximum effective upgrades are 6 (2⁶)."]
 	quest.10B2FF4D07F806B7.quest_desc: [
 		"The pressure tube is used to move and contain your air."
@@ -541,6 +703,8 @@
 		"If you want, you can do 1 of these and 3 of the first tier, for now"
 	]
 	quest.10F497A089F5764D.quest_subtitle: "You can't skip this one"
+	quest.1143463EE2721A35.quest_desc: ["Now, it can ignores NBT data for exporting stuff, like bows!"]
+	quest.1143463EE2721A35.quest_subtitle: "No NBT data"
 	quest.1144B308B2C7245F.quest_desc: [
 		"When placed on a pipe with at least 3 bars of pressure it will connect to all other logistics modules on the network."
 		""
@@ -552,6 +716,15 @@
 	]
 	quest.1144B308B2C7245F.quest_subtitle: "Piped logistics"
 	quest.1169C4B8130911F8.quest_desc: ["These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."]
+	quest.116BB789A12F3457.quest_desc: [
+		"I guess you want to continue with &bAE2&r, but I would sugguest for you to do some setups before."
+		""
+		"For example, you will need a lot of &bdiamonds&r, &egold&r, &bcertus&r, &5fluix&r, &credstone&r, &fquartz&r, ..."
+		""
+		"And energy, that's important too. Maybe some wind generators do the trick for now"
+	]
+	quest.116BB789A12F3457.quest_subtitle: "Before continuing"
+	quest.116BB789A12F3457.title: "Read this"
 	quest.116C2B35680E1C72.quest_desc: [
 		"This module links your inventory to the router and can serve various purposes, such as removing clutter or supplying armor slots, offhand slots, hotbar, and the normal inventory."
 		""
@@ -583,6 +756,12 @@
 	quest.116C52D690CC1551.quest_subtitle: "Pretty op stuff..."
 	quest.116C52D690CC1551.title: "&l&4Apotheosis"
 	quest.1173CD14614D1F08.title: "BEE!"
+	quest.11A6DBC0DA07DA74.quest_desc: [
+		"Now we are talking. The other use for &aMEGA&r, their &dco-processors&r."
+		""
+		"Instead of adding 1, they add 4, which saves a lot of space"
+	]
+	quest.11A6DBC0DA07DA74.quest_subtitle: "More"
 	quest.11AD62DE17CEDB14.quest_desc: [
 		"Otherworld logs are required for making chalk."
 		""
@@ -621,6 +800,20 @@
 		"These need to be filled with experience in the thermopneumatic processing plant to be able to be filled with mobs"
 	]
 	quest.13647F5B0F6745E5.quest_subtitle: "Framework"
+	quest.13734C22DB105837.quest_desc: [
+		"Now, make 1 &5quantum ring&r and place it anywhere in your main &dnetwork&r."
+		"Then, put inside one of those &dlinked singularities&r"
+	]
+	quest.13734C22DB105837.quest_subtitle: "We will need 1 channel"
+	quest.13734C22DB105837.title: "Quantum Ring"
+	quest.13CA67D14B62120B.quest_desc: [
+		"This section speaks about others &aaddons&r from &bAE2&r."
+		"Also interesting things from &bAE2&r that doesn't fit on the main &2tree&r"
+	]
+	quest.13CA67D14B62120B.quest_subtitle: "More = &cbetter"
+	quest.13CA67D14B62120B.title: "Other mods"
+	quest.13E38108EE8D35E6.quest_desc: ["These kind of &cstorage&r component are used for storing lots of &dtypes&r, since they provide a balance between &dtypes&r and amount of items it can &cstore&r."]
+	quest.13E38108EE8D35E6.quest_subtitle: "NASv.3: ON"
 	quest.1480A8DAFC82ADD5.quest_desc: [
 		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
 		""
@@ -629,6 +822,47 @@
 		"If you are seeing this, it means you are in editing mode."
 	]
 	quest.1480A8DAFC82ADD5.title: "&l&4Catalyst Studios Quests"
+	quest.14BF651B802A685A.quest_desc: [
+		"Another multiblock, great...."
+		"You need this in other to autocraft and each CPU uses 1 channel and can be connected to any cable."
+		""
+		"They have restrictions too:"
+		""
+		"- They have &cstorage&r, so if you request something big, you might need to upgrade your CPU."
+		""
+		"- They can be &4laggy&r if you put a lot of &3co-processors&r, in 1K order, be aware of that. "
+		""
+		"- They need to be a &erectangular&r structure."
+		""
+		"- I need to be &dfilled&r, not empty inside."
+		""
+		"{@pagebreak}"
+		"The following &bCPU&r is a real basic one, just to make you get &bAE2&r a bit faster."
+		"Now I need to explain something more, &dco-processor&r."
+		""
+		"By default, &bAE2&r CPU can only do 1 &atask&r at the time, like smelting 1 cobblestone, and this is no bueno."
+		"For that, if we add &dco-processors&r, we add 1 task, and now we can smelt 3 cobblestone."
+		""
+		"Normally, you want to have a few &bCPU&rs for your network to craft on demand and 1 or more big &bCPU&rs for you to craft things."
+		"There are settings on the &bCPU&r if you right click it after it being formed"
+		""
+		"&2CPU photo on next page&r"
+		"{@pagebreak}"
+		"{image:kubejs:textures/quest_images/applied_energetic/simple_cpu.png width:100 height:100 align:center fit:true}"
+	]
+	quest.14BF651B802A685A.quest_subtitle: "The CPU"
+	quest.14BF651B802A685A.title: "CPU"
+	quest.14CB7FBA94CA9F72.quest_desc: [
+		"This is the only power generation you will find in this mod and they can't be used with other mods sadly."
+		""
+		"- &dVibration chamber&r: Generates 80 &aFe&r per tick by burning fuel. It can be upgraded."
+		""
+		"- &dCrystal Resonance Chamber&r: It generates 40 &aFe&r per tick by free. Only 1 per &cnetwork&r."
+		""
+		"Later on, I will explain what is a network."
+	]
+	quest.14CB7FBA94CA9F72.quest_subtitle: "Powerful, but not"
+	quest.14CB7FBA94CA9F72.title: "Power generation"
 	quest.151BBAA83E037C27.quest_desc: [
 		"If there is something that the quests do not cover that you wonder about you might find it here"
 		""
@@ -639,6 +873,9 @@
 	quest.15BA38377EA9D7A2.quest_desc: ["Now that we are generating 4096FE/t we can begin to grow our factory with more machines..."]
 	quest.15BA38377EA9D7A2.quest_subtitle: "I'm Out of Subtitles"
 	quest.15BA38377EA9D7A2.title: "&l&3Resonant Solar Panel"
+	quest.162694C7F0BA16A9.quest_desc: [""]
+	quest.162694C7F0BA16A9.quest_subtitle: "&oYawn"
+	quest.162694C7F0BA16A9.title: "Dormant Deepshelf"
 	quest.16359AA62D3FE75B.quest_desc: [
 		"The Spirit Furnace is a way to farm mob drops by using a trapped spirit on the Spirit Box, kinda similar to a &dSimulation Chamber&r from Hostile Neural Networks. The only difference here, is that this is a multiblock and it uses &4blood&r instead of &cenergy&r!"
 		""
@@ -715,14 +952,21 @@
 		"If you are seeing this, it means you are in editing mode"
 	]
 	quest.181DFA60A3F29580.title: "Collecting our Blood"
+	quest.1893C08C4FA72DCC.quest_desc: [
+		"You need to make a quarry bee and set the flower to a sky stone block."
+		"After some time (maybe a long on), it will generate some blocks."
+		""
+		"Also check &dseeds&r and &aXyCraft&r"
+	]
+	quest.1893C08C4FA72DCC.quest_subtitle: "The easy way"
 	quest.18996DFF949E4494.quest_desc: [
-		"Destination spesific filters."
-		"Pipez allows you to set filters to spesific locations using the destination tool."
-		"you set the destination by  right clicking the side you want to send to then you click the destination tool onto the slot for it in the filter."
+		"Pipez allows you to set filters to specific locations using the destination tool."
+		"You set the destination by &bright-clicking&r the side you want to &bsend to&r then you click the destination tool onto the slot for it in the filter."
 		""
 		"&4NOTE!!&r"
-		"&4Destination filters are side spesific so do make sure you get the correct side that the pipe connects to if not the filter wont work.&r"
+		"&4Destination filters are side specific, so make sure you get the correct side that the pipe connects to. If you don't, the filter won't work.&r"
 	]
+	quest.18996DFF949E4494.quest_subtitle: "Destination specific filters"
 	quest.1967006A4AFEE71C.quest_desc: ["The upcoming creatures need to be created with the tablet of awakening."]
 	quest.1967006A4AFEE71C.quest_subtitle: "Expanding the labor force"
 	quest.199EE3B22FAFAC74.quest_desc: [
@@ -756,6 +1000,11 @@
 	quest.1A4A8AB28AEE3D91.title: "The Evil Pickaxe"
 	quest.1AD0B6FC4101DE41.quest_desc: ["This item acts like a remote terminal and allows you to access your storage from anywhere in your world."]
 	quest.1AD0B6FC4101DE41.title: "Remote Access"
+	quest.1AD8C1337F69E1C5.quest_desc: ["Makes the spawner require a &bredstone signal&r to function."]
+	quest.1AD8C1337F69E1C5.quest_subtitle: "Pull the lever Kronk!"
+	quest.1AD8C1337F69E1C5.title: "Redstone Toggle"
+	quest.1AF3E9F16A147816.quest_desc: ["Now, the armor has a lot of &3upgrades&r that you can put, similar to &aMystical Agriculture&r's armor or the Mekasuit from &aMekanism&r."]
+	quest.1AF3E9F16A147816.quest_subtitle: "Upgrades"
 	quest.1AF45B00853ADE5F.quest_desc: [
 		"The Box of Eternal Enclosure will help us trap those annoying Vengeance Spirits."
 		""
@@ -776,7 +1025,20 @@
 		""
 		"&4(NOTE! does not regulate pressure in both ways.)&r"
 	]
+	quest.1B7D92A34E8743E2.quest_desc: [
+		"E -2"
+		"Q -10%"
+	]
+	quest.1B7D92A34E8743E2.title: "&aMelonshelf"
+	quest.1C2725141CCA39D7.quest_desc: ["3x Soul-Touched Sculkshelf, 1x Draconic Endshelf"]
 	quest.1C966B51149B598F.title: "Magmatic Bee"
+	quest.1CC084EAB233E5FE.quest_desc: [
+		"Not as broken as &aExtendedAE&r, but still, it allows some insane setups, specially the &ddupe&r method or the &bCPU&r."
+		""
+		"And lets not talk about the &4armor&r...."
+	]
+	quest.1CC084EAB233E5FE.quest_subtitle: "Why are you so advanced?"
+	quest.1CC084EAB233E5FE.title: "AdvancedAE"
 	quest.1CFF013971504D07.quest_desc: [
 		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
 		""
@@ -855,11 +1117,27 @@
 	]
 	quest.1DB14DCD4CD04E24.quest_subtitle: "Better Than The Leadstone Solar Panel"
 	quest.1DB14DCD4CD04E24.title: "&l&7Hardened Solar Panel"
+	quest.1E81D0EC96EAD719.quest_desc: [
+		"You shouldn't be worry about power storage on large scale setups with one of this."
+		"Also, if you plan to use &dSpatial IO&r, use these cells"
+	]
+	quest.1E81D0EC96EAD719.quest_subtitle: "crazy...."
 	quest.1E9DEB2861DAE355.quest_desc: ["Now, it's when you can consider yourself started in this madbees"]
 	quest.1E9DEB2861DAE355.quest_subtitle: "Yep, we have started the mod"
 	quest.1E9DEB2861DAE355.title: "Honey Treat"
 	quest.1EACFBCABFF93EE6.quest_desc: ["If you don't already have another kind of liquid experience to use to fill the spawner cores you can use this item to store experience then use it on a tank to get memory essence."]
+	quest.1EE93E4C80945A97.quest_desc: [""]
+	quest.1EE93E4C80945A97.title: "Max Enchanting Setup"
 	quest.1F9003B2E0134DEF.quest_desc: ["Allows the router to place blocks. It can also be used to plant crops, such as sugar cane, cocoa pods, and Ars fruits."]
+	quest.1F94352650044208.quest_desc: ["In order to use the &dAdvanced&r &aExtended&r &6Pattern provider&r (who put names in here?), you need to use this tool to convert them"]
+	quest.1F94352650044208.quest_subtitle: "New patterns"
+	quest.1F99B65BF9354923.quest_desc: [
+		"The fundation for &cstorage&r...."
+		""
+		"The main use is for 1K Storage Part, but lets continue, more about that later"
+	]
+	quest.1F99B65BF9354923.quest_subtitle: "We have made a sandwich"
+	quest.1F99B65BF9354923.title: "Logic Processor"
 	quest.1F9DD8905A302496.quest_desc: [
 		"Ever wanted to look &l&dfabulous&r yet &c&lPowerful&r when fighting mobs?"
 		""
@@ -888,6 +1166,12 @@
 	]
 	quest.20A79BCC4B9EC78B.quest_subtitle: "shiny"
 	quest.20A79BCC4B9EC78B.title: "Spirit attuned Crystal"
+	quest.20A95AA83B74EDBB.quest_desc: [
+		"This is how you store nuclear stuff from &aMekanism&r."
+		""
+		"Also, they are worth 4 &ewaste barrels&r"
+	]
+	quest.20A95AA83B74EDBB.quest_subtitle: "Radioactive"
 	quest.20AC765EB929F9F4.quest_desc: [
 		"Tired of recieveing fall damage when building your house?"
 		""
@@ -916,6 +1200,14 @@
 	quest.20B8574EE918C8B3.title: "Behavior gene"
 	quest.21248F5410430924.quest_subtitle: "Thunderstruck?"
 	quest.21248F5410430924.title: "Lightning in a Bottle"
+	quest.213712F8CA65B2ED.quest_desc: [
+		"These wireless device allows you, on the same &ndimension&r, to have cheap and compact wireless, but there is a problem."
+		""
+		"They consume a lot of &apower&r the further they are to each other. One way to solve this issue is using &dEnergy Card&r, but still, they growth at an exponential rate."
+	]
+	quest.213712F8CA65B2ED.quest_subtitle: "Wireless? More or less"
+	quest.215E69CFA0425ADF.quest_subtitle: "NASv8: ON"
+	quest.215E69CFA0425ADF.title: "16M Storage Component"
 	quest.2164219E306DCCEA.quest_desc: [
 		"The mod &l&1Explorer's Compass&r will aid us our search for &dStructures&r or &6Dungeons&f, it can even locate the new 1.21 structure... The Trail Ruins easily"
 		""
@@ -968,6 +1260,13 @@
 		"Omega Upgrades acts as a simulation upgrade"
 	]
 	quest.22B285D439CCF4B5.quest_subtitle: "Forbidden"
+	quest.2300B53ADEFB2636.quest_desc: [
+		"This will be the last quest with text."
+		""
+		"There are the most expensive cells &bAE2&r can provide, then, &5MEGA&r mod enters the chat"
+	]
+	quest.2300B53ADEFB2636.quest_subtitle: "NASv6: ON"
+	quest.2300B53ADEFB2636.title: "256K Storage Component"
 	quest.232345A9C9EFDC9B.quest_desc: [
 		"Well well well...."
 		""
@@ -989,6 +1288,20 @@
 	quest.234A684181B4B277.quest_desc: ["This is the highest tier of satchel and will construct the entire ritual if you click on the preview it will also allow you to instantly clean up the ritual by clicking on the ritual bowl"]
 	quest.237B43D294790EC9.quest_desc: ["For this bee, you need to use glowstone and be on &4The Nether&r"]
 	quest.237B43D294790EC9.quest_subtitle: "Turn off the light"
+	quest.240552BBF5D94EB1.quest_desc: [
+		"Mobs ignore spawn conditions and spawn in any condition."
+		""
+		"You don't need &bIgnore Light Level&r if you have this upgrade."
+	]
+	quest.240552BBF5D94EB1.quest_subtitle: "This spot looks good enough"
+	quest.240552BBF5D94EB1.title: "Ignore Spawn Conditions"
+	quest.242A717797D292A4.quest_desc: [
+		"They are used a ton in setups, so you want a lot of them."
+		"They speed up things."
+		""
+		"For example, on &dexport bus&r, it allows to send more &eitems&r in the same time, but it also send more items in less time"
+	]
+	quest.242A717797D292A4.quest_subtitle: "Quite a bit"
 	quest.2438C51737F1817B.quest_desc: [
 		"The Shrink mod adds the amazing &n&dShrinking Device&r, which will let you... SHRINK!"
 		""
@@ -1064,8 +1377,16 @@
 		"read ars nouveau worn notebook under ars Ocultas for more info"
 	]
 	quest.253D4934AE39B4DA.title: "Bottled Demons"
+	quest.254B7CA3BF8C296B.quest_desc: [
+		"E -30"
+		"Q +100%"
+	]
+	quest.254B7CA3BF8C296B.title: "&6Beeshelf"
+	quest.2574C8E53EFD83E1.quest_desc: ["Items and circuits, good combination"]
+	quest.2574C8E53EFD83E1.quest_subtitle: "Items"
 	quest.2577E2D827AC5D6C.quest_desc: ["Will generate source from Mob deaths, Breading and passively of baby animals as well as acell their growth"]
 	quest.2577E2D827AC5D6C.quest_subtitle: "in Life and Death "
+	quest.261C1726C965B33F.quest_desc: ["There are basically &3useless&r, since you have &aMekanism&r for the canner and you don't use the repair for buds, since you either have &6bees&r or &ddupe&r for &aEntro&r crystal or &eflawless&r bud for &bcertus&r "]
 	quest.26726F3439B381DD.quest_desc: ["Magma cream.... and &4The Nether&r, perfect combo for this bee"]
 	quest.26726F3439B381DD.quest_subtitle: "Turn off the fire PLEASE"
 	quest.269D02D4BFFC0190.quest_desc: [
@@ -1076,6 +1397,23 @@
 		"Honestly, i suggest you forget about sunbathing and become a sentient walking being that generates &l&cenergy&r!"
 	]
 	quest.269D02D4BFFC0190.title: "Solar Helmet &lV1"
+	quest.26D7A8C7156AB1F6.quest_desc: ["If you want to remove modifiers, just take that modifier item and hold a piece of &bNether Quartz&r in your &lOff-Hand&r to remove one level of modifier!"]
+	quest.26D7A8C7156AB1F6.quest_subtitle: "Everyone makes mistakes"
+	quest.26D7A8C7156AB1F6.title: "Removing Modifiers"
+	quest.26D88FF9A22A338E.quest_desc: [
+		"At the beginning, you are going to use a lot of these, because it's needed on &6autocrafing&r and &binterfaces&r."
+		""
+		"More on that later."
+	]
+	quest.26D88FF9A22A338E.quest_subtitle: "Multiblock formed!"
+	quest.26D88FF9A22A338E.title: "Formation Core"
+	quest.26FCC70341995D39.quest_desc: [
+		"Well, well, well...."
+		""
+		"Another &dterminal&r, but this time it allows you to find &6patterns&r faster, either by using &einput&r materials or &aoutput&r result."
+		""
+		"Also locate &6pattern providers&r!"
+	]
 	quest.271ED85A73CCEAF5.title: "Sculk Bee"
 	quest.273CC4D59C0D8731.quest_desc: [
 		"The mod &n&l&6Only Hammers&r adds a variety of hammers for us to mine big areas quickly!"
@@ -1105,8 +1443,58 @@
 	]
 	quest.27E705A8E21A5236.quest_subtitle: "An Upgrade in the form of a Promise..."
 	quest.27E705A8E21A5236.title: "Our First &lPromise"
+	quest.2818BDCD7EDDDDDB.title: "Heart-Forged Seashelf"
 	quest.286161478F4107E8.quest_desc: ["Augments are used to enhance or modify the behavior of individual modules."]
+	quest.28904D17FA902B9C.quest_desc: [
+		"This is on of those &aaddons&r that you will use a lot, but when i say a lot, it's a lot."
+		""
+		"This is probably one of the most &cbroken&r addon for &bAE2&r out there, and that is good, for us :P"
+	]
+	quest.28904D17FA902B9C.quest_subtitle: "Concurrency or parallelism?"
+	quest.28904D17FA902B9C.title: "ExtendeAE"
+	quest.289EAB703FB95F5F.quest_desc: [
+		"&bCloud&r storage? Where? Oh... "
+		""
+		"Time for you to get your &cstorage&r and forget those &echests&r and &abarrels&r and dr..."
+		"Well, we can live with &edrawers&r, for now...."
+		"They allow you to store 10 &dcells&r per machine. More info on the next quest"
+		""
+		"These &bAE2 machines&r uses 1 &achannels&r and can be connected on &eboth&r types of &dcables&r."
+	]
+	quest.289EAB703FB95F5F.quest_subtitle: "Your local storage"
+	quest.28BF9F410AEC0FEE.quest_desc: ["Charge the &ccrystal&r on a &dcharger&r or similar ;)"]
+	quest.28BF9F410AEC0FEE.quest_subtitle: "Step 2"
+	quest.2919FB8C84AD69F9.quest_subtitle: "NASv5: ON"
+	quest.2919FB8C84AD69F9.title: "4M Storage Component"
 	quest.295B9BC524CA6E40.title: "Burning GemStone"
+	quest.295DFE93EE139200.quest_desc: ["Basically, a faster version"]
+	quest.2992DF31EA2F37F1.quest_desc: [
+		"Basically, in this setup we want to put ores, like iron ore and get back raw iron."
+		""
+		"Why should we make this setups? Imagine you came from a &dmining&r session and you need to process all items."
+		""
+		"You could do 2 things:"
+		""
+		"- &cManually&r process everything"
+		""
+		"- Let &bAE2&r process them for you."
+		""
+		"I will only tell you how to do from &eores&r to &6raw&r, since there are a lot of way to process raws, like &aIndustrial Foregoing&r or &dOccultism&r or &aMekanism&r to name a few."
+		""
+		"{@pagebreak}"
+		""
+		"Basically, you want send the ores to the &binterface&r, then, the &dformation&r plane will place the ores and &cannihilation&r planes will break the ores."
+		""
+		"Now, this is &c&limportant&r, in the image, we send back the &eores&r to the &binterface&r using a &astorage bus&r, but this is &4&lwrong&r."
+		""
+		"We should have the &astorage bus&r on the &cnext step&r of the ore processing, just I couldn't fit the image while the text still visible"
+		""
+		"{@pagebreak}"
+		"{image:kubejs:textures/quest_images/applied_energetic/ore_processing.png width:100 height:100 align:center fit:true}"
+	]
+	quest.2992DF31EA2F37F1.quest_subtitle: "From ores to raw ores"
+	quest.2992DF31EA2F37F1.title: "Ore processing"
+	quest.29ABE9033578C179.title: "Echoing Sculkshelf"
 	quest.29DD8D76E24CCE26.quest_desc: [
 		"The mod &l&aNature's Compass&r will aid us our search for that incredible &2Biome&r we want our base in..."
 		""
@@ -1118,6 +1506,43 @@
 	]
 	quest.29DD8D76E24CCE26.quest_subtitle: "Biome locator!"
 	quest.29DD8D76E24CCE26.title: "&l&aNature's Compass"
+	quest.2A30ED06F03EAD50.quest_desc: [
+		"With 10 of these 1K &cStorage&r &6Components&r, you should be able to fit most of your early &cstorage&r and then you can easily upgrade it to higher capacity."
+		""
+		"Now, for the \"hard\" part, &dtypes&r."
+		""
+		"Types is there for 1 main reason, &4corruption&r. It doesn't allow you to store all the trash from your &amob farm&r, like damaged armors or weapons."
+		"Those tools or armor in high amount can cause a &cban&r from your world."
+		""
+		"How do I know what is consider a &dtype&r? If you can stack the same thing on a backpack with stack upgrade, then it's the same type, if not, it's different."
+	]
+	quest.2A30ED06F03EAD50.quest_subtitle: "NAS: ON"
+	quest.2A30ED06F03EAD50.title: "1K Storage Component"
+	quest.2A31D8850389D929.quest_desc: [
+		"I lied, sorry :P"
+		""
+		"These are a bit expensive but can substitute drawers. And what capacity and how many types?"
+		""
+		"Well, 1 &dtype&r only, and you need to use a &aCell Workbench&r to use it."
+		""
+		"For &ecapacity&r? Well... The number doesn't fit in the &centire&r &eobservable&r &4universe&r....."
+	]
+	quest.2A31D8850389D929.quest_subtitle: "I lied"
+	quest.2A40F0513524BA89.quest_desc: [
+		"This is the basic set, but you can &5upgrade&r it!"
+		""
+		"This is like wearing your &bAE2&r &dnetwork&r."
+		"The armor has options to turn &con&r and &4off&r upgrades, so if you added jump height, you can disable it"
+	]
+	quest.2A46F5B21C3B8949.quest_desc: [
+		"Well, well, well...."
+		""
+		"This mods allows you to store things without &4types&r."
+		""
+		"While this sounds interesting, I will question you, do you really need 500 &n&cdamaged&r bows?"
+		"And they also works different, 1 &eitem&r = 1 &abyte&r, unlike the 8 &eitems&r = 1 &abyte&r normal cells allows you"
+	]
+	quest.2A46F5B21C3B8949.quest_subtitle: "\"Storage for dummies\" - &bAE2&r Things"
 	quest.2A4E391D344BCAEA.quest_desc: ["Again, on &4The Nether&r, and this bee also love gold ingots"]
 	quest.2A4E391D344BCAEA.quest_subtitle: "Gold Rush"
 	quest.2ABDA47F00454485.quest_desc: [
@@ -1130,12 +1555,14 @@
 		"&8&opssst... Its above this one in case you didn't find it&r"
 	]
 	quest.2AC25C2A0F0A8043.quest_desc: [
-		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them"
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
 		""
-		"Pipez Questline made by: &aApexSlayer&r"
+		"&bPipez&r questline made by: &aApexSlayer&r"
 		""
 		"If you are seeing this, it means you are in editing mode"
 	]
+	quest.2AC25C2A0F0A8043.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.2AC25C2A0F0A8043.title: "&l&4Catalyst Studios Quests"
 	quest.2AE4D5671C45025B.quest_desc: [
 		"Works like both a Builder and a Breaker module. When given a redstone signal (behavior can be altered), it places blocks in the configured direction from the router's buffer. These are actual blocks, not ghost blocks like MK2. It can also be used for farming, such as planting rows of cocoa or other fruits on logs, etc."
 		""
@@ -1234,6 +1661,19 @@
 	quest.2D31A67A30DD06D6.quest_subtitle: "in the form of blocks!"
 	quest.2D31A67A30DD06D6.title: "&l&1Infinite Water Sources"
 	quest.2D7DDADE52D33142.title: "Yellow Carpenter Bee"
+	quest.2D8961C4A79889EB.quest_desc: [
+		"Fluix &dseeds&r...."
+		""
+		"Too serious now, they are pretty cheap.... wait a second, &bTIER 4&r?!?"
+	]
+	quest.2D8961C4A79889EB.quest_subtitle: "Fluixium"
+	quest.2D92C00760C8EB09.quest_desc: [
+		"How to move energy.... wait a second, that's &eenergy&r &bP2P&r."
+		""
+		"This is how to &cstore&r energy on cells."
+		"You probably want some &2cactus&r"
+	]
+	quest.2D92C00760C8EB09.title: "&cAppliedFlux"
 	quest.2D989ED723D100D3.quest_desc: [
 		"Ever wondered... Is there a pocket dimension similar to a &6Compact Machine&r?"
 		""
@@ -1270,6 +1710,12 @@
 		"With this new &ePromise of Tenacity II&r we can now process Tier II crafts inside the Blood Infuser and the best part is that we can process Tier I crafts with this one!"
 	]
 	quest.2DF5FEC4EEC8EFA7.title: "The Second &l&ePromise"
+	quest.2E02D184863D55B8.quest_desc: [
+		"This is a &ahandy&r tool that shows with visual how &echannels&r are routed, even with P2P &dnetworks&r."
+		""
+		"Also, if there is any error, it will tell you with colors"
+	]
+	quest.2E02D184863D55B8.quest_subtitle: "Seeing the network?"
 	quest.2E4461B571572B25.quest_desc: [
 		"Sometimes, some farms will drop the items on the ground making them &centities&r... And we should find a way to prevent them from mauling the &6tps&r and crash our worlds."
 		""
@@ -1320,14 +1766,43 @@
 		"This item is uncraftable at the moment, but it may become craftable in a near future... Heads up for future updates and see you next time!"
 	]
 	quest.2FE1CD6DDFDF2F31.title: "&l¿The &4End&r?"
+	quest.2FE7E18D413274B6.title: "Infused Dragon's Breath"
+	quest.2FF33C9923F3A56C.quest_subtitle: "NASv9: ON"
+	quest.2FF33C9923F3A56C.title: "64M Storage Component"
+	quest.3006700ADFA33FAE.quest_desc: ["Allow supported machines to &4craft&r items on demand if they need because there aren't anymore on the &dnetwork&r"]
+	quest.3006700ADFA33FAE.quest_subtitle: "On-demand"
 	quest.300ED33E1226CF44.quest_desc: ["You will also need this for later, only 1 catcher"]
 	quest.300ED33E1226CF44.quest_subtitle: "Who's that bee"
+	quest.3015AE1C08827D3E.quest_desc: [
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
+		""
+		"&bApotheosis&r questline made by: &5ArcTrooper&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.3015AE1C08827D3E.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.3015AE1C08827D3E.title: "&l&4Catalyst Studios Quests"
+	quest.30290B4FDEF77D4C.quest_subtitle: "Same as Pattern Encoding Terminal"
 	quest.3031D9996B7B1DDD.quest_desc: [
 		"In order to generate Source you need some kind of Sourcelink  which there are several kinds for you to choose from."
 		""
 		"all these Sourcelinks will deposit its source to any Source Jar in a 5 Block radius AKA (11x11x11 area centered on the link)"
 	]
 	quest.3031D9996B7B1DDD.title: "Generating Source"
+	quest.30633D99588CAE94.quest_desc: [
+		"Time to make the best &bCPU&r that you will ever make."
+		""
+		"This &bCPU&r is &especial&r and allows for &dmultiple&r crafts on the same &bCPU&r, but they share &cstorage&r (which shouldn't be a problem) and &dco-processors&r (which should be a problem if you demand a lot of thing)."
+		""
+		"We are making a 7x7x7 &bCPU&r, the biggest one, and it will be expensive."
+		"The quest has &call&r material listed to complete a pretty decent &bCPU&r."
+		""
+		"&2Next page shows a formed CPU&r"
+		"{@pagebreak}"
+		"{image:kubejs:textures/quest_images/applied_energetic/advancedae_cpu.png width:100 height:100 align:center fit:true}"
+	]
+	quest.30633D99588CAE94.quest_subtitle: "The CPU"
+	quest.30633D99588CAE94.title: "AdvancedAE CPU"
 	quest.30C2B61E8C36B57E.quest_desc: [
 		"Will Generate Source from food items the more saturation they provide the more source they will produce."
 		""
@@ -1337,10 +1812,40 @@
 		""
 		"Will take food from arcane pedestals placed in a 3x3x3 area centered on the link."
 	]
-	quest.312BA63EB275D0B0.quest_desc: ["all pipez with a upgrade can be controlled with a redstone signal"]
+	quest.312977962EF7DFA3.quest_desc: [
+		"Okay, if you haven't made a &acontroller&r, you don't want to waste &aresources&r here yet."
+		""
+		"This blocks can be placed anywhere in your &bnetwork&r and it will store some energy."
+		"For example, when you run out of fuel in your main power generation, these will provide a small buffer for you to get more fuel."
+		""
+		"Another useful thing of these is allow faster &doperation&r."
+		"When you insert tons of items, like 9 stacks per tick, on an interface, it will use a lot of power, so it can help a lot in those kind of scenarios"
+	]
+	quest.312977962EF7DFA3.quest_subtitle: "Storing energy?"
+	quest.312BA63EB275D0B0.quest_desc: ["All pipez with a upgrade can be controlled with a &bredstone signal&r."]
 	quest.312BA63EB275D0B0.title: "Redstone mode"
+	quest.313E0224222B0EAD.quest_desc: [
+		"More &bcertus&r? "
+		""
+		"Did you made at least a &bcertus&r farm?"
+	]
+	quest.313E0224222B0EAD.quest_subtitle: "&bBottom&r"
+	quest.313E0224222B0EAD.title: "&bPrinted Calculation Circuit"
 	quest.3171E159C4D05AD4.quest_desc: ["Creating spirit fire is as simple as tossing a Demon's Dream Fruit on the ground and lighting it on fire"]
 	quest.3171E159C4D05AD4.title: "Creating Demonic fire"
+	quest.3180C949D125E7DA.quest_desc: [
+		"Well, another way to move stuff."
+		""
+		"P2P, what are they? Simple, do you know the game &5Portal&r? Well, basically those portals."
+		""
+		"One thing enter on one side and goes out on the other side."
+		"They need 1 &achannel&r each and only on &dsmart cables&r."
+		""
+		"A part from that, except &bME&r P2P, they have 1 &einput&r but &6multiple&r output."
+		"For ME P2P, they can have multiple input, but can a dense cable carry more than 32 channels?"
+	]
+	quest.3180C949D125E7DA.quest_subtitle: "The fearest thing on &bAE2"
+	quest.3180C949D125E7DA.title: "P2P"
 	quest.318263781167A26D.quest_desc: [
 		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
 		""
@@ -1354,6 +1859,24 @@
 		"It is also used to charge drones if you got a dispenser upgrade in it."
 	]
 	quest.3232A5D2408F36A7.quest_desc: ["Used to interact with logistics frames"]
+	quest.328025E9BA01FBDC.quest_desc: [
+		"The spawner no longer needs &bplayer nearby&r to spawn mobs."
+		""
+		"Great for farming while doing other things!"
+	]
+	quest.328025E9BA01FBDC.quest_subtitle: "I don't need you"
+	quest.328025E9BA01FBDC.title: "&dIgnore Players"
+	quest.325AD48FA7A279AB.quest_desc: [
+		"Once you have 32 &aentro&r crystal, you can dupe it or get a &6bee&r, whatever you like the most."
+		"The easiest one is &6bee&r."
+		""
+		"For now, we need to get some &abudding&r kicking, and we are going to modify a &b&nsimple certus farm&r "
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/entro_farm.png width:100 height:100 align:center fit:true}"
+		"{image:kubejs:textures/quest_images/applied_energetic/entro_farm_2.png width:100 height:100 align:center fit:true}"
+	]
+	quest.325AD48FA7A279AB.quest_subtitle: "First step, Entropy"
+	quest.3292668B69E6A25D.title: "Endshelf"
 	quest.32B17FE87968D864.quest_desc: [
 		"Expensive....."
 		""
@@ -1363,8 +1886,34 @@
 	quest.32CA71F95A2FE5D3.quest_desc: ["These bricks are used in various blocks in this mod like compressors and chargers etc."]
 	quest.32CA71F95A2FE5D3.quest_subtitle: "Though rock"
 	quest.32CA71F95A2FE5D3.title: "Reinforced stone"
+	quest.338CC8C7E220FC3A.quest_subtitle: "Find your first affixed item!"
+	quest.338CC8C7E220FC3A.title: "Haven"
+	quest.32E4322646FFF017.quest_desc: ["Mobs ignore light level and will spawn in any light level."]
+	quest.32E4322646FFF017.quest_subtitle: "I'm legally blind"
+	quest.32E4322646FFF017.title: "&dIgnore Light Level"
+	quest.02286BA0F16600B1.quest_desc: [
+		"This will be a long journey, but I will try to be as simple as I can."
+		""
+		"&bAE2&r is meant to be a powerful tool but a bit &cdifficult&r to start with. "
+		"You need to have some &amaterials&r to start with it, so maybe you want to get some resources and some power."
+		""
+		"The quests are here to try to help you, not to be a task, they will provide &crewards&r which scale. "
+		""
+		"Some quests are &dhidden&r until you complete them (for you to focus) and you have quests for 5 addons ;)"
+	]
+	quest.02286BA0F16600B1.quest_subtitle: "This will be a long one"
+	quest.02286BA0F16600B1.title: "&dThe beginning of a journey"
 	quest.341860979C6FB8C6.quest_desc: ["this image was set as a Placeholder for another one."]
 	quest.341860979C6FB8C6.title: "Placeholder"
+	quest.342249E9DEEF064F.quest_desc: ["This is basically a &emagnet&r, that can &4insert&r into the &dnetwork&r or inventory, also &afiltering&r for attracting items!"]
+	quest.342249E9DEEF064F.quest_subtitle: "In the Network"
+	quest.3424FC422A8736E1.quest_desc: [
+		"At the beginning, you are going to use a lot of these, because it's needed on &6autocrafing&r and &binterfaces&r."
+		""
+		"More on that later."
+	]
+	quest.3424FC422A8736E1.quest_subtitle: "Multiblock destroyed!"
+	quest.3424FC422A8736E1.title: "Annihilation Core"
 	quest.34296A48E28FE4F8.quest_desc: [
 		"Now, lets say that we want to move our bees, which you will do, how can I do that?"
 		""
@@ -1383,13 +1932,19 @@
 		"If not, time for some exploration"
 	]
 	quest.34296A48E28FE4F8.quest_subtitle: "This is how to capture them"
+	quest.344B395FE7CEE575.quest_desc: ["With this &dmonitor&r, you have check how many resources are you producing per second!"]
+	quest.344B395FE7CEE575.quest_subtitle: "How much?"
 	quest.348C191492897716.quest_desc: [
 		"To get these &4Gems&r we simply need to place at least 5 blood buckets and throw our &0Dark Gems&r on the blood pool."
 		""
 		"It may or not take a while to transform, but once we get these I truly advise you on doing the Blood Infuser, with it, the creation of these gems will be easier and faster!"
 	]
 	quest.348C191492897716.title: "The &cDarkest&r of Gems"
-	quest.34A001109ABA014F.quest_desc: ["moves gasses/chemicals akak everything in mek that isnt a fluid or item."]
+	quest.34A001109ABA014F.quest_desc: [
+		"Moves &agasses&r and &achemicals&r. "
+		""
+		"AKA: everything in &bMekanism&r that isnt a fluid or an item."
+	]
 	quest.34C914F96A3A1A27.quest_desc: [
 		"This relay functions much like a splitter in that it can send to multiple locations."
 		""
@@ -1414,6 +1969,29 @@
 		"Also, check the other quests first, they will be useful later on"
 	]
 	quest.34E20FB41656A81A.quest_subtitle: "Before you start...."
+	quest.35052C9371FE6843.quest_desc: [
+		"The &4Blazing Hellshelf&r is not usually used in normal enchanting since it has a &c-1 Enchanting Clue debuff&r, but it is usually used in infusion setups. "
+		""
+		"We will not be using it in this questline, but you are free to experiement with other setups using this shelf!"
+	]
+	quest.35052C9371FE6843.quest_subtitle: "Lets go gambling!"
+	quest.35052C9371FE6843.title: "Blazing Hellshelf"
+	quest.35570C818FB1333F.quest_desc: ["6x Echoing Sculkshelf, 3x Melonshelf, 2x Draconic Endshelf, 2 Infused Seashelf"]
+	quest.359C9083E3B69D29.quest_desc: ["&cWarning&r! &eElectrical&r shock"]
+	quest.359C9083E3B69D29.quest_subtitle: "&cBottom&r"
+	quest.359C9083E3B69D29.title: "&cPrinted Energy Circuit"
+	quest.35A559FBB356919D.quest_desc: [
+		"[ \"Do you remember that tower of &6pattern providers&r I've showed in this \", { \"text\": \"quest\", \"underlined\": true, \"color\": \"yellow\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"697A5E53CC53ADDB\" } }, \"?\" ]"
+		""
+		"Well, time to upgrade it to a &afaster&r and more &befficient&r one."
+		""
+		"This multiblock uses 1 &achannel&r and can be used on any &dcable&r."
+		"It combine multiple &6pattern providers&r and &dmolecular assembler&r into one, but allows multiple &erecipes&r to be crafted at the &csame&r time."
+		""
+		"You need to add Matrix &9Craft&r and Matrix &6Pattern&r to finish the multiblock and add those 5 Matrix &cSpeed&r to get your recipes crafted as fast as possible!"
+	]
+	quest.35A559FBB356919D.quest_subtitle: "Another multiblock"
+	quest.35A559FBB356919D.title: "Assembler Matrix"
 	quest.35C209E20C000AA5.quest_desc: [
 		"The mod &l&bHydro&cphobe&r adds &e2&r new blocks that will make things easier when dealing with &bwater&r and &clava&r."
 		""
@@ -1443,6 +2021,14 @@
 		""
 		"It is used in various places along the plastic production line as well as oil cracking."
 	]
+	quest.362FA7CD5737380B.quest_desc: [
+		"Combine 2 &dwireless terminal&r on a &6crafting&r &eterminal&r, and you will get an &5Universal wireless terminal&r."
+		""
+		"Now, that &5Universal terminal&r and the other &dterminal&r on a &6crafting&r &eterminal&r to get all of them into one."
+		""
+		"They have more &aslots&r for upgrades and now you can change from terminal to terminal in 1 click or still use the &ckeybinds&r if you used them"
+	]
+	quest.362FA7CD5737380B.quest_subtitle: "All in one"
 	quest.363B4216992BD094.quest_desc: [
 		"The energy upgrade provides the router with an internal energy buffer and increases the maximum energy transfer per operation &4(not per tick)&r."
 		""
@@ -1458,6 +2044,24 @@
 	quest.369F69559064623C.title: "Extracting Biomes"
 	quest.36C15F3B3A08A36B.quest_desc: ["If you don't have Hostile Neural Networks or Reliquary, this is one of the hardest bee. Also needs to be on &4The Nether&r"]
 	quest.36C15F3B3A08A36B.quest_subtitle: "\"Why is there a ghost behind you\""
+	quest.374D3F10FD46CC21.quest_desc: [
+		"Is this a loop? Or did I had a Déjà vu?"
+		""
+		"Well, remember what i said before, &cbreaks&r everything &cexcept&r &bflawless certus buds&r."
+		""
+		"Also, collect some sky stone, we will need later"
+	]
+	quest.374D3F10FD46CC21.quest_subtitle: "The beginning"
+	quest.376756A2EE20E8EC.quest_desc: [
+		"Did you wondered how to &achunk load&r your entire &bAE2 network&r? Well, easy."
+		""
+		"Place the &dSpatial Anchor&r anywhere in your main &bnetwork&r, give it a few seconds and you have your entire base chunk loaded"
+	]
+	quest.376756A2EE20E8EC.quest_subtitle: "Chunk:&c ON"
+	quest.37729D29364F83F5.quest_desc: ["Trust me, you will, just get the duping method started"]
+	quest.37729D29364F83F5.quest_subtitle: "You will need it"
+	quest.37729D29364F83F5.title: "Entro Crystal"
+	quest.377756F8402AEEB7.quest_desc: ["Since the other doll don't have a craft, here is a quest for you to get it ;)"]
 	quest.3822CD1546F0BC9B.quest_desc: [
 		"This is more than enough to start charging &djetpacks&r, &6gadgets&r and even sustain 2 or 4 machines!"
 		""
@@ -1465,8 +2069,12 @@
 	]
 	quest.3822CD1546F0BC9B.quest_subtitle: "Now We Are Talking"
 	quest.3822CD1546F0BC9B.title: "&l&cSignalum Solar Panel"
+	quest.3834D00BCA561CB7.quest_desc: ["This is the main way to produce a lot of &6ingots&r and &ealloy&r during your playthrough, only for &bAE2&r related materials!"]
+	quest.3834D00BCA561CB7.quest_subtitle: "Step 1, Mix ingredient"
 	quest.384A953CD384DC50.quest_desc: ["These 2 relays have the ability to respectively collect and deposit source from and to source jars they will automatically work with jars within a 5 block range AKA (11x11x11 area)"]
 	quest.384A953CD384DC50.title: "Withdraw and Deposit"
+	quest.385E5459FF7FB65E.quest_desc: ["Add &9water&r and the &cQuantum Infused Dust&r on a reaction chamber to get Quantum Infusion, then you can use a bucket to &ecomplete&r the quest."]
+	quest.385E5459FF7FB65E.quest_subtitle: "I know, I know"
 	quest.386792182535EFAE.quest_desc: [
 		"This module is placed onto your pipes in order to keep them safe; they will vent pressure at 4.9Bar on a basic and reinforced tube and 19.9 on an advanced tube."
 		""
@@ -1482,6 +2090,16 @@
 		""
 		"This is also where you can see the rated pressures of machines."
 	]
+	quest.387EBA2C53658344.quest_desc: ["Basically, housing are useless when it comes to making cells, since there is another recipe that do the same in 1 step."]
+	quest.387EBA2C53658344.quest_subtitle: "Optional"
+	quest.387EBA2C53658344.title: "Cell Housings"
+	quest.38926CA5889429A9.quest_desc: [
+		"Mega, the addon that allows you to store &cenormous&r &4quantities&r&4 of things."
+		""
+		"Just that they are a bit expensive...."
+	]
+	quest.38926CA5889429A9.quest_subtitle: "Big = better"
+	quest.38926CA5889429A9.title: "MEGA"
 	quest.39182BE15900BF10.quest_desc: [
 		"To use the vacuum trap simply apply negative pressure, insert the empty spawner core and shift click the block to open it."
 		""
@@ -1543,6 +2161,7 @@
 		"Normal Coal 1600t (8 items per coal) - Blood-Waxed Coal 3200t (16 items per coal)"
 	]
 	quest.3A5E0A470630131E.title: "Blood Coal"
+	quest.3A651E06C7FBF861.quest_desc: ["5 Hellshelves to infuse"]
 	quest.3A911DEE451C256F.quest_desc: [
 		"Are you tired of using (CTRL + Mouse Wheel) to zoom in/out from the quests?"
 		""
@@ -1558,6 +2177,10 @@
 	]
 	quest.3A911DEE451C256F.quest_subtitle: "smolest of tips"
 	quest.3A911DEE451C256F.title: "&lSmol tip'"
+	quest.3AC9DB065D667EAF.quest_desc: ["Alloy used for fluid housing, allows all fluids"]
+	quest.3AC9DB065D667EAF.quest_subtitle: "Fluids"
+	quest.3B4945EAEAC2C822.quest_desc: ["This allow a equal distribution of capacity in cells for all types, like doing capacity / total types"]
+	quest.3B4945EAEAC2C822.quest_subtitle: "No more!"
 	quest.3BB43614E1AD8E65.quest_desc: [
 		"Okay, this is really expensive unless you have Mystical Agriculture."
 		""
@@ -1568,6 +2191,8 @@
 	quest.3BB43614E1AD8E65.quest_subtitle: "HEARTH OF THE SEA?!?"
 	quest.3BB9BFE92909D42F.quest_desc: ["In this section we will talk about &eTools&r to make our experience on a game about cubes more entretaining!"]
 	quest.3BB9BFE92909D42F.title: "&l&e&nAmazing Tools"
+	quest.3BD9B2308B282F3C.quest_desc: ["Basically a &cMatter Condenser&r on a cell, it can delete your items!"]
+	quest.3BD9B2308B282F3C.quest_subtitle: "&cWarning&r: Trash Can"
 	quest.3BD9E192B040E27E.quest_desc: ["I don't think I need to say that you want a &epacifist&r bee, no?"]
 	quest.3BD9E192B040E27E.quest_subtitle: "You want them normal at least"
 	quest.3BEA955788837733.quest_desc: [
@@ -1589,6 +2214,38 @@
 		""
 		"(It works for half-eaten cake as well)"
 	]
+	quest.3C5127DBF60F0B95.quest_desc: [
+		"How do we get more &achannels&r than 8? &dControllers&r!!!"
+		"They provide 32 &achannels&r per side."
+		"Sooo... It can only do 192 &achannels&r in total? Nope. We can expand our controller."
+		""
+		"This is a &dmultiblock&r with a few rules, but they are easy:"
+		""
+		"- It can't be bigger than &n&c7 blocks&r on each direction."
+		""
+		"- It can only be &n&c1 controller multiblock&r on each network."
+		""
+		"- It can only have &n&c2 controller adjacent&r on 1 axis."
+		""
+		"{@pagebreak}"
+		"But how are we going to transport &achannels&r? Using dense cables of course. They should be cheap if you did your homework. "
+		""
+		"You want to use &ddense cables&r to transport &achannels&r from point A to point B, like from your controller in base to your iron farm."
+		""
+		"Then, when you have your &ddense cable&r in the location you can, you should use &5smart cables&r to connect to every &bAE2 machine&r that needs it."
+		""
+		"Ideally, you should dedicate 1 or more dense cables per setup. "
+		"For example, you need 34 &achannels&r on your iron farm (somehow), you should dedicate 2 &ddense cables&r for the entire setup and &cdon't use&r the other &achannels&r for other setups."
+		"Why? Because it can be &4messy&r real quick on large setups. But if you want, you can do it."
+		""
+		"{@pagebreak}"
+		"Now, for the &dcontroller&r, a 3x3x3 hollow cube should be more than enough for most people, like the following:"
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/initial_controller.png width:100 height:100 align:center fit:true}"
+	]
+	quest.3C5127DBF60F0B95.quest_subtitle: "Why 20?"
+	quest.3C5127DBF60F0B95.title: "&bME Controller"
+	quest.3C8046AB0A97EAF5.quest_subtitle: "We have made a sandwich"
 	quest.3C99340DB19C8333.quest_desc: [
 		"The aerial interface allows for interaction with your inventory; this can be auto restocking charging of gear with rf as well not just air and you can even pump exp into and out of your player."
 		""
@@ -1607,18 +2264,21 @@
 		"{image:kubejs:textures/quest_images/productive_bees/hives.png width:100 height:100 align:center fit:true}"
 	]
 	quest.3CDBC61BD4DAA7F6.quest_subtitle: "Updates"
+	quest.3CFAB0154E4DC38E.title: "Ascent"
 	quest.3D394FEA4D7724C6.quest_desc: [
 		"The Pipez Wrench."
 		"You wont get far without a way to configure your pipez."
-		"However Pipez isnt all that picky and will accept most other wrenches in the game like mek configurator, certus wrench ect."
+		"However Pipez isnt all that picky and will accept most other wrenches in the game like &bMek Configurator&r, &bCertus Wrench&r, ect."
 		""
-		"The wrench is used to seperate and dissconect pipe segments and set pipes to extract."
+		"The wrench is used to &bseperate&r and &bdisconnect&r pipe segments and set pipes to &bextract.&r"
 		""
-		"&6Pipez does all its filters and configurations on the extract side there is no configurations on the input side.&r"
+		"&6Pipez does all its filters and configurations on the extract side. There are no configurations on the input side.&r"
 		""
-		"&4NOTE! &r"
-		"&4If the block the pipez extract point is set to gets updated in a way where the pipe looses connection the pipe will revert to a normal connection and drop the upgrade to the ground so its not adviced to ever use pipez in conjunction with a mek multiblock as they have a tendency to deform and reform on a whim.&r"
+		"&4NOTE!&r"
+		"&4If the block the pipez extract point is set to gets updated in a way where the pipe looses connection, the pipe will revert to a normal connection and drop the upgrade to the ground. It is not advised to ever use pipez in conjunction with a mek multiblock as they have a tendency to deform and reform on a whim.&r"
 	]
+	quest.3D394FEA4D7724C6.quest_subtitle: "One of many"
+	quest.3DF1A6F2F4DE5EA3.title: "Carrot Infusion"
 	quest.3DFD32A1A229E04F.quest_desc: [
 		"One of the kinds of candles you can use in Occultism is the tallow candle."
 		""
@@ -1695,6 +2355,8 @@
 	]
 	quest.3F7B44EB0D6342F7.quest_subtitle: "Tp, Homes and Mo'"
 	quest.3F7B44EB0D6342F7.title: "&lUseful Commands and Others"
+	quest.3FA9E1842C9810EB.quest_desc: ["This is basically an expensive requester"]
+	quest.3FA9E1842C9810EB.quest_subtitle: "Basically a requester"
 	quest.3FD7266D9F52DA0E.quest_desc: [
 		"There are multiple ways to get &b'infinite' water&r, using pumps is one of those ways."
 		""
@@ -1728,6 +2390,18 @@
 	]
 	quest.3FD7266D9F52DA0E.quest_subtitle: "Not an item importer"
 	quest.3FD7266D9F52DA0E.title: "&l&3Fluid Pumps"
+	quest.402002D607F79B06.quest_desc: ["There are quest for &cstorage&r on the main &bAE2&r quests"]
+	quest.402002D607F79B06.quest_subtitle: "Storage"
+	quest.402002D607F79B06.title: "Storage"
+	quest.4048CBD6C81EAFC7.quest_desc: [
+		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
+		""
+		"AE2 quests made by: &cTito&ep&c54&r"
+		""
+		"If you are seeing this, it means you are in editing mode. And you are &4cheating&r so no bueno"
+	]
+	quest.4048CBD6C81EAFC7.quest_subtitle: "Cheating = no bueno"
+	quest.4048CBD6C81EAFC7.title: "Quests"
 	quest.4055D1BC0E7E2C21.quest_desc: [
 		"This setup \"Should™\" work for any recipe in the enchanting apparatus."
 		""
@@ -1743,6 +2417,13 @@
 		"{image:kubejs:textures/quest_images/ars_nouveau/enchanting_apparatus_auto.png width:100 height:150 align:center}"
 	]
 	quest.4055D1BC0E7E2C21.title: "Auto Enchanter"
+	quest.40D0DEDD660A301E.quest_desc: [
+		"Decreases the amount of health mobs are spawned with."
+		""
+		"Each dripstone will &b-5% to initial health&r to a &bmin of 20% health&r."
+	]
+	quest.40D0DEDD660A301E.quest_subtitle: "Call an ambulance!"
+	quest.40D0DEDD660A301E.title: "Less Initial Health"
 	quest.40FF3CEA25F2CB54.quest_desc: [
 		"The pressure chamber the centerpiece of pnc,"
 		""
@@ -1755,7 +2436,13 @@
 		"You can replace any blocks in the walls with valves and ports or windows or pressure chamber interfaces &4except for the outer edges and corners.&r"
 	]
 	quest.40FF3CEA25F2CB54.title: "pressure chamber"
-	quest.41808246B6D14D0A.quest_desc: ["Transports items"]
+	quest.413527F17F167F3F.quest_desc: [
+		"1: 2x Echoing Sculkshelf"
+		"8: 5x Echoing Sculkshelf, 1x Soul-Touched Sculkshelf"
+		"32: 5x Echoing Sculkshelf, 3x Soul-Touched Sculkshelf, 1x Draconic Endshelf"
+	]
+	quest.413527F17F167F3F.title: "Honey to XP Bottles"
+	quest.41808246B6D14D0A.quest_desc: ["Transports items."]
 	quest.41B3A0FD5859D510.quest_desc: [
 		"The amethyst golem is a creature that will go around harvesting fully grown amethyst normally they will break the buds however in a claimed area they won't break them, but will still harvest them making them work significantly faster."
 		""
@@ -1773,6 +2460,15 @@
 	]
 	quest.424808BE0E48D8C7.quest_subtitle: "GOT IT"
 	quest.424808BE0E48D8C7.title: "Metanocturnal"
+	quest.4276CB4072A6F022.quest_desc: [
+		"While you can use pickaxes to mine cables, you use &edurability&r (in most cases)."
+		"With these wrenches, you can mine it without using durability."
+		""
+		"- Sneak + right click to get the item."
+		""
+		"- Right click to rotate the &bAE2 machines&r"
+	]
+	quest.4276CB4072A6F022.quest_subtitle: "The most useful thing"
 	quest.43282721A9578C0D.title: "Ghostly Bee"
 	quest.4364D54A37B97D40.quest_desc: [
 		"Resource generation is vital for this type of Modpacks."
@@ -1789,9 +2485,12 @@
 	]
 	quest.4364D54A37B97D40.quest_subtitle: "no more manual resource collection!"
 	quest.4364D54A37B97D40.title: "&lResource Generation"
+	quest.43A8D8D6947220F4.title: "Pearlescent Endshelf"
 	quest.43C7A0AFDBCB1D06.quest_desc: ["You need &6honey treats&r"]
 	quest.43C7A0AFDBCB1D06.quest_subtitle: "Stunning"
 	quest.44884F0AE8219EAB.quest_desc: ["The Arcane Pedestal is used to hold items for the essence crafting with the imbuement Chamber, for use with the Enchanting Apparatus. "]
+	quest.448F99A9197C7EAD.quest_subtitle: "Don't use these"
+	quest.448F99A9197C7EAD.title: "Covered Cable"
 	quest.44A632CEC21C79E1.quest_desc: ["This makes the router immune to explosions and boss damage."]
 	quest.44A632CEC21C79E1.quest_subtitle: "Invincible"
 	quest.44D5D328F4A7375B.quest_desc: [
@@ -1807,8 +2506,27 @@
 	]
 	quest.44D5D328F4A7375B.quest_subtitle: "Cool Looking Blocks!"
 	quest.44D5D328F4A7375B.title: "&l&cChisels"
+	quest.45486AC8954F26C1.quest_desc: [
+		"Increases the range in which mobs spawn."
+		""
+		"Each piston will &b+2 spawn range&r to a &bmax of 32 blocks&r."
+	]
+	quest.45486AC8954F26C1.quest_subtitle: "Plenty of room to stretch"
+	quest.45486AC8954F26C1.title: "More Spawn Range"
+	quest.455950B18235B335.quest_desc: ["Allows 10 more slots for cells, just you can't check them on the block model"]
+	quest.455950B18235B335.quest_subtitle: "More space"
 	quest.45CEDE5DDED5ADC2.quest_subtitle: "Sunshine of your Love?"
 	quest.45CEDE5DDED5ADC2.title: "Sunshine in a Bottle"
+	quest.460CB2F19CF27EAA.quest_desc: [
+		"This is how you interact with your &dnetwork&r at the beginning."
+		"Each terminal needs &dsmart cables&r and 1 &achannel&r."
+		""
+		"It allows you to &acraft&r stuff from the terminal, &binput&r things from your inventory or &eoutput&r things to your inventory. "
+		"Also has cool &dfunctions&r on the side, check them!"
+		""
+		"And you will find a &chammer&r on the top right, if you click on that, it will show your &bCPU&rs and what they are doing."
+	]
+	quest.460CB2F19CF27EAA.quest_subtitle: "Now we are talking"
 	quest.4611B03649489FE8.quest_desc: [
 		"If you want to make unassembled PCBs from empty PCBs you're going to have to etch them."
 		""
@@ -1844,6 +2562,17 @@
 	]
 	quest.4615D71D0264C714.quest_subtitle: "Better furnaces"
 	quest.4615D71D0264C714.title: "&l&7Iron Furnaces"
+	quest.477D1FD7543A473E.quest_desc: [
+		"&7Silicon&r is used a lot in &bAE2&r, since most machines uses some kind of processor."
+		""
+		"It would be a good idea to have it on &epassive&r or at least, make a lot of them in &6batches&r, for example, 200 at the time."
+		""
+		"A part from that, &7printed silicon&r is used in every single &aprocessors&r, so you probably want to &ddouble&r or even &ctriple&r your &7printed silicon&r."
+		""
+		"While the quests just ask for 5 &dinscribers&r, you would really need more on the long run, unless you check &bAE2&r's &aaddons&r ;)"
+	]
+	quest.477D1FD7543A473E.quest_subtitle: "Read this"
+	quest.477D1FD7543A473E.title: "Silicom"
 	quest.47B034CFFDCDED24.quest_desc: [
 		"Routers are an extremely powerful tool to have in your arsenal, capable of performing almost any task you throw at them."
 		""
@@ -1858,8 +2587,19 @@
 	]
 	quest.47C942BC0BD3D01E.title: "&lEvilcraft Tip&r #1"
 	quest.4821A8015B2F5FA1.quest_desc: ["One of the 4 chalks used in rituals."]
+	quest.484B493059391887.quest_desc: ["4x Soul-Touched Sculkshelf, 1x Draconic Endshelf"]
 	quest.48A0DC661D3F37C7.quest_desc: ["Alternatively candles can be made with wax or comb from bees "]
 	quest.48D68895FF14804B.quest_desc: ["If you've ever wanted an item catapult, here you go! It flings items based on the values you set in the GUI."]
+	quest.49235AB18DFE6AD7.quest_desc: ["Spawned mobs will always spawn as a baby if possible. "]
+	quest.49235AB18DFE6AD7.quest_subtitle: "&4You monster&r"
+	quest.49235AB18DFE6AD7.title: "Youthful"
+	quest.49286C762F383267.quest_desc: [
+		"&bDiamonds.&r..."
+		""
+		"Well, I've told you that we would need them."
+	]
+	quest.49286C762F383267.quest_subtitle: "&bBottom&r"
+	quest.49286C762F383267.title: "&bPrinted Enginnering Circuit"
 	quest.495DE286325A307B.quest_desc: [
 		"This multiblock allows you to make advanced pressure tubes and allows you to make empty PCBs a lot easier without the whole light box and etching steps."
 		""
@@ -1911,6 +2651,14 @@
 	]
 	quest.4AB6901D51226E1B.quest_subtitle: "Don't say i didn't warn you"
 	quest.4AB6901D51226E1B.title: "Heat 103"
+	quest.4AEB916826B71BD3.quest_desc: ["The &2Overworld&r will be the start of your Apotheosis adventure."]
+	quest.4AEB916826B71BD3.title: "Visit the Overworld"
+	quest.4B09BF91C8CBFBD3.quest_desc: [
+		"[ \"You probably want to start \", { \"text\": \"bee quests\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"232345A9C9EFDC9B\" } }, \", before doing this one.\" ]"
+		""
+		"But if you did, congrats, you have another powerful way to generate &bcertus&r and &bcertus dust&r, which we will need in industrial quantities ;)"
+	]
+	quest.4B09BF91C8CBFBD3.quest_subtitle: "bzzzzzzzz"
 	quest.4B3625968F4E4331.quest_subtitle: "Walk Faster and More Efficiently Effortlessly"
 	quest.4B3C04533F58F6C7.quest_desc: [
 		"Yep, a bee is like a pig or a horse, you can ride them."
@@ -1997,6 +2745,16 @@
 	]
 	quest.4C89C5F7446C15CD.quest_subtitle: "Explosivo"
 	quest.4C89C5F7446C15CD.title: "Under Pressure"
+	quest.4CB758202B13207D.title: "Dense Smart Cable"
+	quest.4CB758202B13207D.quest_desc: [
+		"These &dcables&r are one of the main way to transport &achannels&r around your base."
+		"They have some limitations, like they can only connect to &bAE2 machines&r that uses the &centire block&r, like interfaces or pattern providers."
+		""
+		"Here is an example:"
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/dense_cable_example.png width:100 height:100 align:center fit:true}"
+	]
+	quest.4CB758202B13207D.quest_subtitle: "Big, bigger, better"
 	quest.4CDF67A932172054.quest_desc: [
 		"We might've ran into some issues crafting these solar panels, but we finally done it..."
 		""
@@ -2004,6 +2762,8 @@
 	]
 	quest.4CDF67A932172054.quest_subtitle: "Unlimited Power..."
 	quest.4CDF67A932172054.title: "&l&5Ultimate Solar Panel"
+	quest.4D34F7914A316C16.quest_desc: ["Allows machines to be &credstone&r controlled"]
+	quest.4D34F7914A316C16.quest_subtitle: "&cRedstone&r on"
 	quest.4D71091DD793653C.quest_desc: [
 		"You need honey in industrial quantities....."
 		""
@@ -2021,6 +2781,11 @@
 		"This time, the promise modifier to the blocks is 8x times! Meaning, each functional block that has this new &bPromise of Tenacity III&r will store the tiny amount of &d640,000&rmb"
 	]
 	quest.4DC0C27803D50263.title: "The Last &l&bPromise"
+	quest.4DE741EB46FCCEAD.quest_desc: [
+		"Are you fed of changing 500 &6patterns&r and all their ingredients one by one? No?"
+		""
+		"Well, this is the item you want to use to change a lot of &6pattern&r fast, like instead of doing 1 cobble to 1 stone, you can do 100 cobble to 100 stone in a moment, faster than using the terminal to change the rate"
+	]
 	quest.4E23B188C32FFAE5.quest_desc: [
 		"If there is still something you are wondering about that isn't covered in the quests there is always the book."
 		""
@@ -2028,12 +2793,28 @@
 	]
 	quest.4E23B188C32FFAE5.quest_subtitle: "BookWorm"
 	quest.4E27F22442362105.quest_desc: ["Used to Store Source will keep its stored Source if broken and moved."]
+	quest.4E4EB5E9324A5432.quest_desc: [
+		"This is as simple as you can get. You should always be sending &bcertus&r to the top chest"
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/charged_certus.png width:100 height:100 align:center fit:true}"
+	]
+	quest.4E4EB5E9324A5432.quest_subtitle: "Certe loaded"
 	quest.4EB2763EB94E73AB.quest_desc: [
 		"This pickaxe is required in order to be able to mine Iesnium."
 		""
 		"Your regular hallucinations just aren't enough anymore."
 	]
 	quest.4EB2763EB94E73AB.title: "Fragile extraction"
+	quest.4EBBCFC689A62689.quest_desc: [
+		"These are used a lot on some situations."
+		""
+		"- &eCable anchors&r separate cables if they are connected"
+		""
+		"- &aQuartz fibers&r do the same as cable anchors, but allow energy to pass. Only use this when needed"
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/cables.png width:100 height:100 align:center fit:true}"
+	]
+	quest.4EBBCFC689A62689.quest_subtitle: "Fundamentals"
 	quest.4EBBDA15BC54E844.quest_desc: [
 		"Distribution mode is a very useful feature, and Pipez offers four options to choose from."
 		""
@@ -2051,12 +2832,16 @@
 		"&4Note:&r"
 		"&4Upgrades generally do not have access to all configurations; this is a custom feature specific to this pack.&r"
 	]
+	quest.4EBBDA15BC54E844.quest_subtitle: "Here or there?"
+	quest.4EC0AED4959AB074.quest_desc: ["Place down 15 &bSeashelves&r and infuse the last one into an Infused Seashelf. Replace one of the uninfused Seashelf with your Infused one and repeat this step until you have infused every shelf."]
+	quest.4EC0AED4959AB074.title: "Seashelves"
 	quest.4FC8545E47191D01.quest_desc: [
-		"can do everything the other pipes can do, but all at once."
+		"The &bUniversal Pipe&r can do everything the other pipes can do, but all at once."
 		""
 		"&4NOTE!&r"
-		"&4you cannot input and extract from the same side&r"
+		"&4You cannot input and extract from the same side&r"
 	]
+	quest.4FC8545E47191D01.quest_subtitle: "All in one!"
 	quest.4FC8545E47191D01.title: "Universal Pipez"
 	quest.4FCD069CFF4FA112.quest_desc: [
 		"A programmable drone, this drone can do anything the other drones can and more can be programmed in the programming station and can even run multiple programs with the external program widget and network api"
@@ -2065,9 +2850,59 @@
 		"&e(note drones can have many upgrades which may prove beneficial for its operation upgrades are explained in charger ui&r&4(arrow above charge slot)&r&e)&r"
 	]
 	quest.4FCD069CFF4FA112.quest_subtitle: "versatile machinery"
+	quest.4FDE9B1603E03F07.quest_desc: [
+		"Yep, this is one of the best way you can generate it."
+		""
+		"Also check &6bees&r and &aXyCraft&r"
+	]
+	quest.4FDE9B1603E03F07.quest_subtitle: "The easy way"
 	quest.500D56B1B6C45B6F.quest_desc: ["Allows the module to have its own redstone behavior overruling the routers behavior."]
+	quest.5039AE0EED4C0CE4.quest_desc: ["First, we need this crystal, maybe some &credstone&r, &5fluix&r and &9water&r should be enough? No?"]
+	quest.5039AE0EED4C0CE4.quest_subtitle: "First step"
+	quest.5054E284525D0EEF.quest_desc: [
+		"Well, we are going to dupe the &acrystal&r."
+		""
+		"First, we need to turn it to a dust, and then with &5fluix&r on a &dreaction chamber&r, we get 64 &aentro&r crystals."
+		""
+		"We are getting 32 for free basically."
+	]
+	quest.5054E284525D0EEF.quest_subtitle: "AdvancedAE"
+	quest.506BF99DA7D09C35.quest_desc: [
+		"Just allow to change colors on your cables without breaking it. "
+		"Needs a cell to work."
+		"More info on the &bAE2 guide&r"
+	]
+	quest.506BF99DA7D09C35.quest_subtitle: "Color on demand"
+	quest.506BF99DA7D09C35.title: "Color Applicator"
+	quest.50975CD6F96E5A96.quest_desc: ["Needed for the &5CPU&r, make sure you have a few of them"]
+	quest.50975CD6F96E5A96.quest_subtitle: "We have made a sandwich"
+	quest.514B2D0B6F8E1E04.title: "Infused Seashelves"
+	quest.5154EABFFD85F34D.quest_desc: [
+		"Now, you are thinking, why do we need to do this?"
+		""
+		"Well, I'm going to show you a way to have &dwireless&r for basically free energy and cross-dimensional and basically infinite range."
+		""
+		"But first, start pumping some &9water&r to a matter condenser set to make &dsingularities&r"
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/singularities.png width:100 height:100 align:center fit:true}"
+	]
+	quest.5154EABFFD85F34D.quest_subtitle: "Use &9water&r!!!!"
+	quest.5154EABFFD85F34D.title: "&dWireless terminal path"
+	quest.51970F01EFF7AA39.title: "Echo Shard Duplication"
 	quest.51A04C8539DD3226.quest_desc: ["These are primarily used in PCBs and can be gotten from the trader, dungeons or be made in the pressure chamber."]
 	quest.51A04C8539DD3226.title: "Electronics"
+	quest.51B99D1198D30855.title: "Crystalline Seashelf"
+	quest.51EF51862695FB96.quest_desc: ["Hellshelf of Masterful Sight"]
+	quest.51EF51862695FB96.quest_subtitle: "Even more hints!"
+	quest.51EF51862695FB96.title: "Enchant Clues 2.0"
+	quest.51FE6BCEA111CD86.quest_desc: [
+		"There are 2 &cmain&r difference between the &aExtended&r version and the regular one:"
+		""
+		"- &aExtended&r can tell you where exactly is a &6pattern provider&r"
+		""
+		"- You can search in the patterns with &aExtended&r"
+	]
+	quest.51FE6BCEA111CD86.quest_subtitle: "The best one"
 	quest.522CADC3ADB94B74.quest_desc: ["This item can be quite helpful from time to time."]
 	quest.522CADC3ADB94B74.quest_subtitle: "that uses blood"
 	quest.522CADC3ADB94B74.title: "&lInfinite&r Ender Pearl"
@@ -2079,6 +2914,16 @@
 	quest.5338D9D37F86C754.title: "Endurance gene"
 	quest.5343F5A2A4DD6FD5.quest_desc: ["The sweat bee, it needs &6honey treats&r"]
 	quest.5343F5A2A4DD6FD5.quest_subtitle: "Sugar!"
+	quest.53643D15A00F2F56.quest_desc: [
+		"These &bAE2 machines&r uses 1 &achannel&r each and can only be placed on &dsmart cables&r."
+		""
+		"They allow to &aimport&r things to the &dnetwork&r's &cstorage&r or &eoutput&r things from the &dnetwork&r's &cstorage&r."
+		""
+		"They are like interfaces, but worse."
+		"Only good thing is that they allow more &afiltering&r."
+	]
+	quest.53643D15A00F2F56.quest_subtitle: "IO operations"
+	quest.53643D15A00F2F56.title: "Import / Export bus"
 	quest.53B3F4366891C8E4.quest_desc: [
 		"We got a variety of mods to store our &eitems&r and &bfluids&r, but we might resort on doing a bunch of chests in most cases..."
 		""
@@ -2113,6 +2958,19 @@
 	]
 	quest.540545114AE23AD9.quest_subtitle: "doesn't attract love... :c"
 	quest.540545114AE23AD9.title: "&l&5Simple Magnets"
+	quest.544A7541FE5D1A8D.quest_desc: [
+		"For you to be able to encode &6patterns&r, you need this terminal."
+		""
+		"Here is a &atip&r, click on &callow substitution&r and &bfluids&r (iron ingot and bucket), it will save you a few steps if it can ;)"
+	]
+	quest.544A7541FE5D1A8D.quest_subtitle: "Patterns encoded"
+	quest.545CECD192055BC0.quest_desc: [
+		"Using some of your &bcertus&r on an inscriber or a &aMekanism&r's &ecrusher&r to get &bcertus dust&r."
+		""
+		"Then, smelt some of it on a &efurnace&r, and boom, you get &7silicon&r."
+		"You probably want to make a stack of both."
+	]
+	quest.545CECD192055BC0.quest_subtitle: "Silex, 14"
 	quest.54A17337948A2448.quest_desc: [
 		"If you want all your routers to activate at the exact same tick, this is the upgrade for you. Not only does it ensure simultaneous activation, but it also offers 19 different ticks to choose from. All routers with the same sync upgrade value (and the same number of speed upgrades) will activate at the same time."
 		""
@@ -2139,6 +2997,21 @@
 		""
 		"Perfect to setup any &6farm&r that can get their drops!"
 	]
+	quest.54F0F61ECC99DA21.quest_desc: [
+		"Now, we can consider starting &bAE2&r."
+		"You might have seen words like network, channels and system around the quests."
+		"Time to explain."
+		""
+		"A &dnetwork&r is a serie of &bAE2 machines&r connected with each other. It can consist of &bmachines&r, &cstorage&r and &edisplays&r."
+		""
+		"These &dnetworks&r can be big or small, but they have some \"limits\", &achannels&r."
+		"What is a &achannel&r? It's how many machines you can connect to a cable."
+		"It can be 8 &bmachines&r or 32 &bmachines&r."
+		""
+		"You can disable &achannels&r, you would need OP, but once you get how they work, they will become easy. More info later."
+	]
+	quest.54F0F61ECC99DA21.quest_subtitle: "The begin.... another &5Déjà vu&r?"
+	quest.54F0F61ECC99DA21.title: "&5Fluix cables"
 	quest.551E66F2334C99EE.quest_desc: ["Used for auto crafting and auto brewing see book for more info."]
 	quest.556E67EC57457744.quest_desc: [
 		"Before diving into Pipez, there are a few things you should know about the mod."
@@ -2152,6 +3025,7 @@
 		"example of what can happen:"
 		"{image:kubejs:textures/quest_images/pipez/pipzus.png width:100 height:100 align:center}"
 	]
+	quest.556E67EC57457744.title: "A word of caution..."
 	quest.5571630621763AA6.quest_desc: [
 		"The path to get the &cRejuvenated Flesh&r might be annoying, but there is a way that not many people know to get this easily."
 		""
@@ -2166,7 +3040,13 @@
 		"And later encase this mob (once it turns into a werewolf) in amber for the Wannabee or in a containment jar for the Drygmys."
 	]
 	quest.5571630621763AA6.title: "&lEvilcraft Tip&r #3"
+	quest.55B5FB4DF51A59B7.quest_desc: ["Seashelf of Aquatic Filtration"]
+	quest.55B5FB4DF51A59B7.title: "Enchantment Filtering"
 	quest.55D8A20CBD2262BA.quest_desc: ["Voids any item matching its filter use with extreme care."]
+	quest.55DB4A314B7F2DCA.quest_desc: ["Just allow you to &cstore&r more &aenergy&r on the allowed items"]
+	quest.55DB4A314B7F2DCA.quest_subtitle: "Bigger"
+	quest.55E29E9A46EE9A16.quest_desc: ["It's just here because it's needed on &aExtendedAE&r for 1 multiblock ;)"]
+	quest.55E29E9A46EE9A16.quest_subtitle: "Paintballs"
 	quest.55E80745788D5977.quest_desc: [
 		"The Starbuncle is capable of gathering items on the ground and harvesting berries."
 		""
@@ -2198,6 +3078,8 @@
 	]
 	quest.563E95F9315B21CA.quest_subtitle: "no need for a storage system"
 	quest.563E95F9315B21CA.title: "&lWireless Transfer"
+	quest.568CB75768EE2157.quest_desc: ["These are the main ingredient for a lot of &eitems&r in this &aaddon&r, so probably good idea to have &dsingularities&r on demand ;)"]
+	quest.568CB75768EE2157.quest_subtitle: "This is not a singularity"
 	quest.569825486A9EA6FD.quest_desc: [
 		""
 		"The security upgrade prevents players not listed on the security card from interacting with the router. Additionally, if you have an activator module that is set to attack, the upgrade ensures it won't target players listed on the card. Finally, it helps the router function in claimed areas."
@@ -2206,6 +3088,22 @@
 	]
 	quest.56FA78391A94AFE6.quest_desc: ["made in the assembly multiblock and allows you to handle 20 bars the highest the mod has to offer."]
 	quest.56FA78391A94AFE6.quest_subtitle: "20 Bar"
+	quest.5760A1BA7C6CDA67.quest_desc: [
+		"Decreases the maximum tick time between spawns. "
+		""
+		"Each clock will -20 ticks to the &bmax spawn delay&r."
+		""
+		"Minimum max spawn delay is &b20 ticks&r."
+	]
+	quest.5760A1BA7C6CDA67.quest_subtitle: "I don't like waiting..."
+	quest.5760A1BA7C6CDA67.title: "Maximum Spawn Delay"
+	quest.5735C6D3BF055470.quest_desc: [
+		"Now, we need all presses that the quest ask to continue with &bAE2&r, break the &8mysterious cube&r in the center of the meteorite or make them or buy them."
+		""
+		"After that, we need at least 5 &dinscribers&r, one for each press we got and 1 to combine"
+	]
+	quest.5735C6D3BF055470.quest_subtitle: "Pressing, pressing, ...."
+	quest.5735C6D3BF055470.title: "Presses"
 	quest.5767DCAD635EB0D5.quest_desc: ["Your first successfully etched PCB all that's missing is the electronics."]
 	quest.5767DCAD635EB0D5.title: "PCB base"
 	quest.577615D670CC3BF1.quest_desc: ["Now, we are going to improve your bees, maybe you want to make a few draconic bees, because we are going to need them, again, in industrial quantities....."]
@@ -2232,6 +3130,8 @@
 	quest.57DC578CF4D74936.title: "Digger Bee"
 	quest.5847A76DAFC0F4C2.quest_desc: ["Powerful sensor that's capable of reading a large variety of different states in the world as well as wireless redstone."]
 	quest.5847A76DAFC0F4C2.quest_subtitle: "I see you"
+	quest.5888EC05989B8B92.title: "Dense Covered Cable"
+	quest.5888EC05989B8B92.quest_subtitle: "Don't use these"
 	quest.58D0DF58E56F6CBC.quest_desc: [
 		"Allows for breaking of blocks."
 		"The mining level of the module is determined by the pick used in the craft, so an iron pick will not be able to break obsidian. The enchantments on the pick are also applied."
@@ -2252,13 +3152,39 @@
 	]
 	quest.5A83782E4EB80DB5.quest_subtitle: "Forbidden knowledge"
 	quest.5A83782E4EB80DB5.title: "Spiritual Guide"
+	quest.5A9877BE128E8A85.quest_desc: [
+		"This is only when you can't find a meteor, which is pretty common issue."
+		""
+		"They allow for easy &bcertus&r and &dfluix&r early on, but doesn't scale up very well later on"
+	]
+	quest.5A9877BE128E8A85.quest_subtitle: "Early farm"
+	quest.5A9877BE128E8A85.title: "&aVillager"
 	quest.5B4289D140387AC8.title: "Nomad Bee"
+	quest.5BB1C96280007519.quest_desc: ["This block allows you to store anything, from items to chemicals inside, except nuclear stuff."]
+	quest.5BB1C96280007519.quest_subtitle: "SFM: &cTriggered"
 	quest.5BBC3C0F5B59E7F8.quest_desc: [
 		"Give a redstone signal like a lever to this machine and it will start to fuse genes."
 		""
 		"More info later, when we have all hives and bees"
 	]
 	quest.5BBC3C0F5B59E7F8.quest_subtitle: "Filtering"
+	quest.5BBF553C6FB4A625.quest_desc: ["It deletes items when an inventory is full"]
+	quest.5BBF553C6FB4A625.quest_subtitle: "&cWarning"
+	quest.5BC01A68BD6802A7.quest_desc: [
+		"Now, we need a way to store the recipes."
+		""
+		"These are placed inside &6pattern providers&r and there are different kind:"
+		""
+		"- &dCrafting patterns&r: Needs a molecular assembler to craft them"
+		""
+		"- &6Processing patterns&r: Needs a machine from another mod, like a furnace."
+		""
+		"- &aCutting pattern&r: Needs a molecular assembler (&mthey said its not worth it to do it another way&r)"
+		""
+		"- &7Smithing pattern&r: You guess it, molecular assembler too"
+	]
+	quest.5BC01A68BD6802A7.quest_subtitle: "Domination of the &6crafting&r tree"
+	quest.5BC01A68BD6802A7.title: "Patterns"
 	quest.5C5BF198EA21687B.quest_desc: [
 		"The Dark Temple is the only structure we will find from Evilcraft... But don't let your eyes decieve you, this temple has one of the \"machines\" that will come in handy later on."
 		""
@@ -2282,12 +3208,42 @@
 	]
 	quest.5CD80EF9FD85D823.quest_subtitle: "Demagnetazing Areas!"
 	quest.5CD80EF9FD85D823.title: "&l&cSimple Magnets"
+	quest.5CE2A10C711EC3C9.quest_desc: [
+		"This is the same as last one, but it includes 9 slots for upgrades."
+		""
+		"If you have this tool on your &ainventory&r (&cnot&r backpack or in your network), it will show all upgrades. It's a little nice touch when doing massive setups."
+		""
+		"Also, if you right click on any &dcable&r, you will see a tab with information, like energy used or generated"
+	]
+	quest.5CE2A10C711EC3C9.quest_subtitle: "Wrench v2"
+	quest.5CF3600A45D365F5.title: "Deepshelf"
+	quest.5D07E1630119890C.quest_desc: [
+		"Yes, we can automate &5fluix&r now without using &dseeds&r or &6bees&r."
+		""
+		"These machines needs 1 &bchannel&r to work and needs an inventory to store blocks."
+		"[ \"There is a \", { \"text\": \"setup\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2992DF31EA2F37F1\" } }, \" explaining more.\" ]"
+	]
+	quest.5D07E1630119890C.quest_subtitle: "&5Fluix&r automation"
+	quest.5D4D3DB66B0E09C6.quest_desc: [
+		"Now, before continue to the next part, i just want to say that changing your inscriber setup for this one is worth."
+		""
+		"Also, did you made the &aEntro&r &6bee&r? Or at least &ddupe&r the crystal?"
+	]
+	quest.5D4D3DB66B0E09C6.quest_subtitle: "We have a few, yes"
+	quest.5D4D3DB66B0E09C6.title: "The begin.... another &5Déjà vu&r?"
 	quest.5D6F17D952C6BAEB.quest_desc: [
 		"Now that you have the otherworld glasses and the infused pickaxe you can get your hands on some Iesnium which is a material that is required for the most end game rituals this mod has to offer."
 		""
 		"It is recommended that you use the divination for this though it is not strictly required."
 	]
 	quest.5D6F17D952C6BAEB.title: "strange metal"
+	quest.5DB2AD4CE960445A.quest_desc: [
+		"The same as before but with a bigger buffer."
+		"You should only need 1 of these on medium scale setups, unless you use &dSpatial IO&r"
+	]
+	quest.5DB2AD4CE960445A.quest_subtitle: "Bigger = better?"
+	quest.5E011689613A583E.quest_desc: ["Now, you can filter your cells in situ"]
+	quest.5E011689613A583E.quest_subtitle: "No more blocks"
 	quest.5E01C4D06EB98F26.quest_desc: ["This block acts like a terminal and can be placed anywhere to allow you to access your network."]
 	quest.5E01C4D06EB98F26.title: "terminals"
 	quest.5E635799470EEF47.quest_desc: [
@@ -2302,6 +3258,20 @@
 		"Mod created by: &63divad99"
 	]
 	quest.5E635799470EEF47.title: "&l&6Solar Generation"
+	quest.5E65F944050BD507.quest_desc: [
+		"&aExtended&r &6Pattern Provider&r are the same as the old ones, but provides &c&nanother&r 27 slots for &apatterns&r!"
+		""
+		"For the &dmoleculars assemblers&r... They are another history:"
+		""
+		"- They can do 4 &drecipes&r at the same time"
+		""
+		"- They are &efaster&r than the normal version, x2 to be exact"
+		""
+		"- You &ccan't&r place patterns inside"
+		""
+		"For the pattern providers, there is an upgrade than you can use in case you don't want to break them"
+	]
+	quest.5E65F944050BD507.quest_subtitle: "Now, time to upgrade your &6autocrafting"
 	quest.5E81A419306A7840.quest_desc: ["Quartz + &4The Nether&r, perfect combo"]
 	quest.5E81A419306A7840.quest_subtitle: "The shiny bee"
 	quest.5F29A3544EF83EDC.quest_desc: [
@@ -2349,6 +3319,8 @@
 	]
 	quest.5F74C9140032D5A8.quest_desc: ["This section will explain how you may automate Ars Nouveau"]
 	quest.5F74C9140032D5A8.title: "Autocrafting Ars"
+	quest.5F8B4DA147FFBF10.quest_desc: ["For example, you enter redstone dust on your network and this card convert it to redstone blocks"]
+	quest.5F8B4DA147FFBF10.quest_subtitle: "Compress"
 	quest.6004B74F4D8E5E7F.quest_desc: [
 		"These Golems are created in much the same way as the regular Amethyst Golems but with their own respective buds."
 		""
@@ -2369,6 +3341,16 @@
 	quest.604CB2266FDF4098.quest_subtitle: "Teleportation at it's finest"
 	quest.604CB2266FDF4098.title: "&l&dEnderIO"
 	quest.6069D3860B38504C.title: "Solar Helmet &l&1V6"
+	quest.60A2AE588A7D600C.quest_desc: [
+		"Energy: &cON&r"
+		"Capacity required: &4ERROR&r"
+		""
+		"Yep, basically that, you need a lot of &achannels&r and &eenergy&r, by a lot"
+		""
+		"The guide has more info on how this mechanic works, i tried but it was longer and worse."
+		"Also, if you have friends, you can trap them inside ;)"
+	]
+	quest.60A2AE588A7D600C.quest_subtitle: "It's a trap!!!"
 	quest.610462533974587C.quest_desc: ["This section will explain how you may automate your forbidden arts"]
 	quest.610462533974587C.quest_subtitle: "For those allergic to manual labor"
 	quest.610462533974587C.title: "Autocrafting"
@@ -2396,6 +3378,8 @@
 	]
 	quest.613B94C20D7E7072.quest_subtitle: "watch out for that tree..."
 	quest.613B94C20D7E7072.title: "&l&aUseful Slime"
+	quest.617BBE7ACB125208.quest_subtitle: "The path to Godhood"
+	quest.617BBE7ACB125208.title: "Getting Started"
 	quest.619DAE1E67930A91.quest_desc: [
 		"We have to admit one thing, travelling through dimensions sometimes might be annoying."
 		""
@@ -2411,6 +3395,11 @@
 	]
 	quest.619DAE1E67930A91.quest_subtitle: "Travelling long distances"
 	quest.619DAE1E67930A91.title: "&l&dWaystones"
+	quest.61EE5D51D5CB807B.quest_desc: [
+		"E -3"
+		"A -7.5%"
+	]
+	quest.61EE5D51D5CB807B.title: "&8&lStoneshelf"
 	quest.622DB8CA3BE8663C.quest_desc: [
 		"The mod &6Pocket Storage&r will surely help us a lot when mining."
 		""
@@ -2431,11 +3420,12 @@
 	]
 	quest.62AE066A0F40D92D.quest_subtitle: "Piercing the Veil imma right?"
 	quest.62D20F94DACD2B85.quest_desc: [
-		"Pipez also allows you to filter based on nbt."
+		"Pipez also allows you to filter based on &bNBT&r."
 		""
-		"you set a nbt filter simply by editing the nbt string thats set when you filter for an item with nbt"
-		"This is especially usefull for apothiosis gems where you can set the filter for any gem then just remove the nbt tag except for the gem tag and you now have a generic gem filter that will work for any gem."
+		"You set a nbt filter simply by editing the nbt string that's set when you filter for an item with nbt."
+		"This is especially useful for &bApotheosis&r gems where you can set the filter for any gem. Just remove the nbt tag except for the gem tag and you now have a generic gem filter that will work for any gem."
 	]
+	quest.62D20F94DACD2B85.quest_subtitle: "NBT filtering!"
 	quest.62F972854AA43136.quest_desc: [
 		"These amazing quests were made for &l&4Catalyst Studios&r and it's a part of their project and belong to them."
 		""
@@ -2444,6 +3434,13 @@
 		"If you are seeing this, it means you are in editing mode."
 	]
 	quest.62F972854AA43136.title: "&l&4Catalyst Studios Quests"
+	quest.62FF49268DF92CDB.quest_desc: [
+		"Luckily, these &bprocessors&r are the most used, which they are basically free."
+		""
+		"While I ask for 16, you probably want to do 32 or 64"
+	]
+	quest.62FF49268DF92CDB.quest_subtitle: "We have made a sandwich"
+	quest.62FF49268DF92CDB.title: "Calculation Processor"
 	quest.63483D4671E7EB94.quest_desc: [
 		"Too much text on the tooltip"
 		""
@@ -2452,6 +3449,14 @@
 		"- On a &bcatcher&r, it will only catch baby bees"
 	]
 	quest.63483D4671E7EB94.quest_subtitle: "New baby?"
+	quest.638AA96CA3E3787D.quest_desc: [
+		"This is used a lot, so you probably want to make a &bcertus&r farm first, and a quartz, and a &credstone&r one...."
+		""
+		"Drop all of these ingredients on &9water&r, wait and collect the &5fluix&r."
+		"While I only ask for the ingredients to make 2, you should make 4 stacks of &5fluix&r, which it will be used later on"
+	]
+	quest.638AA96CA3E3787D.quest_subtitle: "Fluixium aurium"
+	quest.638AA96CA3E3787D.title: "&5Fluix"
 	quest.638F2647D6429630.quest_desc: ["You need a blue banded bee exit the hive and you will have a chance to get a baby bee"]
 	quest.638F2647D6429630.quest_subtitle: "GET OUT OF HERE"
 	quest.639CBD91D151E14B.quest_desc: ["Will add more possible bound inventories to a storage lectern check book for more information on bookwyrm and storage lectern."]
@@ -2533,11 +3538,29 @@
 	]
 	quest.6547327236A3C8E1.quest_subtitle: "No mo' annoying dirt!"
 	quest.6547327236A3C8E1.title: "&l&dOnly Excavators"
+	quest.65B604A2EB9026A4.title: "Summit"
 	quest.65C2489369AE9D84.quest_desc: [
 		"Much like a Drygmy the Whirlspring will generate drops from things around it, in this case plants."
 		""
 		"The Whirlspring charm can be used on any flower to create its home and you need to place a source jar and chest adjacent to its home for it to produce, look in the book for more info."
 	]
+	quest.65C2A7ACDD2D9947.quest_desc: [
+		"You should use these &dcables&r for your setups. Why? Simple, they show you how many &achannels&r you use, on the cable and if you look at them, they will also tell you."
+		""
+		"But we haven't talked how to get &achannels&r, just that &bmachines&r uses &achannels&r."
+		"Well, it's easy, place 8 cables and an energy acceptor, give it power and you have 8 free channels."
+		"Now, you can only place 8 &bAE2 machines&r, if you try to place 9 machines, the network will stop."
+		""
+		"{@pagebreak}"
+		"Sooooo... how do we &cscale&r up things? &dControllers&r! They are a fundamental part of this mod, so you should make them. &eQuests&r will guide you and tell you which &bmachines&r uses &achannels&r."
+		""
+		"&dSmart cables&r and &5fluix cables&r can only connect to 8 machines. You should check on &ddense cables&r."
+		"Also, tip here, use different colors, at least 2 colors and fluix colors. That way they don't connect to each other."
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/cables.png width:100 height:100 align:center fit:true}"
+	]
+	quest.65C2A7ACDD2D9947.quest_subtitle: "Now we are talking"
+	quest.65C2A7ACDD2D9947.title: "Smart cables"
 	quest.66092D43BCF44F05.quest_desc: [
 		"Works a bit differently than MK1. The MK2 uses ghost blocks instead of actual blocks. By default, these blocks do not have any of their original properties, but this can be altered with the Mimic augment."
 		""
@@ -2548,6 +3571,12 @@
 	quest.6609A4E0D6EE9C8D.quest_desc: ["useful for removing chalk"]
 	quest.6609A4E0D6EE9C8D.quest_subtitle: "Get scrubbing"
 	quest.6698EBDC4EE4D39A.title: "Neon Bee"
+	quest.66D36EAA72C8C2E0.quest_desc: [
+		"Now, we can consider started on &aExtendedAE&r mod."
+		""
+		"This is the &afundamental&r ingot of this mod, since it needed for processors, which you should check on the main AE2 quests ;)"
+	]
+	quest.66D36EAA72C8C2E0.quest_subtitle: "The ingot"
 	quest.67123063EB5567FC.quest_desc: [
 		"In this modpack we have plenty of storages for us to use."
 		""
@@ -2575,6 +3604,8 @@
 	quest.67123063EB5567FC.title: "&lStorage Options"
 	quest.6727FA53D3ECEBBB.quest_desc: ["These tablets grants you complete control of the day/night cycle and the weather."]
 	quest.6727FA53D3ECEBBB.title: "Celestial Manipulation"
+	quest.6744017ED4BEE958.quest_subtitle: "&0Bottom"
+	quest.6744017ED4BEE958.title: "&0Printed Accumulation Circuit"
 	quest.678FF7F7514DDAC4.quest_desc: [
 		"The imbuement chamber is crucial in Ars as it is used to make the most fundamental resource in the mod known as source gems."
 		""
@@ -2598,6 +3629,13 @@
 		"And finally, you want to get at least 2 of each bees, they can bee breeded into more using the breeder"
 	]
 	quest.67E648AD068CAB9E.quest_subtitle: "Proximity"
+	quest.6890EED20F89D2AB.quest_desc: [
+		"Increases the player activation range."
+		""
+		"Each crystal will &b+4 player activation range&r to a &bmax of 48 blocks&r."
+	]
+	quest.6890EED20F89D2AB.quest_subtitle: "Maybe I don't need you"
+	quest.6890EED20F89D2AB.title: "Required Player Range"
 	quest.68BD90AE2185792E.quest_desc: ["Works exactly the same as the Stack Upgrade. This will override the Stack Upgrade, and the maximum items per operation will now be determined by the augment. The maximum useful upgrades are 6 (2⁶)."]
 	quest.68C25AACF9C16819.quest_desc: [
 		"Villagers always find a way to &8&msteal&r &lmake us&r buy from them..."
@@ -2610,6 +3648,21 @@
 	]
 	quest.68C25AACF9C16819.quest_subtitle: "More like the emerald eater..."
 	quest.68C25AACF9C16819.title: "&l&3Farming with Blockheads"
+	quest.68F03CFFA6A021A8.quest_desc: ["Basically, adds a bigger energy capacity to supported tools"]
+	quest.68F03CFFA6A021A8.quest_subtitle: "POWAH!!!!"
+	quest.690BCDCCE7DCDF19.quest_desc: ["The same as a normal &binterface&r, but it gives you another 27 slots!"]
+	quest.690BCDCCE7DCDF19.quest_subtitle: "The same"
+	quest.697A5E53CC53ADDB.quest_desc: [
+		"You are starting to &6bee&r fed up with that many amount of manual crafting."
+		"Well, time to change that."
+		"There are tons of setups for &6autocrafting&r, but I will ask you to make one of the simplest."
+		""
+		"You can expand later with &cmore&r &atowers&r or another setups. For this, you need 8 channels, so basically, a &dsmart cable&r."
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/pattern_provider.png width:100 height:100 align:center fit:true}"
+	]
+	quest.697A5E53CC53ADDB.quest_subtitle: "How to automate things"
+	quest.697A5E53CC53ADDB.title: "&6Autocrafting"
 	quest.69D6ACCAC3B91456.quest_desc: [
 		"The mod &bTime in a Bottle&r gives us the opportunity to &6Tick accelerate&r plenty of stuff to decrease it's cooldown or by simply &laccelerating&r things and make them go brr~~"
 		""
@@ -2625,6 +3678,10 @@
 	]
 	quest.69D6ACCAC3B91456.quest_subtitle: "In Need for Speed"
 	quest.69D6ACCAC3B91456.title: "&l&eTime In a Bottle"
+	quest.69D74428BB9CC623.quest_desc: ["Deepshelf of Arcane Treasures"]
+	quest.69D74428BB9CC623.title: "Getting Treasure Enchants"
+	quest.69E5E1E33F978ABE.quest_desc: ["This is used for armor, basically"]
+	quest.69E5E1E33F978ABE.quest_subtitle: "Expensive"
 	quest.6A1F6F3694025B4A.quest_desc: [
 		"Are you tired of using 1 piece of coal for a single item and it just burns out without any other item to smelt?"
 		""
@@ -2641,12 +3698,43 @@
 	quest.6A1F6F3694025B4A.quest_subtitle: "tiniest of all coals"
 	quest.6A1F6F3694025B4A.title: "&lTiny (Char)Coal"
 	quest.6A4C0711EE98332C.quest_desc: ["This pendant is quite a life saver... It will automatically get rid of any bad potion effects our player recieves by using a bit of blood!"]
+	quest.6AE86F948D9A4472.quest_desc: [
+		"Now, time for some &breal&r &dmagic&r. "
+		"We need an mateor compass, which you need a compass and a &dcharger&r (later on reused)"
+		"For now, make a crank."
+		""
+		"It will points to the nearest meteorite with a mysterious cube (needed for later) and some certus buds."
+		""
+		"&cBreak&r every buds &cexcept&r for flawless buds, which you need to use the box on those."
+		"&bFlawless buds&r don't degrade over time if you don't break it."
+	]
+	quest.6AE86F948D9A4472.quest_subtitle: "You need both"
 	quest.6AF6F200251C478B.quest_desc: [
 		"This bee is usually found on &dThe End&r, on the islands after defeating &eJean&r a.k.a &5The Ender Dragon&r."
 		""
 		"You don't need to make this nest, just look for it, they are plentiful"
 	]
 	quest.6AF6F200251C478B.quest_subtitle: "/tp @e 0 0 0"
+	quest.6AFF11B49B2F901B.title: "Pinnacle"
+	quest.6B477C68C8D84A3D.quest_desc: ["Spawns &6burning&r mobs. &oOuch&r."]
+	quest.6B477C68C8D84A3D.quest_subtitle: "Let them burn"
+	quest.6B477C68C8D84A3D.title: "Burning"
+	quest.6B50E447E97394A8.quest_desc: [
+		"We need a &bcertus farm&r, but how do we make it?"
+		"You can go with &6bees&r, &dseeds&r or &cdupe&r method from AdvancedAE, but this is the intented way on AE2. (Probably easier to use seeds and bees)"
+		""
+		"This quest comes from the guide, which has a &e3D&r view of the farm. Search on examples and &b&nsimple certus farm&r. But we are doing a small modification to make it produce a bit more."
+		""
+		"This way we can fit 3 annihilation plane for more production."
+		""
+		"&2Photo on the next page&r"
+		""
+		"{@pagebreak}"
+		""
+		"{image:kubejs:textures/quest_images/applied_energetic/first_farm_certus.png width:100 height:100 align:center fit:true}"
+	]
+	quest.6B50E447E97394A8.quest_subtitle: "Can you go higher?"
+	quest.6B50E447E97394A8.title: "&bCertus farm"
 	quest.6B5295ABF1D7D71D.quest_desc: [
 		"Are you tired of getting &ccurse of vanishing&r or any other annoying enchantment on your equipment and tools?"
 		""
@@ -2662,6 +3750,29 @@
 	]
 	quest.6B5295ABF1D7D71D.quest_subtitle: "Disenchanting at it's finest!"
 	quest.6B5295ABF1D7D71D.title: "&5&lDis-Enchanting Table"
+	quest.6B552B61C702C105.quest_desc: ["Have you hear about parallelism? No? Well, you will"]
+	quest.6B552B61C702C105.quest_subtitle: "&bBottom&r"
+	quest.6B552B61C702C105.title: "&bPrinted Concurrent Circuit"
+	quest.6C504AA720E7C1C3.quest_desc: [
+		"Decreases the minimum tick time between spawns. "
+		""
+		"Each sugar will -20 ticks to the &bmin spawn delay&r."
+		""
+		"Minimum min spawn delay is &b20 ticks&r."
+	]
+	quest.6C504AA720E7C1C3.quest_subtitle: "Faster!"
+	quest.6C504AA720E7C1C3.title: "Minimum Spawn Delay"
+	quest.6C6D6015BDFF4BD3.quest_desc: [
+		"This is the &bAE2 machine&r that allows to use &cstorage&r from other mods."
+		"It uses 1 &achannel&r and can only be placed on &dsmart cables&r."
+		""
+		"They have cool functionally in the GUI, so check them out, but the important are:"
+		""
+		"- &aFiltering&r: So 500 different thing doesn't go into the same thing"
+		""
+		"- &dExtraction&r: You can set them to extract only or insert only or both"
+	]
+	quest.6C6D6015BDFF4BD3.quest_subtitle: "Storing in other mods? Are u cheating on me?"
 	quest.6C7CE3884A3A134B.quest_desc: [
 		"The refinery is a multiblock that can have up to 4 refinery outputs."
 		"Place down the controller and ideally 4 outputs on top."
@@ -2694,7 +3805,18 @@
 	]
 	quest.6CBD797B715195F9.quest_subtitle: "The Beginning"
 	quest.6CBD797B715195F9.title: "&lLeadstone Solar Panel"
+	quest.6D20BEE603706F69.quest_desc: [
+		"Yep, we are using a lot of &dsingularities&r, and &9water&r because are you making them with &9water&r, &1&lright&r?"
+		""
+		"The fluid from before and some materials, and you get 1 ingot."
+		"Now, why do we need 9 ingots? For &5processors&r!"
+	]
+	quest.6D20BEE603706F69.quest_subtitle: "Water bill: 9999999999€"
 	quest.6D36292892EA5781.title: "Solar Helmet &l&7V2"
+	quest.6D4FB5CE5BA905D2.title: "Echoing Deepshelf"
+	quest.6D8AF09174D7779D.quest_desc: ["5 Hellshelves, 15 Bookshelves"]
+	quest.6D8AF09174D7779D.title: "Infused Hellshelf"
+	quest.6D93652BDFA881F0.title: "Glowing Hellshelf"
 	quest.6DA978E4D7B0B5F6.quest_desc: ["Upgraded vacuum pump this pump is a pipe module and will be able to handle as much pressure as the pipe its place onto you can further upgrade the pump with a module expansion card"]
 	quest.6E01662992FF940F.quest_desc: [
 		"You could of course use your handy bucket or a Mekanism tank in bucket mode to collect the oil  but you can also use the gas lift to collect it for you."
@@ -2749,11 +3871,46 @@
 	]
 	quest.6F5B6AFAD2038ADA.quest_subtitle: "You heard me"
 	quest.6F5B6AFAD2038ADA.title: "The Silly Hat™"
+	quest.6FE1831C4E32CD9D.quest_desc: [
+		"Increases the amount of mobs spawned per wave."
+		""
+		"Each eye will &b+2 spawn count&r to a &bmax of 16 mobs&r in a single wave."
+	]
+	quest.6FE1831C4E32CD9D.quest_subtitle: "More Mobs!"
+	quest.6FE1831C4E32CD9D.title: "Increase Spawn Count"
+	quest.6FBE162F8B5157F3.quest_desc: [
+		"While you won't ever need to use this tool, I need to tell you."
+		""
+		"Convert some materials to another, like lava to obsidian."
+		"Only useful to get snow balls or ice at the beginning until you get &6bees&r or &dseeds&r"
+	]
+	quest.6FBE162F8B5157F3.quest_subtitle: "Mostly useless, but i have to tell you"
+	quest.6FF0A677B6BDD946.quest_desc: [
+		"Yes, we can automate &5fluix&r now without using &dseeds&r or &6bees&r."
+		""
+		"These machines needs 1 &bchannel&r to work and can't place blocks by themselves."
+		"[ \"There is a \", { \"text\": \"setup\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2992DF31EA2F37F1\" } }, \" explaining more.\" ]"
+	]
+	quest.6FF0A677B6BDD946.quest_subtitle: "&5Fluix&r automation"
+	quest.704E87C0BBB8172A.quest_desc: [
+		"Useless if you have the &5reaction chamber&r from &dAdvancedAE&r, since these charger are slow."
+		""
+		"But compared to the normal &dcharger&r, they can do 4 items at the same time"
+	]
 	quest.7053E4EEA04089E0.quest_desc: [
 		"Allows the Vacuum Module to handle experience. The experience will be converted into any form you select in the GUI. Bottles of enchanting do not require bottles in the buffer. However, for other liquids, a bucket or tank in the buffer is required, or an adjacent tank with the card set to eject."
 		" "
 	]
 	quest.705D0129508997FA.quest_desc: ["Used in plastic production."]
+	quest.70B9826E828AF96C.quest_desc: [
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
+		""
+		"&bApothic Enchanting&r questline made by: &5ArcTrooper&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.70B9826E828AF96C.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.70B9826E828AF96C.title: "&l&4Catalyst Studios Quests"
 	quest.70D11E8D3C62E581.quest_desc: [
 		"The Dominion Wand is used for connecting Source Relays together and to give commands to the forest creatures you so kindly enslaved to do your bidding."
 		""
@@ -2791,6 +3948,7 @@
 		"We can even automate it with &dAE2&r or &3ID&r!"
 	]
 	quest.725CAFF6779487BC.title: "Bloody Infusions"
+	quest.72D771A50AF4DA84.quest_desc: ["Make the &dinscriber&r press and check again the main quests from &bAE2&r"]
 	quest.72E024F538AAFA84.quest_desc: [
 		"Before we can start crafting all of our solar panels we need some materials first."
 		""
@@ -2801,6 +3959,8 @@
 		"And to upgrade the solar cores we need the past tier core as well."
 	]
 	quest.72E024F538AAFA84.title: "Needed Items"
+	quest.72E88C43AB28C4AF.quest_desc: ["Basically, 2 interfaces on 1 block, not worth making them"]
+	quest.72E88C43AB28C4AF.quest_subtitle: "More slots"
 	quest.73413868FF107681.quest_desc: [
 		"And finally, how to make bees at industrial scale....."
 		""
@@ -2824,6 +3984,14 @@
 		"&4note!&r"
 		"&4will not break or place blocks&r"
 	]
+	quest.73BDA8383A3F8E97.quest_desc: ["While I only ask for 16, you will probably use a lot more."]
+	quest.73BDA8383A3F8E97.quest_subtitle: "&8Top"
+	quest.73BDA8383A3F8E97.title: "&8Printed silicon"
+	quest.73E9E699F0159BDE.quest_desc: ["&6Gold&r? &ePiglings&r won't attack you? There is only one way to test that"]
+	quest.73E9E699F0159BDE.quest_subtitle: "&6Bottom&r"
+	quest.73E9E699F0159BDE.title: "&6Printed Logic Circuit"
+	quest.745CFBC93B74DDC0.quest_desc: ["Now, they work exactly as ME Precise Storage Bus, but it exports things from the &dnetwork&r"]
+	quest.745CFBC93B74DDC0.quest_subtitle: "SFM competition? Nope"
 	quest.746ABCD05A10E15A.quest_desc: [
 		"Works similarly to the normal drones excluding a few features see book."
 		"The benefit of these is they do not require a charger like a regular drone and can be fed directly from a line and the drone is not an actual entity and just a visual representation so no pathfinding involved."
@@ -2831,6 +3999,48 @@
 		""
 		"Contains chunk loading capabilities for itself and its drone."
 	]
+	quest.74F6B9592744EC7C.quest_desc: [
+		"Killed mobs drop more loot! "
+		""
+		"Each Echo Shard gives &b+1 level&r. Max level is &bEchoing V&r."
+	]
+	quest.74F6B9592744EC7C.quest_subtitle: "MOAR LOOT!"
+	quest.74F6B9592744EC7C.title: "More Loot!"
+	quest.747BCC83F4809BCB.quest_desc: [
+		"Now, if you have followed the &aquests&r, you should have a &6general&r idea of how your &dnetwork&r should look like."
+		"If you don't, I am here to help a bit, I hope...."
+		""
+		"First, I will show you the &cwhole&r setup, and then explain it, using &ac&r&3o&r&9l&r&eo&r&5r&r&ds&r! "
+		"Don't be &eafraid&r, you will surely get it!"
+		""
+		"&2There are more than 1 page&r"
+		""
+		"{@pagebreak}"
+		"{image:kubejs:textures/quest_images/applied_energetic/example_setup2.png width:100 height:100 align:center fit:true}"
+		"{@pagebreak}"
+		""
+		"Dark &5purple&r (1) -> This setups makes &dprocessors&r and alloys, like &5fluix&r or &8sky steel&r"
+		""
+		"&6Orange&r (2) -> This is a setup from &bAE2 guides&r, to make fluix and sky steel, if you don't want to use reaction chambers."
+		""
+		"Dark &2green&r (3) -> This is your &aresource&r farm, like &aentro&r crystal &6bee&r or &dseeds&r or a &bcertus farm&r"
+		""
+		"Dark &9blue&r (4) -> Your &6autocrafting&r for recipes, using a setup from &bquests&r"
+		""
+		"&cRed&r (5) -> &bCPU&rs to make crafts"
+		""
+		"&dPink&r (6) -> &dTerminals&r and &5spatial anchor&r"
+		""
+		"Darkish &5purple&r (7) -> &5Wireless&r &dterminal&r"
+		""
+		"Brown (8) -> &cStorage&r"
+		""
+		"&aLime&r (9) -> &aPower&r, to turn on your &dnetwork&r and &cstoring&r it"
+		""
+		"&eYellow&r (10) -> Free &dcables&r for other &csetups&r, like &aMekanism&r's machines or your &6bees&r/&dseeds&r setups"
+	]
+	quest.747BCC83F4809BCB.quest_subtitle: "Just an example, read &call&r the text!"
+	quest.747BCC83F4809BCB.title: "Example &dnetwork"
 	quest.7509E3311610BE2B.quest_subtitle: "November Rain?"
 	quest.7509E3311610BE2B.title: "Rain in a Bottle"
 	quest.75566B910945A58D.quest_desc: [
@@ -2854,6 +4064,16 @@
 		""
 		"This Item can be crafted by using the &6Enviromental Accumulator&r from the Dark Temple or with the &4Sanguinary Eviromental Accumulator&r. Simply throw the Empowered Potentia to any of these machines and after 5 seconds you'll recieve this new Item!"
 	]
+	quest.758C5531BE35B33A.quest_desc: [
+		"As the name say, they import and export, but how?"
+		"Well, you have to select your 1 or more inventory's slots in order to work:"
+		""
+		"- &dImport card&r: Imports stuff from your inventory into the network. Basically a &amagnet&r card"
+		""
+		"- &dExport card&r: It's like a stock option when you are building"
+	]
+	quest.758C5531BE35B33A.quest_subtitle: "Wireless action"
+	quest.758C5531BE35B33A.title: "Import / Export Card"
 	quest.75A4C6008C48EA66.quest_desc: ["Welcome to &lLittle Bit Large&f from &4Catalyst Studios&f! This is just the beginning and very much a WIP."]
 	quest.75A4C6008C48EA66.title: "Welcome to Little Bit Large!"
 	quest.75AA4C3AD7901E39.quest_desc: [
@@ -2869,6 +4089,26 @@
 		"if placed above stone or magma it will convert it to lava over time."
 	]
 	quest.75FC5528B0125083.quest_subtitle: "its hot"
+	quest.7656D71CE6F49D32.quest_desc: [
+		"We are using &dsubnets&r to get this trick going."
+		""
+		"Place an &astorage bus&r somewhere in your &dnetwork&r that has 1 &achannel&r."
+		"Then, place an &binterface&r on the other side of the &astorage bus&r, like if it was a chest."
+		"You should get an &cachivement&r, &erecursive networking&r."
+		""
+		"Now, you can use that &dsubnetwork&r to store more &eitems&r or &9fluids&r or whatever!"
+		"This is because an &binterface&r exposes all the &cstorages&r of a &dnetwork&r to a &astorage bus&r, acting like a chest to the storage bus."
+		""
+		"Also, you can filter the &astorage bus&r to only send 1 specific thing"
+	]
+	quest.7656D71CE6F49D32.quest_subtitle: "Not quite, but you get it"
+	quest.76606EA7D4EC4D64.quest_desc: [
+		"They are basically a &credstone&r on a cable"
+		"If a condition is met, like you having more than 5000 cobblestone on a &anetwork&r, then it will turn on."
+		""
+		"They have more options, but this is the general idea."
+	]
+	quest.76606EA7D4EC4D64.quest_subtitle: "Redstone on cable"
 	quest.7684CDDD0DE803EA.quest_desc: [
 		"Summoning Shards can be gotten in 2 ways for the regular way see tooltip on the shard you want."
 		""
@@ -2885,7 +4125,32 @@
 		"Mod Created by: &4Kroeser"
 	]
 	quest.76890D74EE32B4CF.title: "&l&4EvilCraft"
+	quest.76B53E4955C5CE8D.quest_desc: [
+		"Now, have you ever get &cfrustated&r by sides? Like &aMekanism&r machines?"
+		""
+		"Well, not anymore, with this wonderful &bmachine&r, you can select the side where the ingredient is going to be inserted"
+	]
+	quest.76C1268FC04633AD.title: "Ways to Disenchant"
 	quest.76ED2E2F59D4E7BB.quest_desc: ["Works similarly to the Sender MK2 with the same range limitations. However, this version can have up to 8 targets."]
+	quest.771543603CFE5506.quest_desc: ["The guide has a simpler explanation on how to use them."]
+	quest.771543603CFE5506.title: "More Export buses"
+	quest.7743458DF29237C3.quest_desc: [
+		"Now, what is a &abyte&r?"
+		""
+		"A &abyte&r is 8 items from the same type. So, no, 1k cell isn't 1k items."
+		""
+		"Now, one tip, if you want to mass &cstorage&r something in &bAE2&r, you only want a cell using 1 &dtype&r, it will have more space in general"
+	]
+	quest.7743458DF29237C3.quest_subtitle: "NASv.2: ON"
+	quest.7743458DF29237C3.title: "4K Storage Component"
+	quest.774EF435A320B705.quest_desc: ["5x Draconic Endshelf, 2x Echoing Deepshelf, 1x Melonshelf, 1x Endshelf"]
+	quest.774EF435A320B705.title: "Unbreakable Potion Charms"
+	quest.77544FB030619A81.quest_desc: [
+		"Put any ingot (you want to use the cheapest one, like &6copper&r) and this tool on a &acrafting table&r and you get cable anchors, more info later."
+		""
+		"Also, if you right click on an &bAE2 machine&r, you can raname it without using an &aanvil&r."
+	]
+	quest.77544FB030619A81.quest_subtitle: "Cable anchor"
 	quest.7760C341D49250BE.quest_desc: ["Sucks up items within its range and can have various augments applied to adjust its speed or make it work with experience."]
 	quest.779918B7EF072B1A.quest_desc: ["Works like the Distributor Module, but with FE. Its base range is 8 blocks instead of 24, though it can still be increased up to a maximum of 48. The maximum throughput is determined by energy upgrades."]
 	quest.77BC1DE1D0D6D03B.quest_desc: [
@@ -2907,6 +4172,8 @@
 	]
 	quest.77E4F1F6EEB85DBA.quest_subtitle: "and useful tips!"
 	quest.77E4F1F6EEB85DBA.title: "Welcome to &6&nUseful&r Mods"
+	quest.77F4898316628800.quest_desc: ["Allows to add more filters options to &bAE2 machines&r"]
+	quest.77F4898316628800.quest_subtitle: "More filters"
 	quest.781D98EE5538B3F8.quest_desc: ["you now possess all the chalks necessary for the rituals in Occultism"]
 	quest.781D98EE5538B3F8.title: "Master Occultist"
 	quest.7830E3A72E9DB4C3.quest_desc: [
@@ -2932,6 +4199,13 @@
 	]
 	quest.7855BF00C8A4A7F2.quest_subtitle: "In a dire need for equipment?"
 	quest.7855BF00C8A4A7F2.title: "&l&1Just Dire Things"
+	quest.78C350866A75F0D0.quest_desc: [
+		"Now that you have all the pieces, it's time to create the &l&dUltimate Spawner&r&r. "
+		""
+		"It'll have &bMinimum Delays&r, &bRedstone Control&r, &bNo AI&r, &bIgnores Spawn Conditions&r, and &bIgnores Players&r."
+	]
+	quest.78C350866A75F0D0.quest_subtitle: "Infinite loot!"
+	quest.78C350866A75F0D0.title: "&o&l&dThe Ultimate Spawner"
 	quest.78F4BD64456FAC4A.quest_desc: ["Used in the creation of bio diesel only requires pressure "]
 	quest.7903FA4DBF99A4D6.quest_desc: ["More robust version of the infused pickaxe"]
 	quest.795FB25F7FE3F03C.quest_desc: [
@@ -2945,6 +4219,14 @@
 		"Later on you will be able to set these up as you want when you can upgrade them with module expansion cards but until then they will be at redstone level 0 at 0 bar and redstone level 15 at 8 bar."
 	]
 	quest.795FB25F7FE3F03C.quest_subtitle: "pressure regulation"
+	quest.79EB6D948B0779CD.quest_desc: [
+		"Yep, we should skip this one and go to the next quest."
+		""
+		"Make this terminal and I will explain later."
+	]
+	quest.79EB6D948B0779CD.quest_subtitle: "Not the good one, next"
+	quest.79FF22CAEE62FF38.quest_subtitle: "NASv7: ON"
+	quest.79FF22CAEE62FF38.title: "1M Storage Component"
 	quest.7A3A78C25AC9D033.quest_desc: [
 		"Both tools use blood to function properly."
 		""
@@ -2957,7 +4239,14 @@
 	quest.7A3A78C25AC9D033.quest_subtitle: "Still doesn't attract love..."
 	quest.7A3A78C25AC9D033.title: "Kinecticators"
 	quest.7A545D85BF794497.quest_desc: ["Reduces the range of the module by 1 block per augment. Useful for vacuum modules that you want to work in a smaller area."]
-	quest.7A997E9003EA92FC.quest_desc: ["moves fluids"]
+	quest.7A71E1BAB8050192.quest_desc: [
+		"Increases the max allowed mobs near the spawner."
+		""
+		"Each tear will &b+2 total entities&r to a &bmax of 32 mobs&r near the spawner."
+	]
+	quest.7A71E1BAB8050192.quest_subtitle: "Getting Crowded"
+	quest.7A71E1BAB8050192.title: "Max Nearby Entities"
+	quest.7A997E9003EA92FC.quest_desc: ["Moves fluids."]
 	quest.7AB09B6B6E9206C4.quest_desc: [
 		"Evilcraft adds plenty of stuff, including a way to store items and craft within it's inventory!"
 		""
@@ -2978,6 +4267,30 @@
 	]
 	quest.7ACE109B69EDE436.quest_subtitle: "Unholy influence"
 	quest.7ACE109B69EDE436.title: "Entering the Demon Dream"
+	quest.7AFCF59B8827E96E.quest_desc: [
+		"This should be more than enough for your needs in most &emodpacks&r."
+		""
+		"If you need more &cstorage&r, continue doing quests, and you will find a replacement for &adrawers&r"
+	]
+	quest.7AFCF59B8827E96E.quest_subtitle: "NASv.4: ON"
+	quest.7AFCF59B8827E96E.title: "64K Storage Component"
+	quest.7B0F658E2D3D4A37.quest_desc: [
+		"Now, we are talking about."
+		""
+		"This is basically the main ingredient for all machines."
+	]
+	quest.7B0F658E2D3D4A37.quest_subtitle: "The base"
+	quest.7B1F9C4F3E3A5504.quest_desc: [
+		"Basically, it allows you to &ccopy&r and &apaste&r settings from one machine to another or setup P2P."
+		"Also &6recipes&r if you have blank patterns on your inventory!"
+	]
+	quest.7B1F9C4F3E3A5504.quest_subtitle: "Remember"
+	quest.7BC38AFED126D412.quest_desc: [
+		"Using some of your &5fluix&r on an inscriber or a &aMekanism&r's &ecrusher&r to get &5fluix dust&r."
+		""
+		"You will need it, so probably a good idea to make a stack."
+	]
+	quest.7BC38AFED126D412.quest_subtitle: "Fluixium dustum"
 	quest.7BCDEFB84468CC16.quest_desc: [
 		"Pipez allows you to set filter behavior based on black and Whitelist."
 		"Whitelist: only allows through items you set in the filter."
@@ -2998,6 +4311,7 @@
 		"&4Note:&r"
 		"&4Upgrades generally do not have access to all configurations; this is a custom feature specific to this pack.&r"
 	]
+	quest.7BCDEFB84468CC16.quest_subtitle: "To go or Not to go"
 	quest.7BCDEFB84468CC16.title: "Black on White"
 	quest.7BE6E09B682F621E.quest_desc: [
 		"The mod &l&6Crafting on a Stick&r not only adds a crafting table on a stick, it comes with multiple of our favorite tables... The best part of this is that they can go into a curio slot for us to save up more space in our inventory!"
@@ -3056,6 +4370,27 @@
 		""
 		"This is done in the thermopneumatic processing plant."
 	]
+	quest.7D38CBA6AFAA0123.quest_desc: [
+		"This crystal is a bit trick to make in &2mass&r quantities with &bbuds&r, but we can make it."
+		""
+		"Normally, a &aperfect&r bud should give you 10 &aentro&r crystal, before turning into a &bcertus block&r."
+		"Now, we need to farm it somehow (using &6bees&r it's the less painful way)."
+		""
+		"We are basically modifying a &bcertus&r farm, which the &bAE2&r guide has more info, under &aexample setups&r and &dadvanced&r &bcertus&r farm."
+		""
+		"We need to &cchange&r a few things like the crafting or the filters"
+	]
+	quest.7D38CBA6AFAA0123.quest_subtitle: "You should get a bee, really"
+	quest.7D38CBA6AFAA0123.title: "Entro Farm"
+	quest.7D421F7F44B98A4F.quest_desc: [
+		"You are &lnot&r allowed to use these quests in any public pack without &4&nexplicit permission&r from Catalyst Studios."
+		""
+		"&bApothic Spawners&r questline made by: &5ArcTrooper&r"
+		""
+		"If you are seeing this, it means you are in editing mode."
+	]
+	quest.7D421F7F44B98A4F.quest_subtitle: "These amazing quests were made for &4Catalyst Studios&r"
+	quest.7D421F7F44B98A4F.title: "&l&4Catalyst Studios Quests"
 	quest.7D5439BA46732CEB.quest_desc: [
 		"Before we start creating &cmachines&r and &6multiblocks&r, we'll need to craft this core first."
 		""
@@ -3078,12 +4413,29 @@
 		"Sadly this cannot be done for the fruits"
 	]
 	quest.7D9A534A53DB60E2.title: "Transmutation"
+	quest.7DAFF96A46DCEB6D.quest_desc: ["I don't need to tell you why, do i need?"]
+	quest.7DAFF96A46DCEB6D.quest_subtitle: "&6Bees"
 	quest.7DB4270301980965.title: "Ashy Mining Bee"
 	quest.7DD1FD32851C81F5.quest_desc: [
 		"You want them on all machines except hives"
 		"Why? Because hives benefits a lot more from other upgrades"
 	]
 	quest.7DD1FD32851C81F5.quest_subtitle: "Sonic"
+	quest.7DDA8F8BFCB5F3EC.quest_desc: [
+		"Mobs spawn with no AI which means they won't do anything."
+		""
+		"&eWarning:&r This &omay&r break certain interactions with mobs."
+	]
+	quest.7DDA8F8BFCB5F3EC.quest_subtitle: "What am I?"
+	quest.7DDA8F8BFCB5F3EC.title: "&dNo Ai"
+	quest.7DF7DE4654985DE5.quest_desc: ["&aArs Nouveau&r &cStorage&r for &dsource&r, what in the world needs 50000000000000 &dsource&r?"]
+	quest.7DF7DE4654985DE5.quest_subtitle: "Wait, source too?"
+	quest.7E4EF758E4B3C965.quest_desc: [
+		"\"&bParallelism&r\", we are using &econcurrency&r. I guess computers lied to you.... or not?"
+		""
+		"This processor is used a lot on &aExtendedAE&r mod, which you will be using"
+	]
+	quest.7E4EF758E4B3C965.quest_subtitle: "We have made a sandwich"
 	quest.7E4F9C92570A846E.quest_desc: [
 		"This suit can be upgraded and allows a wide variety of abilities."
 		""
@@ -3095,6 +4447,9 @@
 	]
 	quest.7E4F9C92570A846E.quest_subtitle: "“Genius, Billionaire, Playboy, Philanthropist.”"
 	quest.7E4F9C92570A846E.title: "Iron man"
+	quest.7E612BBEFD799749.quest_desc: ["The guide has a simpler explanation on how to use them."]
+	quest.7E612BBEFD799749.title: "More Storage buses"
+	quest.7E85802387BC7ECE.quest_subtitle: "We have made a sandwich"
 	quest.7E8ACAFE301CF54C.quest_desc: [
 		"The source gem is a cornerstone resource in ars and is used in most things in some way or another."
 		""
@@ -3117,6 +4472,12 @@
 	]
 	quest.7ED1D7F512275FAF.quest_subtitle: "Perfect for our Adventures"
 	quest.7ED1D7F512275FAF.title: "&l&9Sophisticated Backpacks"
+	quest.7F1A9B044B5F9703.quest_desc: ["These &bprocessors&r are not used a lot, compared to the others, 16 should be enough to start with"]
+	quest.7F1A9B044B5F9703.quest_subtitle: "We have made a sandwich"
+	quest.7F1A9B044B5F9703.title: "Engineering Processor"
+	quest.7F671051CEDCE162.quest_desc: ["Spawned mobs will be completely silent."]
+	quest.7F671051CEDCE162.quest_subtitle: "&lSILENCE&r"
+	quest.7F671051CEDCE162.title: "Peace and Quiet"
 	quest.7F6E4C605AD3DC95.quest_desc: [
 		"This is my favorite thing in all Evilcraft... This Broom will come in hand in case you don't like using &ejetpacks&r that might contaminate our precious air."
 		""
@@ -3132,9 +4493,11 @@
 	]
 	quest.7F6E4C605AD3DC95.quest_subtitle: "In the form of a Broom!"
 	quest.7F6E4C605AD3DC95.title: "&l&eCreative Flight"
+	quest.7F6EE9B1A8F7F345.title: "Dragon Head"
 	reward.0C1EEE583A1FF036.title: "To the trash"
 	reward_table.037CD8900A50DEEB.title: "Productive Bees Rewards -  Novice"
 	reward_table.150820B2DD9A43B7.title: "AE2 Rewards - Connected"
+	reward_table.1CFF81F06DBBB890.title: "Apoth Rewards - Spawners"
 	reward_table.2D08FEDBF3C31B07.title: "Storage Rewards - Basic"
 	reward_table.3074E9A056391113.title: "Productive Bees Rewards - Disciple"
 	reward_table.342AE5B27FDE9C05.title: "EvilCraft Tier II Rewards"
@@ -3147,12 +4510,16 @@
 	reward_table.6D18C935723B8026.title: "EvilCraft Tier I Rewards"
 	reward_table.6EEF0BE14447C317.title: "Evilcraft Tier III Rewards"
 	reward_table.70E4B58B275C350D.title: "Productive Bees Rewards - Bee Archon"
+	reward_table.7FE7230E5997B4B2.title: "Pipez Rewards - Upgrades"
 	task.016D3E4B60878147.title: "Get a Leafcutter Bee"
+	task.02476F93B40D264E.title: "\"Infinite\" storage"
 	task.05001251EFC0420F.title: "Click if you agree"
 	task.060E3DA4CBADE3A5.title: "Can it be done?"
 	task.065D7932A755F400.title: "Cages"
+	task.07DEF24772DF8253.title: "Any Wool Block"
 	task.093E833D415B663B.title: "Centrifuges"
 	task.0945FABB3B320E12.title: "Get a Chocolate Minining Bee"
+	task.0A6E1D52E925AD03.title: "Interface"
 	task.0A71A43D33CC5CAE.title: "Silly Hat"
 	task.0AA9589559572A2D.title: "Any log"
 	task.0AE87F3B61FE986E.title: "&6Rechiseled&r mod was created by: &bSuperMartijn642&r"
@@ -3161,6 +4528,7 @@
 	task.0D92D306CDD4B4FF.title: "tooltips"
 	task.0E6C86F47586779B.title: "Tip #1"
 	task.0FB415644DDFE671.title: "Click Here if you want OP stuff"
+	task.0FC61C8BCD7C1C4D.title: "Cutter"
 	task.1004A92C2890456F.title: "Get an Ender Bee"
 	task.10A460C2DED7364D.title: "What have i done.."
 	task.10F64B1DF8F5EAEB.title: "Welcome"
@@ -3182,17 +4550,27 @@
 	task.2C410B95C396D49A.title: "Get an Ashy Mining Bee"
 	task.2ED36935EC5C9C93.title: "Any CreativeFlyType/Jetpack"
 	task.30F9A7474D527EA6.title: "Did you catch all?"
+	task.32B2A31CC3561D0A.title: "Dense convered fluix cable"
 	task.37245969B8BF18C4.title: "Check Please!"
+	task.3773257F65DF0B1D.title: "Extended Interface"
 	task.379F21343DF3C58C.title: "Get A Nomad Bee"
 	task.39001B6D46A193DF.title: "Placeholder"
 	task.3B75BD518D17E850.title: "Mod created by: &9DireWolf20"
+	task.3CF17D9E6A7FA068.title: "Any Ore"
+	task.3EBD4602D46B06F4.title: "Mysterious cube"
 	task.41C0455F2876E6BB.title: "Mod created by: &3DireWolf20"
+	task.42F2038763A578EA.title: "Smart cables"
 	task.42F282D144BDE847.title: "Storage!"
 	task.43A963B1CF474EE6.title: "Any Fluid Pump"
 	task.43CB1C4E1E8F0D33.title: "Build that spaghetti!"
 	task.467CAFDA51DC3CEB.title: "Tip #3"
+	task.48D15AB9A44B5ED5.title: "Example setup"
+	task.4996655B4D4EAC13.title: "Anvil"
 	task.4B95D6163A48C9E4.title: "Any Elevator"
+	task.4BCD3E3224791871.title: "Visit the Overworld"
 	task.4C16ECE209685FC4.title: "Any #c:exaltedcrafter/tier/1"
+	task.4C26EB3A3558B59F.title: "Dense smart cable"
+	task.4CC4125F5D13EE52.title: "Extended Pattern Provider"
 	task.4D77CB9540DD7B51.title: "Get a Reed Bee"
 	task.4E9AE9FE668879AE.title: "Redstone toggle"
 	task.4EC999DC78E9CD60.title: "Mod created by: &6Soaryn"
@@ -3212,6 +4590,7 @@
 	task.5E777A42A4FB1ACF.title: "Auto breeder"
 	task.5F2B50571D656D90.title: "Get a Yellow Carpenter"
 	task.626F3BAAA66A2EAF.title: "Get a Glowing Bee"
+	task.6489568C7727BEFF.title: "A chest"
 	task.67FBA25503EC3D7D.title: "Temper"
 	task.68C325C0E97237A0.title: "Get a Magmatic Bee"
 	task.691A27B0C3409C91.title: "Black and white"
@@ -3226,6 +4605,9 @@
 	task.7C08B407252955A8.title: "Let's start to bee a beeliver"
 	task.7C17B430B816FFEF.title: "Genes"
 	task.7C3792BD4D5B2D27.title: "Get a Sweat Bee"
+	task.7EE476C64BEBFF8A.title: "Covered fluix cables"
+	task.7EF02B6515415F76.title: "Fluix cable"
+	task.7F3470F9BE65E9F9.title: "Wrenches"
 	task.7F5D760B4E0FF776.title: "Distributor"
 	task.7F5F3877B6F33DF7.title: "Get a Blue Banded Bee"
 }

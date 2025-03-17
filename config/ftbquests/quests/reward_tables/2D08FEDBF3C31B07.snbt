@@ -6,9 +6,30 @@
 	loot_size: 1
 	order_index: 7
 	rewards: [
-		{ count: 4, item: { count: 1, id: "minecraft:copper_ingot" } }
-		{ count: 2, item: { count: 1, id: "minecraft:copper_block" } }
-		{ count: 2, item: { count: 1, id: "minecraft:chest" } }
+		{
+			count: 4
+			id: "1BAFB1B58CC5C3EB"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 2
+			id: "2D4E986528606721"
+			item: {
+				count: 1
+				id: "minecraft:copper_block"
+			}
+		}
+		{
+			count: 2
+			id: "22C10E025C97296F"
+			item: {
+				count: 1
+				id: "minecraft:chest"
+			}
+		}
 	]
 	use_title: true
 }

@@ -3,122 +3,39 @@ This script is property of Catalyst Studios for use in the modpack Little Bit La
 It cannot be used or modified outside of Catalyst Studios without explicit permission from Catalyst Studios.
 */
 
-ServerEvents.recipes( catalyst => {
+ServerEvents.recipes(catalyst => {
+    function FixSeed(seedbase, output, input, essence) {
+        catalyst.remove({ output: output })
 
-    //Wood Seed
-    catalyst.remove({ output: 'mysticalagriculture:wood_seeds' });
+        catalyst.custom({
+            type: 'mysticalagriculture:infusion',
+            input: { item: seedbase },
+            ingredients: [
+                { item: essence }, { tag: input },
+                { item: essence }, { tag: input },
+                { item: essence }, { tag: input },
+                { item: essence }, { tag: input }
+            ],
+            result: { id: output }
+        });
+    }
 
-    catalyst.custom({
-        type: 'mysticalagriculture:infusion',
-        input: { item: 'mysticalagriculture:prosperity_seed_base' },
-        ingredients: [
-        { item: 'mysticalagriculture:inferium_essence' },
-        { tag: 'minecraft:logs' },
-        { item: 'mysticalagriculture:inferium_essence' },
-        { tag: 'minecraft:logs' },
-        { item: 'mysticalagriculture:inferium_essence' },
-        { tag: 'minecraft:logs' },
-        { item: 'mysticalagriculture:inferium_essence' },
-        { tag: 'minecraft:logs' }
-        ],
-        result: { id: 'mysticalagriculture:wood_seeds' }
-    })
+    const seeds = [
+        ['mysticalagriculture:wood_seeds', 'minecraft:logs', 'mysticalagriculture:inferium_essence'],
+        ['mysticalagriculture:rubber_seeds', 'c:rubber', 'mysticalagriculture:prudentium_essence'],
+        ['mysticalagriculture:silicon_seeds', 'c:silicon', 'mysticalagriculture:prudentium_essence'],
+        ['mysticalagriculture:sulfur_seeds', 'c:dusts/sulfur', 'mysticalagriculture:prudentium_essence'],
+        ['mysticalagriculture:steel_seeds', 'c:ingots/steel', 'mysticalagriculture:imperium_essence'],
+        ['mysticalagriculture:saltpeter_seeds', 'c:dusts/niter', 'mysticalagriculture:prudentium_essence']
+        ['mysticalagriculture:tin_seeds', 'c:ingots/tin', 'mysticalagriculture:tertium_essence']
+    ];
 
-    //Rubber Seed
-    catalyst.remove({ output: 'mysticalagriculture:rubber_seeds' });
-
-    catalyst.custom({
-        type: 'mysticalagriculture:infusion',
-        input: { item: 'mysticalagriculture:prosperity_seed_base' },
-        ingredients: [
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:rubber' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:rubber' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:rubber' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:rubber' }
-        ],
-        result: { id: 'mysticalagriculture:rubber_seeds' }
-    })
-
-    //Silicon Seed
-    catalyst.remove({ output: 'mysticalagriculture:silicon_seeds' });
-
-    catalyst.custom({
-        type: 'mysticalagriculture:infusion',
-        input: { item: 'mysticalagriculture:prosperity_seed_base' },
-        ingredients: [
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:silicon' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:silicon' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:silicon' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:silicon' }
-        ],
-        result: { id: 'mysticalagriculture:silicon_seeds' }
-    })
-
-    //Sulfur Seed
-    catalyst.remove({ output: 'mysticalagriculture:sulfur_seeds' });
-
-    catalyst.custom({
-        type: 'mysticalagriculture:infusion',
-        input: { item: 'mysticalagriculture:prosperity_seed_base' },
-        ingredients: [
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:dusts/sulfur' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:dusts/sulfur' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:dusts/sulfur' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:dusts/sulfur' }
-        ],
-        result: { id: 'mysticalagriculture:sulfur_seeds' }
-    })
-
-    //Steel Seed (added this one due to Oritech adding a variation of steel)
-    catalyst.remove({ output: 'mysticalagriculture:steel_seeds' });
-
-    catalyst.custom({
-        type: 'mysticalagriculture:infusion',
-        input: { item: 'mysticalagriculture:prosperity_seed_base' },
-        ingredients: [
-        { item: 'mysticalagriculture:imperium_essence' },
-        { tag: 'c:ingots/steel' },
-        { item: 'mysticalagriculture:imperium_essence' },
-        { tag: 'c:ingots/steel' },
-        { item: 'mysticalagriculture:imperium_essence' },
-        { tag: 'c:ingots/steel' },
-        { item: 'mysticalagriculture:imperium_essence' },
-        { tag: 'c:ingots/steel' }
-        ],
-        result: { id: 'mysticalagriculture:steel_seeds' }
-    })
-
-    //Saltpeter / Niter Seed (Not a fix, but recipe was not avaible)
-    catalyst.custom({
-        type: 'mysticalagriculture:infusion',
-        input: { item: 'mysticalagriculture:prosperity_seed_base' },
-        ingredients: [
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:dusts/niter' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:dusts/niter' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:dusts/niter' },
-        { item: 'mysticalagriculture:prudentium_essence' },
-        { tag: 'c:dusts/niter' }
-        ],
-        result: { id: 'mysticalagriculture:saltpeter_seeds' }
+    seeds.forEach(([output, input, essence]) => {
+        FixSeed('mysticalagriculture:prosperity_seed_base', output, input, essence);
     })
 })
-
-/* 
-This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.
-It cannot be used or modified outside of Catalyst Studios without explicit permission from Catalyst Studios.
-*/
+    
+    /* 
+    This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.
+    It cannot be used or modified outside of Catalyst Studios without explicit permission from Catalyst Studios.
+    */

@@ -7,6 +7,48 @@
 		id: "pipez:item_pipe"
 	}
 	id: "4143A153EDB194E8"
+	images: [
+		{
+			height: 1.0d
+			image: "pipez:item/basic_upgrade"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "pipez:item/improved_upgrade"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "pipez:item/advanced_upgrade"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.25d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "pipez:item/ultimate_upgrade"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "pipez:item/infinity_upgrade"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -7.5d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -16,11 +58,24 @@
 				id: "pipez:basic_upgrade"
 			}
 			id: "0A570D70294358D0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2AF50AACDC7E26AA"
+					table_id: 9216373706976638130L
+					type: "random"
+				}
+				{
+					id: "08F7345221967F07"
+					type: "xp"
+					xp: 25
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
-				id: "35CFE85DC0EFAD99"
-				item: { count: 1, id: "pipez:basic_upgrade" }
+				id: "1E47C172683FD047"
+				item: { components: { "ftbfiltersystem:filter": "or(item(pipez:basic_upgrade)item(pipez:improved_upgrade)item(pipez:advanced_upgrade)item(pipez:ultimate_upgrade))", "minecraft:custom_name": "\"Any Pipe Upgrade\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -9.25d
@@ -32,6 +87,19 @@
 				id: "minecraft:paper"
 			}
 			id: "7BCDEFB84468CC16"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7255162CDFB7813F"
+					table_id: 9216373706976638130L
+					type: "random"
+				}
+				{
+					id: "4781EEE8AC67CC19"
+					type: "xp"
+					xp: 15
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -50,6 +118,11 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "4EBBDA15BC54E844"
+			rewards: [{
+				id: "4BED50B8B991920D"
+				type: "xp"
+				xp: 15
+			}]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -70,11 +143,29 @@
 				id: "pipez:universal_pipe"
 			}
 			id: "4FC8545E47191D01"
+			rewards: [
+				{
+					count: 4
+					id: "295B5B5EA10BE951"
+					item: {
+						count: 1
+						id: "pipez:universal_pipe"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "1135C623D8889F58"
+					type: "xp"
+					xp: 20
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
-				id: "7C5E1F4C57BA74ED"
-				type: "checkmark"
+				id: "2408F1C6346CE0BC"
+				item: { count: 1, id: "pipez:universal_pipe" }
+				type: "item"
 			}]
 			x: -11.25d
 			y: -6.0d
@@ -82,6 +173,23 @@
 		{
 			dependencies: ["3D394FEA4D7724C6"]
 			id: "34A001109ABA014F"
+			rewards: [
+				{
+					count: 6
+					id: "24050B01C225862A"
+					item: {
+						count: 1
+						id: "pipez:gas_pipe"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "4377F98431CD0731"
+					type: "xp"
+					xp: 15
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -95,6 +203,23 @@
 		{
 			dependencies: ["3D394FEA4D7724C6"]
 			id: "41808246B6D14D0A"
+			rewards: [
+				{
+					count: 6
+					id: "748235DB28D17CAA"
+					item: {
+						count: 1
+						id: "pipez:item_pipe"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "3CD245C3D7024839"
+					type: "xp"
+					xp: 15
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -108,6 +233,23 @@
 		{
 			dependencies: ["3D394FEA4D7724C6"]
 			id: "0C6B960703FA685F"
+			rewards: [
+				{
+					count: 6
+					id: "66E068EB8A74C4C0"
+					item: {
+						count: 1
+						id: "pipez:energy_pipe"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "71FC976DB0F5F7B7"
+					type: "xp"
+					xp: 15
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -121,6 +263,23 @@
 		{
 			dependencies: ["3D394FEA4D7724C6"]
 			id: "7A997E9003EA92FC"
+			rewards: [
+				{
+					count: 6
+					id: "2C3B11E290F307EB"
+					item: {
+						count: 1
+						id: "pipez:fluid_pipe"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "399DC5B605C3EF0A"
+					type: "xp"
+					xp: 15
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -134,6 +293,11 @@
 		{
 			dependencies: ["556E67EC57457744"]
 			id: "3D394FEA4D7724C6"
+			rewards: [{
+				id: "135C0C2BD0876B7D"
+				type: "xp"
+				xp: 25
+			}]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -147,6 +311,19 @@
 		{
 			dependencies: ["7BCDEFB84468CC16"]
 			id: "18996DFF949E4494"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3215CE269838D0ED"
+					table_id: 9216373706976638130L
+					type: "random"
+				}
+				{
+					id: "0050735B343C25D2"
+					type: "xp"
+					xp: 15
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -160,25 +337,30 @@
 		{
 			icon: {
 				components: {
-					"ftbquests:icon": "fancymenu:textures/not_allowed.png"
+					"ftbquests:icon": "ftbfiltersystem:textures/gui/sprites/info.png"
 				}
 				id: "ftbquests:custom_icon"
 			}
 			id: "2AC25C2A0F0A8043"
 			invisible: true
 			optional: true
-			shape: "diamond"
+			shape: "gear"
 			size: 1.5d
 			tasks: [{
 				id: "0CF760A50E5706B4"
 				type: "checkmark"
 			}]
-			x: -11.214285714285715d
-			y: -8.232142857142854d
+			x: -11.25d
+			y: -3.0d
 		}
 		{
 			dependencies: ["7BCDEFB84468CC16"]
 			id: "62D20F94DACD2B85"
+			rewards: [{
+				id: "50DC68008648F212"
+				type: "xp"
+				xp: 15
+			}]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -194,6 +376,21 @@
 				id: "minecraft:redstone_torch"
 			}
 			id: "312BA63EB275D0B0"
+			rewards: [
+				{
+					id: "4BD93FE12BE9C81A"
+					item: {
+						count: 1
+						id: "minecraft:lever"
+					}
+					type: "item"
+				}
+				{
+					id: "2396FA2CB0E64810"
+					type: "xp"
+					xp: 15
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [{
@@ -204,9 +401,20 @@
 			y: -6.75d
 		}
 		{
+			icon: {
+				components: {
+					"ftbquests:icon": "pneumaticcraft:textures/gui/icon/gui_warning.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "556E67EC57457744"
+			rewards: [{
+				id: "64A06E013260932E"
+				type: "xp"
+				xp: 15
+			}]
 			shape: "diamond"
-			size: 1.5d
+			size: 1.4d
 			tasks: [{
 				id: "5D4A0DF2454176ED"
 				type: "checkmark"

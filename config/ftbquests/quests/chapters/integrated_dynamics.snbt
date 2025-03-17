@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "integrated_dynamics"
 	group: "799C57E4146F24A8"
+	icon: {
+		id: "integrateddynamics:crystalized_menril_chunk"
+	}
 	id: "1EF1D97907B804FF"
 	order_index: 10
 	quest_links: [ ]
