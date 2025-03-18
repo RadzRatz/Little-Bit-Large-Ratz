@@ -62,7 +62,7 @@ CreatePort('modular_machinery_reborn:fluidoutputhatch_huge','modular_machinery_r
 CreatePort('modular_machinery_reborn:fluidoutputhatch_ludicrous','modular_machinery_reborn:fluidoutputhatch_vacuum','pipez:ultimate_upgrade','mekanism:ultimate_fluid_tank','mekanism:ultimate_mechanical_pipe')
 //vent
 CreatePort("minecraft:redstone_block",'modular_machinery_reborn:casing_vent',"modular_machinery_reborn:casing_plain",'stevescarts:component_cleaning_fan','stevescarts:component_cleaning_fan')
-
+CreatePort("minecraft:paper",'modular_machinery_reborn:blueprint',"modular_machinery_reborn:casing_plain","minecraft:blue_dye",'minecraft:blue_dye')
 
 
 
