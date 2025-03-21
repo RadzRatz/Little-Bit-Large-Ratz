@@ -33,6 +33,27 @@ ServerEvents.tags('item', catalyst => {
 
     //Rubber Tag
     catalyst.add('c:rubber', 'industrialforegoing:dryrubber')
+
+    //Fix for Boon of Earth enchant dropping non generated ores
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:fluorite_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:osmium_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:tin_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:uranium_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:lead_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'immersiveengineering:ore_lead')
+    catalyst.remove('c:ores_in_ground/stone', 'immersiveengineering:ore_aluminum')
+    catalyst.remove('c:ores_in_ground/stone', 'immersiveengineering:ore_silver')
+    catalyst.remove('c:ores_in_ground/stone', 'immersiveengineering:ore_uranium')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:lead_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:nickel_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:sulfur_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:silver_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:tin_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:zinc_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'xycraft:aluminum_ore_stone')
+    catalyst.remove('c:ores_in_ground/stone', 'energizedpower:tin_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'create:zinc_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'eternalores:plutonium_ore_block')
 })
 
 //block tags
@@ -55,6 +76,27 @@ ServerEvents.tags('block', catalyst => {
     buds_move("geore:budding_sapphire"),
     buds_move("geore:budding_topaz")
     catalyst.removeAll('productivebees:untickable')
+
+    //Fix for Boon of Earth enchant dropping non generated ores
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:fluorite_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:osmium_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:tin_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:uranium_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'mekanism:lead_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'immersiveengineering:ore_lead')
+    catalyst.remove('c:ores_in_ground/stone', 'immersiveengineering:ore_aluminum')
+    catalyst.remove('c:ores_in_ground/stone', 'immersiveengineering:ore_silver')
+    catalyst.remove('c:ores_in_ground/stone', 'immersiveengineering:ore_uranium')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:lead_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:nickel_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:sulfur_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:silver_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:tin_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'railcraft:zinc_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'xycraft:aluminum_ore_stone')
+    catalyst.remove('c:ores_in_ground/stone', 'energizedpower:tin_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'create:zinc_ore')
+    catalyst.remove('c:ores_in_ground/stone', 'eternalores:plutonium_ore_block')
     });
 
 /* 
