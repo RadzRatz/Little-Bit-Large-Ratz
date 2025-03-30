@@ -21,7 +21,7 @@
 		{
 			dependency: "781D98EE5538B3F8"
 			height: 25.0d
-			image: "kubejs:textures/quest_images/occultism/sigil2.png"
+			image: "catalyst:textures/quest_images/occultism/sigil2.png"
 			order: -6
 			rotation: 0.0d
 			width: 25.0d
@@ -30,7 +30,7 @@
 		}
 		{
 			height: 5.419664268585132d
-			image: "kubejs:textures/quest_images/occultism/logo.png"
+			image: "catalyst:textures/quest_images/occultism/logo.png"
 			order: 2
 			rotation: 0.0d
 			width: 20.0d
@@ -120,7 +120,7 @@
 		{
 			dependency: "781D98EE5538B3F8"
 			height: 25.0d
-			image: "kubejs:textures/quest_images/occultism/sigil2.png"
+			image: "catalyst:textures/quest_images/occultism/sigil2.png"
 			order: -6
 			rotation: 180.0d
 			width: 25.0d
@@ -128,7 +128,7 @@
 			y: -3.1547619047619477d
 		}
 	]
-	order_index: 5
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{

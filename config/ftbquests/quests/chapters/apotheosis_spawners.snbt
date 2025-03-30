@@ -9,6 +9,7 @@
 	id: "136E858245C7C7AD"
 	images: [
 		{
+			click: "Catalyst Studios"
 			height: 2.0d
 			image: "ftbquests:block/barrier"
 			rotation: 0.0d
@@ -17,7 +18,8 @@
 			y: 0.0d
 		}
 		{
-			color: 14277081
+			click: "Catalyst Studios"
+			color: 15066597
 			height: 1.75d
 			image: "minecraft:textures/gui/sprites/advancements/challenge_frame_unobtained.png"
 			rotation: 0.0d
@@ -32,14 +34,15 @@
 				"Apothic Spawners"
 				"by Shadows_of_fire!"
 			]
-			image: "kubejs:textures/quest_images/apotheosis/apoth_spawn_logo.png"
+			image: "catalyst:textures/quest_images/apotheosis/apoth_spawn_logo.png"
 			rotation: 0.0d
 			width: 2.5d
-			x: -5.0d
-			y: -3.5d
+			x: -4.95d
+			y: -3.4499999999999997d
 		}
 	]
-	order_index: 2
+	order_index: 1
+	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
@@ -67,13 +70,13 @@
 				}
 			]
 			shape: "gear"
-			size: 1.3d
+			size: 1.4d
 			tasks: [{
 				id: "0B2FDBB706D9332E"
 				item: { count: 1, id: "minecraft:spawner" }
 				type: "item"
 			}]
-			x: -5.2d
+			x: -5.25d
 			y: 0.0d
 		}
 		{
@@ -127,6 +130,7 @@
 				}
 			]
 			shape: "diamond"
+			size: 1.2d
 			tasks: [{
 				id: "286D96CF6E157C5C"
 				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:sugar)item(minecraft:clock)item(minecraft:turtle_egg)item(minecraft:piston)item(minecraft:fermented_spider_eye)item(minecraft:comparator)item(minecraft:prismarine_crystals)item(minecraft:ghast_tear)item(minecraft:chorus_fruit)item(minecraft:pointed_dripstone)item(minecraft:nether_star)item(minecraft:echo_shard)item(minecraft:conduit)item(minecraft:soul_lantern)item(minecraft:campfire)item(minecraft:white_wool))", "minecraft:custom_name": "\"Any Spawner Modifier\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -592,6 +596,25 @@
 				type: "advancement"
 			}]
 			x: 4.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbfiltersystem:textures/gui/sprites/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7D421F7F44B98A4F"
+			invisible: true
+			optional: true
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "344E4E56AFBFE1C7"
+				type: "checkmark"
+			}]
+			x: -6.975d
 			y: 0.0d
 		}
 	]

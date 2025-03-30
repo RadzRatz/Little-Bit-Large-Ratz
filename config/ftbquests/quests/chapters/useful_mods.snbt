@@ -13,7 +13,7 @@
 	images: [
 		{
 			height: 4.0d
-			image: "catalyst:textures/quest_images/useful_mods.png"
+			image: "catalyst:textures/quest_images/useful_mods/useful_mods.png"
 			order: 1
 			rotation: 0.0d
 			width: 16.0d
@@ -1423,10 +1423,7 @@
 			dependencies: ["77E4F1F6EEB85DBA"]
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "kubejs:tiny_coal"
-				}
-				id: "ftbquests:missing_item"
+				id: "utilitarian:tiny_coal"
 			}
 			id: "6A1F6F3694025B4A"
 			optional: true
@@ -1436,8 +1433,8 @@
 				xp: 100
 			}]
 			tasks: [{
-				id: "2BA2DDA7A593DB10"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:fueltype/tinycoals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "0F9F99806EBAA7D0"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(actuallyadditions:tiny_coals)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 1.0d

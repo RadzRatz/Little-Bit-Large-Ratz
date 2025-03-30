@@ -9,5 +9,19 @@
 	id: "248AEB260B45DF6D"
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		id: "62CC194BBD63D669"
+		rewards: [{
+			id: "64E7D38948459252"
+			type: "xp"
+			xp: 100
+		}]
+		shape: "heart"
+		tasks: [{
+			id: "1D4A8281FE09FEBB"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
 }
