@@ -26,15 +26,18 @@ ServerEvents.recipes(catalyst => {
         ['mysticalagriculture:silicon_seeds', 'c:silicon', 'mysticalagriculture:prudentium_essence'],
         ['mysticalagriculture:sulfur_seeds', 'c:dusts/sulfur', 'mysticalagriculture:prudentium_essence'],
         ['mysticalagriculture:steel_seeds', 'c:ingots/steel', 'mysticalagriculture:imperium_essence'],
-        ['mysticalagriculture:saltpeter_seeds', 'c:gems/niter', 'mysticalagriculture:prudentium_essence'],
+        ['mysticalagriculture:saltpeter_seeds', 'c:dusts/niter', 'mysticalagriculture:prudentium_essence'],
         ['mysticalagriculture:tin_seeds', 'c:ingots/tin', 'mysticalagriculture:tertium_essence'],
         ['mysticalagriculture:uraninite_seeds', 'c:ingots/uraninite', 'mysticalagriculture:supremium_essence']
-    ];
+    ]
 
     seeds.forEach(([output, input, essence]) => {
         FixSeed('mysticalagriculture:prosperity_seed_base', output, input, essence);
-    })
-})
+    }
+)
+
+    }
+)
     
     /* 
     This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.

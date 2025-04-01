@@ -118,7 +118,7 @@
 			id: "192F4C30046747CA"
 			tasks: [{
 				id: "59BFDB47F4003D7E"
-				item: { count: 1, id: "mekanism:ingot_steel" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:ingots/steel)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -128,7 +128,7 @@
 			id: "5373A323C5EDCC0C"
 			tasks: [{
 				id: "4F955C457D611108"
-				item: { count: 1, id: "mekanism:ingot_osmium" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:ingots/osmium)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.0d

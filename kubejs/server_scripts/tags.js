@@ -14,10 +14,6 @@ ServerEvents.tags('item', catalyst => {
     catalyst.add('c:block/fluidpump', 'rangedpumps:pump')
     catalyst.add('c:block/fluidpump', 'energizedpower:fluid_pump')
     catalyst.add('c:block/fluidpump', 'xycraft_machines:hydro_pump')
-    
-    //Tiny (Char)Coal
-    catalyst.add('c:fueltype/tinycoals', 'kubejs:tiny_charcoal')
-    catalyst.add('c:fueltype/tinycoals', 'kubejs:tiny_coal')
 
     //Jetpacks
     catalyst.add('c:creativeflytype/jetpack', 'mekanism:jetpack')
@@ -54,7 +50,27 @@ ServerEvents.tags('item', catalyst => {
     catalyst.remove('c:ores_in_ground/stone', 'energizedpower:tin_ore')
     catalyst.remove('c:ores_in_ground/stone', 'create:zinc_ore')
     catalyst.remove('c:ores_in_ground/stone', 'eternalores:plutonium_ore_block')
-})
+
+    let saptag = (saplings) => { catalyst.add('minecraft:saplings', saplings)}
+    saptag('productivetrees:black_ember_sapling')
+    saptag('productivetrees:brown_amber_sapling')
+    saptag('productivetrees:cave_dweller_sapling')
+    saptag('productivetrees:firecracker_sapling')
+    saptag('productivetrees:flickering_sun_sapling')
+    saptag('productivetrees:foggy_blast_sapling')
+    saptag('productivetrees:night_fuchsia_sapling')
+    saptag('productivetrees:purple_spiral_sapling')
+    saptag('biomesoplenty:red_maple_sapling')
+    saptag('productivetrees:rippling_willow_sapling')
+    saptag('productivetrees:slimy_delight_sapling')
+    saptag('productivetrees:soul_tree_sapling')
+    saptag('productivetrees:sparkle_cherry_sapling')
+    saptag('productivetrees:thunder_bolt_sapling')
+    saptag('productivetrees:time_traveller_sapling')
+    saptag('productivetrees:blue_yonder_sapling')
+    saptag('productivetrees:water_wonder_sapling')
+    }
+)
 
 //block tags
 ServerEvents.tags('block', catalyst => {
@@ -97,7 +113,8 @@ ServerEvents.tags('block', catalyst => {
     catalyst.remove('c:ores_in_ground/stone', 'energizedpower:tin_ore')
     catalyst.remove('c:ores_in_ground/stone', 'create:zinc_ore')
     catalyst.remove('c:ores_in_ground/stone', 'eternalores:plutonium_ore_block')
-    });
+    }
+)
 
 /* 
 This script is property of Catalyst Studios for use in the modpack Little Bit Large. It is under the All Rights Reserved license.

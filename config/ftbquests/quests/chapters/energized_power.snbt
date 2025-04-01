@@ -3,8 +3,25 @@
 	default_quest_shape: ""
 	filename: "energized_power"
 	group: "799C57E4146F24A8"
+	icon: {
+		id: "energizedpower:energized_copper_ingot"
+	}
 	id: "558E65AB78354674"
 	order_index: 5
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		id: "595C57935DCCD08E"
+		rewards: [{
+			id: "0E2406F9F78A47FA"
+			type: "xp"
+			xp: 100
+		}]
+		shape: "heart"
+		tasks: [{
+			id: "666768BA0EABF53F"
+			type: "checkmark"
+		}]
+		x: -0.5d
+		y: 0.0d
+	}]
 }

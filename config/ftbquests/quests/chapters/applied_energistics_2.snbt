@@ -15,7 +15,7 @@
 			icon: {
 				id: "ae2:charged_certus_quartz_crystal"
 			}
-			id: "338CC8C7E220FC3A"
+			id: "02286BA0F16600B1"
 			rewards: [{
 				id: "4C331976C01E5C1F"
 				item: {
@@ -4105,6 +4105,8 @@
 			id: "0D052E525AAEE0E2"
 			invisible: true
 			optional: true
+			shape: "gear"
+			size: 1.5d
 			tasks: [{
 				id: "243EE84DA3559841"
 				type: "checkmark"

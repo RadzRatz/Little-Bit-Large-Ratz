@@ -11,7 +11,7 @@
 	images: [
 		{
 			height: 3.0d
-			image: "kubejs:textures/quest_images/pneumaticcraft_repressurized/logo.png"
+			image: "catalyst:textures/quest_images/pneumaticcraft_repressurized/logo.png"
 			rotation: 0.0d
 			width: 12.533333333333335d
 			x: -1.0d
